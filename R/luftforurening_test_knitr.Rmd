@@ -1,0 +1,63 @@
+---
+title: "Luftforurening"
+author: "CMF"
+date: "27 feb 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Luftforurening - Københavns Kommune
+
+Kilde: http://data.kk.dk/dataset/luftforurening
+
+***
+
+H.C. Andersens Boulevard/1103: Gadestation (12o34'20" E, 55o40'30'' N).
+
+Målt på gadeniveau (på stærkt trafikerede gader).
+
+Den trafik-orienterede station (station nr. 1103) er placeret på nordsiden af en 6 sporet gade. På begge sider af hovedgaden er der parkering langs med parallelle sidegader og fortove. På Nordsiden er der 5-6 etagers beboelsesejendomme, der bl.a huser den kommunale administration, medens der på den modsatte side ligger en forlystelsespark med træer og lave bygninger. Trafiktætheden er på omkring 70.000 motorkøretøjer om dagen.
+
+***
+Data måles med automatiske instrumenter og opdateres hver time.
+
+Stofliste: NO2: Kvælstofdioxid, NOx: Kvælstofoxider, CO: Kulmonoxid, O3: Ozon, PM10: Partikler mindre end 10 µm *), PM25: Partikler mindre end 2,5 µm *), SO2: Svovldioxid, Ben: Benzen, Tol: Toluen.
+
+Enheder: µg/m3, dog NOx: µg(NO2)/m3 og CO: mg/m3.
+
+Data kontrolleres automatisk, men der er ikke foretaget afsluttende kontrol - der tages derfor forbehold mht. de nøjagtige værdier. Målt med: *) TEOM metoden.
+
+Mere information kan findes hos Institut for Miljøvidenskab.
+
+
+***
+
+
+# Hent data og vis de første rækker
+
+```{r}
+mydata <- read.csv("~/GitHub/kk_data/Luftforurening/HC-Andersens-Boulevard.csv_rev_mod.csv")
+head(mydata)
+```
+
+
+Vis summary:
+
+```{r}
+summary(mydata)
+```
+
+# Boxplot
+
+
+```{r}
+boxplot(NO2myg.m3~TidsKategori,mydata)
+```
+
+
+
+
+
