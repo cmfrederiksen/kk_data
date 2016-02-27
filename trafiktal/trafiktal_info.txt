@@ -1,0 +1,9 @@
+Trafiktal
+
+Tællesteder med data for den gennemsnitlige trafik på et helt døgn for både cykler og biler (såkaldt årsdøgnstrafik). Der er 450 steder i byen, hvor trafikken løbende tælles. Data fra 2008-2012 i Københavns Kommune.
+
+ÅDT er Årsdøgnstrafik, som er den gennemsnitligelige trafik pr. døgn for hele året inklusiv weekender og helligedage.
+
+HVDT er Hverdagsdøgnstrafik, som er den gennemsnitlige trafik på et hverdagsdøgn.
+
+Der tælles kun kl. 7-19, men for at få et helt døgns trafik ganges henholdsvis en ÅDT-faktor og HVDT-faktor.
