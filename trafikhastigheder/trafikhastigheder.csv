@@ -1,0 +1,3461 @@
+ID,bydel,vejid,vejnavn,frastation,tilstation,hastighed,anb_hastig
+7376,Vanløse,1016100000000,Rødkildevej,187,478,50,0
+7377,Indre By,1016676000000,Sofiegade,0,204,40,0
+7378,Vanløse,1011824000000,Flinterupvej,0,188,50,0
+7380,Nørrebro,1012814000000,Henrik Pontoppidans Vej,0,162,50,0
+7381,Vesterbro-Kongens Enghave,1017888800000,Wagnersvej,278,518,40,0
+7382,Vanløse,1014480000000,Lyngholmvej,0,435,50,0
+7383,Brønshøj-Husum,1017792000000,Tårnholmsvej,0,152,50,0
+7385,Nørrebro,1016580020000,Slejpnersgade,0,41,50,0
+7386,Amager Vest,1014902000000,C.F. Møllers Allé,0,482,50,0
+7387,Amager Vest,1010237000000,Asger Jorns Allé,0,435,40,0
+7388,Vesterbro-Kongens Enghave,1010776000000,Boyesgade,0,141,50,0
+7389,Valby,1013708000000,Kirstinedalsvej,0,76,50,40
+7390,Vanløse,1016192000000,Saltøvej,0,136,50,0
+7391,Østerbro,1015088000000,Nyborggade,0,348,50,0
+7392,Nørrebro,1012588000000,Hans Egedes Gade,0,467,50,0
+7394,Vanløse,1012396000000,Gudenåvej,0,344,50,0
+7395,Indre By,1012074000000,Galionsvej,0,408,50,0
+7396,Østerbro,1015332000000,Otto Mallings Gade,0,124,40,0
+7397,Bispebjerg,1017144000000,Svanevej,0,428,40,0
+7398,Vanløse,1012308000000,Grysgårdsvej,0,202,50,0
+7399,Vanløse,1017752000000,Tyttebærvej,0,149,50,30
+7401,Amager Øst,1018104000000,Ved Sønderport,0,280,50,0
+7402,Østerbro,1016388300000,Silkeborg Plads,0,64,50,0
+6755,Amager Øst,1017604000000,Tovelillevej,545,625,15,0
+7403,Amager Vest,1010848000000,Bristol Allé,0,260,50,0
+7404,Vanløse,1011398020000,Dysseager,0,64,50,0
+7406,Valby,1011864000000,Folehaven,0,1468,60,0
+7407,Vesterbro-Kongens Enghave,1015240000000,Oehlenschlægersgade,341,497,50,0
+7408,Vesterbro-Kongens Enghave,1015240000000,Oehlenschlægersgade,497,640,50,30
+7409,Vesterbro-Kongens Enghave,1015240000000,Oehlenschlægersgade,640,763,50,0
+7472,Brønshøj-Husum,1015632000000,Præstegårds Allé,425,771,50,30
+7473,Brønshøj-Husum,1013108000000,Hvedevej,435,677,50,30
+7474,Brønshøj-Husum,1012504000000,Gåseurtvej,181,292,50,30
+7475,Brønshøj-Husum,1010940000000,Brønshøj Kirkevej,128,778,50,30
+7476,Bispebjerg,1014836000000,Mosesvinget,50,845,40,30
+7477,Bispebjerg,1014836000000,Mosesvinget,845,1219,40,0
+7478,Bispebjerg,1014836000000,Mosesvinget,1219,1406,40,0
+7479,Brønshøj-Husum,1014524000000,Lærkebakken,95,172,40,30
+7480,Bispebjerg,1013024000000,Horsebakken,855,1093,40,0
+7481,Bispebjerg,1011328000000,Drejervej,74,112,50,40
+7482,Bispebjerg,1011328000000,Drejervej,112,275,50,0
+7483,Valby,1013216000000,Højsagervej,138,313,50,40
+7484,Valby,1013216000000,Højsagervej,313,408,50,0
+7485,Valby,1013180000000,Højbovej,250,301,50,40
+7486,Valby,1013180000000,Højbovej,301,466,50,0
+7487,Vesterbro-Kongens Enghave,1014036000000,Kvægtorvsgade,146,190,50,0
+7488,Vesterbro-Kongens Enghave,1012544320H00,Halmtorvet,0,80,15,0
+7489,Vesterbro-Kongens Enghave,1012544000V00,Halmtorvet,0,85,50,30
+7490,Vesterbro-Kongens Enghave,1012544300000,Halmtorvet,81,130,50,0
+7491,Vesterbro-Kongens Enghave,1012544300H00,Halmtorvet,0,228,50,0
+7492,Vesterbro-Kongens Enghave,1012544300V00,Halmtorvet,0,261,50,0
+7493,Vesterbro-Kongens Enghave,1017288000V00,Sønder Boulevard,0,1005,50,40
+7494,Vesterbro-Kongens Enghave,1012544300V00,Halmtorvet,261,569,50,40
+7495,Vesterbro-Kongens Enghave,1012544300H00,Halmtorvet,229,439,15,0
+7496,Vesterbro-Kongens Enghave,1017288000H00,Sønder Boulevard,0,24,15,0
+7497,Vesterbro-Kongens Enghave,1017288000H00,Sønder Boulevard,24,220,50,0
+7498,Vesterbro-Kongens Enghave,1017288000H00,Sønder Boulevard,220,996,50,40
+7499,Vesterbro-Kongens Enghave,1017288000V00,Sønder Boulevard,1011,1267,50,0
+7500,Vesterbro-Kongens Enghave,1017288000H00,Sønder Boulevard,1002,1248,50,0
+7541,Amager Øst,1016196000000,Samosvej,0,568,50,30
+7504,Amager Vest,1013300000000,Islands Brygge,0,820,40,0
+7822,Amager Øst,1016996000000,Strandlodsvej,0,1479,50,40
+7505,Amager Vest,1013300000000,Islands Brygge,0,820,50,0
+5929,Amager Øst,1018370000000,Vindmøllevej,0,1041,50,0
+7542,Amager Øst,1016196000000,Samosvej,0,568,40,30
+4601,Indre By,1013418000000,Johan Semps Gade,0,129,40,0
+7543,Vesterbro-Kongens Enghave,1017212000000,Sydhavnsgade,0,773,70,0
+7823,Amager Øst,1016996000000,Strandlodsvej,0,1479,50,0
+7544,Vesterbro-Kongens Enghave,1017212000000,Sydhavnsgade,0,773,60,0
+7548,Nørrebro,1016740000000,Sortedam Dossering,498,1585,50,0
+7550,Valby,1011634000000,Erik Ballings Vej,0,69,50,0
+7551,Valby,1011634000000,Erik Ballings Vej,0,69,15,0
+7552,Indre By,1011936000000,Frederiksborggade,0,163,15,0
+7553,Indre By,1011936000000,Frederiksborggade,0,163,40,0
+7410,Vesterbro-Kongens Enghave,1017924000000,Valdemarsgade,374,759,50,0
+7413,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,970,1100,50,30
+7414,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,1100,1190,50,0
+7415,Vesterbro-Kongens Enghave,1011592000000,Enghavevej,1046,2189,60,0
+7416,Vesterbro-Kongens Enghave,1011476000000,Ejderstedgade,222,362,50,40
+7417,Vesterbro-Kongens Enghave,1016584000000,Slesvigsgade,135,305,50,40
+7419,Vesterbro-Kongens Enghave,1015244000000,Offenbachsvej,147,306,40,30
+7420,Vesterbro-Kongens Enghave,1017060000000,Stubmøllevej,357,440,50,0
+7358,Vesterbro-Kongens Enghave,1011260000000,Dannebrogsgade,521,569,15,0
+7034,Nørrebro,1012128000000,Gartnergade,97,162,15,0
+7411,Vesterbro-Kongens Enghave,1011588310000,Enghave Plads,181,273,0,0
+7421,Vesterbro-Kongens Enghave,1010728000000,Borgmester Christiansens Gade,82,518,40,0
+7422,Vanløse,1012160310000,Genforeningspladsen,105,444,50,0
+7423,Brønshøj-Husum,1010408000000,Bavnevangen,295,364,50,0
+5980,Amager Vest,1010232000000,Artillerivej,0,26,50,0
+7304,Østerbro,1015716000000,Randersgade,69,426,50,30
+7424,Brønshøj-Husum,1011624000000,Enigheds Allé,41,216,50,30
+7425,Brønshøj-Husum,1015892000000,Risvangen,36,313,50,30
+7426,Brønshøj-Husum,1010936000000,Brønshøjholms Allé,57,381,50,30
+7427,Brønshøj-Husum,1017056000000,Stubbevangen,183,272,50,0
+7428,Brønshøj-Husum,1011236000000,Dalvangen,57,354,50,0
+7429,Brønshøj-Husum,1015528000000,Pilesvinget,1432,1603,40,0
+7430,Brønshøj-Husum,1013744000000,Klintevej,33,696,50,0
+7431,Brønshøj-Husum,1012388000000,Gråbynkevej,109,214,50,30
+7432,Brønshøj-Husum,1012388000000,Gråbynkevej,214,381,50,0
+7433,Brønshøj-Husum,1012388000000,Gråbynkevej,381,458,50,30
+7434,Østerbro,1016792000000,Stadens Vænge,0,146,50,0
+7435,Indre By,1011120000000,Christiansborggade,0,76,50,0
+7436,Amager Vest,1013064000000,Hovmålvej,0,77,50,0
+7437,Indre By,1016276320000,Sankt Pauls Plads,0,96,40,0
+7438,Vanløse,1016112000000,Rødtjørnevej,0,435,50,30
+7124,Amager Vest,1010119010000,Amagermotorvejen,63121,63433,70,0
+7460,Vesterbro-Kongens Enghave,1010728000000,Borgmester Christiansens Gade,518,1002,50,0
+6432,Amager Vest,1013232000000,Hørhusvej,0,280,50,0
+7462,Valby,1017900000000,Valbygårdsvej,567,743,50,30
+7231,Indre By,1015368000000,Overgaden Oven Vandet,795,1018,40,30
+7439,Vesterbro-Kongens Enghave,1013272000000,Ingerslevsgade,0,1863,50,0
+7440,Valby,1012636000000,Hardenbergvej,0,159,50,30
+7442,Bispebjerg,1012034010000,Fyrbødervej,0,24,50,0
+7444,Valby,1011256000000,Danhaven,0,44,40,0
+7445,Nørrebro,1013920000000,Korsgade,0,38,50,0
+7448,Brønshøj-Husum,1013200000000,Højenhald,0,117,50,30
+7450,Amager Øst,1010952000000,Bulgariensgade,0,107,50,0
+7451,Bispebjerg,1016140000000,Rørmosevej,0,262,50,0
+7452,Indre By,1012364000000,Grønningen,0,506,50,0
+7453,Amager Vest,1017196010000,Svinget,0,263,50,0
+7455,Østerbro,1016984000000,Strandagervej,0,398,40,0
+7456,Amager Vest,1015585000000,Poul Hartlings Gade,0,117,50,0
+7457,Amager Øst,1015278000000,Oldenborggade,0,94,50,0
+7454,Vanløse,1018512000000,Æblevej,0,89,50,30
+7449,Valby,1014072070000,Kærskiftevej,0,161,50,30
+7114,Vanløse,1017536010000,Toftøjevej,0,58,50,30
+7458,Østerbro,1018160000000,Vennemindevej,0,689,50,0
+7218,Bispebjerg,1016660000000,Sneppevej,0,143,40,0
+4682,Valby,1018596000000,Østergårds Allé,0,380,40,30
+7465,Valby,1018308000000,Vigerslev Allé,1033,4047,50,0
+7466,Valby,1016516000000,Skovbogårds Allé,64,276,50,30
+7467,Valby,1017912000000,Valby Langgade,465,1243,50,40
+7468,Valby,1014824000000,Mosedalvej,59,74,50,40
+7469,Brønshøj-Husum,1014560000000,Løvetandsvej,316,550,50,0
+7470,Brønshøj-Husum,1013480000000,Kabbelejevej,287,606,50,30
+7471,Brønshøj-Husum,1015632000000,Præstegårds Allé,290,425,50,0
+4776,Østerbro,1012124000000,Gammel Vartov Vej,0,450,40,0
+7463,Valby,1017636000000,Trekronergade,448,764,50,0
+7356,Vesterbro-Kongens Enghave,1010004000000,Abel Cathrines Gade,152,262,50,30
+5733,Nørrebro,1018636000000,Åboulevard,0,961,50,0
+6658,Amager Vest,1013296000000,Isafjordsgade,0,218,50,0
+7299,Østerbro,1013008000000,Holsteinsgade,431,568,50,0
+6888,Vanløse,1017664000000,Tryggevældevej,950,1570,50,0
+7120,Amager Vest,1016096000000,Røde Mellemvej,1580,1784,50,30
+7342,Amager Vest,1014084000000,Kålagervej,0,481,50,30
+7343,Indre By,1013724000000,Klareboderne,0,98,40,0
+7344,Østerbro,1017008000000,Strandvænget,0,891,60,0
+7345,Amager Øst,1017236000000,Syriensvej,0,347,50,0
+7346,Amager Øst,1015828000000,Rialtovej,0,32,50,0
+7347,Vanløse,1011020000000,Bækkeskovvej,0,39,50,0
+7348,Østerbro,1013292000000,Irmingersgade,0,89,50,30
+7349,Brønshøj-Husum,1016968000000,Storkebakken,0,338,50,0
+7351,Østerbro,1018228000000,Vesterled,77,465,50,30
+7352,Østerbro,1017148000000,Svanevænget,254,387,50,0
+7353,Østerbro,1018600000000,Østerled,248,383,50,0
+7354,Østerbro,1016720000000,Solvænget,240,364,50,0
+7357,Vesterbro-Kongens Enghave,1014080000000,Kødboderne,66,145,20,0
+7359,Vesterbro-Kongens Enghave,1011260000000,Dannebrogsgade,569,629,50,30
+7360,Vesterbro-Kongens Enghave,1018204020000,Vesterbrogade,45,72,50,30
+7361,Vesterbro-Kongens Enghave,1018204020000,Vesterbrogade,72,108,20,0
+7362,Vesterbro-Kongens Enghave,1014684000000,Matthæusgade,115,464,50,30
+7364,Vesterbro-Kongens Enghave,1011960000000,Frederiksstadsgade,193,232,15,0
+7365,Vesterbro-Kongens Enghave,1015240000000,Oehlenschlægersgade,287,341,50,30
+7366,Brønshøj-Husum,1013824000000,Kobbelvænget,428,635,50,30
+7367,Brønshøj-Husum,1013824000000,Kobbelvænget,635,1013,50,0
+7368,Brønshøj-Husum,1016028000000,Ruten,521,1248,40,0
+7369,Brønshøj-Husum,1016028000000,Ruten,1248,1698,50,30
+7370,Brønshøj-Husum,1012890000000,Hillerødmotorvejen,6206,7135,90,0
+7371,Bispebjerg,1010760020000,Borups Allé,406,554,70,0
+7372,Vanløse,1010760070000,Borups Allé,435,581,70,0
+7373,Bispebjerg,1014920000000,Mågevej,267,903,40,0
+7374,Vanløse,1013120000000,Hvidkildevej,156,574,50,30
+7375,Vanløse,1013120000000,Hvidkildevej,574,1001,50,0
+7134,Brønshøj-Husum,1016892000000,Stenmaglevej,342,585,50,30
+6980,Indre By,1018436000000,Voldmestergade,0,143,50,15
+7135,Brønshøj-Husum,1016892000000,Stenmaglevej,585,730,50,0
+7136,Brønshøj-Husum,1012208000000,Gislingevej,100,411,50,30
+7137,Brønshøj-Husum,1013220800000,Højstrupvej,951,1940,50,0
+7219,Amager Øst,1015284000000,Oliebladsgade,0,149,50,0
+7138,Brønshøj-Husum,1014348000000,Lindholmsvej,299,596,50,30
+7139,Brønshøj-Husum,1014348000000,Lindholmsvej,596,612,50,0
+7140,Brønshøj-Husum,1016728000000,Sonnerupvej,228,499,50,30
+7300,Østerbro,1015956000000,Rosenvængets Sideallé,101,116,50,30
+7142,Amager Vest,1010232000000,Artillerivej,362,1776,40,0
+7143,Amager Vest,1010232000000,Artillerivej,1776,3086,50,0
+7177,Amager Vest,1013300000000,Islands Brygge,821,1545,50,40
+7178,Indre By,1015772000000,Refshalevej,1343,2169,50,0
+7179,Indre By,1015772000000,Refshalevej,2169,4067,50,0
+7180,Indre By,1011478000000,Ekvipagemestervej,248,330,50,15
+6615,Valby,1017520000000,Toftebakkevej,25,70,15,0
+7183,Brønshøj-Husum,1016728000000,Sonnerupvej,499,1309,50,0
+7184,Brønshøj-Husum,1013104000000,Hvalsøvej,261,676,50,0
+7185,Brønshøj-Husum,1012684000000,Havdrupvej,419,632,50,30
+7186,Brønshøj-Husum,1012684000000,Havdrupvej,632,803,50,0
+7187,Brønshøj-Husum,1012684000000,Havdrupvej,803,1122,50,30
+7188,Brønshøj-Husum,1011800000000,Fjenneslevvej,228,286,50,30
+7301,Østerbro,1015956000000,Rosenvængets Sideallé,116,145,50,0
+7302,Østerbro,1012092800000,Gammel Kalkbrænderi Vej,482,546,15,0
+7303,Østerbro,1012092800000,Gammel Kalkbrænderi Vej,546,604,50,30
+7189,Brønshøj-Husum,1010260000000,Astrupvej,130,647,50,30
+7190,Brønshøj-Husum,1010260000000,Astrupvej,647,902,50,0
+7191,Vanløse,1011020000000,Bækkeskovvej,39,390,50,30
+7192,Vanløse,1011020000000,Bækkeskovvej,390,642,50,0
+7193,Vanløse,1011020000000,Bækkeskovvej,642,738,50,30
+7195,Østerbro,1014984000000,Niels W. Gades Gade,45,75,15,0
+7198,Østerbro,1014020000000,Kuhlausgade,51,75,15,0
+7201,Østerbro,1018272000000,Weysesgade,57,81,15,0
+5915,Vesterbro-Kongens Enghave,1017352020000,Teglholmsgade,0,104,50,0
+7199,Østerbro,1014020000000,Kuhlausgade,75,148,40,0
+7200,Østerbro,1014020000000,Kuhlausgade,148,228,40,30
+7194,Østerbro,1012752000000,Heisesgade,143,229,40,30
+7202,Østerbro,1018272000000,Weysesgade,81,143,40,0
+7203,Østerbro,1018272000000,Weysesgade,143,228,40,30
+7205,Østerbro,1010468000000,Berggreensgade,84,120,15,0
+7207,Østerbro,1010468000000,Berggreensgade,170,208,15,0
+7208,Østerbro,1018160000000,Vennemindevej,689,736,40,0
+7210,Østerbro,1015108000000,Nygårdsvej,553,753,50,0
+7211,Østerbro,1011720000000,Fanøgade,176,373,40,0
+7223,Amager Vest,1011212000000,Dagøgade,0,115,50,0
+7212,Indre By,1011776000000,Fiolstræde,0,447,40,0
+7213,Amager Vest,1018541130000,Ørestads Boulevard,0,76,50,0
+7214,Amager Øst,1015588820000,Prags Boulevard,1050,1513,50,0
+7216,Indre By,1011356020000,Dronningens Tværgade,0,49,40,0
+7217,Valby,1014132020000,Langagervej,0,41,50,0
+7305,Østerbro,1015716000000,Randersgade,426,674,50,0
+7306,Østerbro,1015716000000,Randersgade,674,805,50,30
+7307,Østerbro,1015716000000,Randersgade,805,882,50,0
+6920,Amager Vest,1010824000000,Breidablik Allé,0,87,50,30
+7209,Østerbro,1015108000000,Nygårdsvej,273,553,40,0
+7308,Østerbro,1017000000000,Strandpromenaden,129,412,40,0
+7309,Østerbro,1017000000000,Strandpromenaden,412,648,50,0
+7310,Brønshøj-Husum,1015980000000,Rostgaardsvej,210,278,50,0
+7311,Brønshøj-Husum,1011280000000,Degnemose Allé,141,814,50,30
+7312,Brønshøj-Husum,1013252000000,Håbets Allé,235,681,50,30
+7313,Brønshøj-Husum,1010224000000,Arnesvej,258,483,50,30
+7314,Brønshøj-Husum,1017716000000,Tuxensvej,110,405,50,30
+7315,Bispebjerg,1011964000000,Frederikssundsvej,4870,5474,60,0
+7220,Amager Vest,1015833000000,Richard Mortensens Vej,0,810,40,0
+7222,Brønshøj-Husum,1015868000000,Ringholmvej,0,83,50,0
+7316,Brønshøj-Husum,1018644000000,Åfløjen,85,307,30,0
+7317,Brønshøj-Husum,1017532000000,Toften,78,185,50,0
+7318,Brønshøj-Husum,1013824000000,Kobbelvænget,38,208,50,30
+7319,Brønshøj-Husum,1013824000000,Kobbelvænget,208,428,50,0
+6858,Østerbro,1011246020000,Dampfærgevej,0,168,50,0
+7320,Brønshøj-Husum,1011800000000,Fjenneslevvej,0,228,50,0
+7322,Amager Øst,1014468000000,Lyneborggade,0,272,50,0
+7323,Vanløse,1010052000000,Aggervej,0,52,50,30
+7324,Valby,1013084800000,Humlehaven,91,129,40,0
+7325,Indre By,1012736000000,Heibergsgade,0,178,40,0
+7328,Vesterbro-Kongens Enghave,1011648000000,Ernst Kapers Vej,0,202,50,30
+7329,Valby,1012220000000,Gladbovej,0,105,50,0
+7330,Indre By,1015096000000,Nybrogade,0,201,40,0
+7331,Østerbro,1014236020000,Lersø Parkallé,0,498,50,0
+7332,Amager Vest,1011083000000,Carl Th. Zahlesgade,0,240,50,0
+7333,Valby,1010804000000,Bredahlsvej,0,215,50,0
+7334,Amager Øst,1010300000000,Badensgade,0,333,50,0
+7335,Bispebjerg,1011760000000,Filosofgangen,0,295,50,0
+7336,Indre By,1011420000000,Eckersbergsgade,0,169,50,15
+7338,Vesterbro-Kongens Enghave,1015996000000,Rubinsteinsvej,0,140,40,0
+7339,Indre By,1011698000000,Fabrikmestervej,0,172,50,0
+7341,Nørrebro,1016248300000,Sankt Hans Torv,0,68,50,0
+7117,Amager Vest,1018236000000,Vestermarksvej,155,176,50,0
+7225,Nørrebro,1013408000000,Jesper Brochmands Gade,0,228,50,30
+7228,Indre By,1014976000000,Niels Hemmingsens Gade,0,254,40,0
+7229,Vesterbro-Kongens Enghave,1017351000000,Teglholm Allé,0,337,50,0
+7230,Amager Vest,1012052020000,Følfodvej,0,61,50,0
+7232,Indre By,1011352000000,Dronningensgade,454,594,40,30
+7221,Valby,1011864060000,Folehaven,0,117,50,0
+7233,Indre By,1013520000000,Kalvebod Brygge,603,1555,60,0
+7235,Indre By,1011728000000,Farvergade,118,166,50,0
+7236,Indre By,1011112000000,Christian IX's Gade,125,145,50,0
+7237,Indre By,1012272000000,Gothersgade,303,1353,50,0
+7239,Indre By,1011936000000,Frederiksborggade,163,628,50,0
+7240,Indre By,1010060000000,Ahlefeldtsgade,96,165,30,0
+7241,Indre By,1014940000000,Nansensgade,628,739,50,0
+7242,Indre By,1014940000000,Nansensgade,739,770,40,0
+7244,Vanløse,1011020000000,Bækkeskovvej,738,1060,50,0
+7245,Brønshøj-Husum,1017956000000,Valløvej,231,460,50,30
+7246,Brønshøj-Husum,1017956000000,Valløvej,460,610,50,0
+7247,Vanløse,1012020000000,Fuglsang Allé,147,976,50,30
+7248,Vanløse,1010752000000,Borrebyvej,422,721,50,0
+7249,Brønshøj-Husum,1010392000000,Basnæsvej,187,231,50,30
+7250,Brønshøj-Husum,1016748000000,Spanagervej,53,248,50,0
+7153,Østerbro,1012752000000,Heisesgade,55,83,15,0
+7251,Brønshøj-Husum,1012140000000,Gaunøvej,310,380,50,30
+7238,Indre By,1010716000000,Borgergade,277,865,50,0
+7252,Brønshøj-Husum,1012140000000,Gaunøvej,380,552,50,0
+7253,Brønshøj-Husum,1010944000000,Brønshøjvej,612,982,50,30
+7254,Brønshøj-Husum,1010944000000,Brønshøjvej,982,1070,50,0
+7255,Vanløse,1010048000000,Aggersvoldvej,175,289,50,30
+7256,Brønshøj-Husum,1016764000000,Sparresholmvej,188,579,50,0
+7257,Brønshøj-Husum,1017168000000,Svend Gønges Vej,239,420,50,0
+7258,Bispebjerg,1011560000000,Engblommevej,0,392,50,30
+7259,Valby,1012688000000,Havebo,0,211,50,30
+7260,Amager Vest,1017404000000,Thorshavnsgade,0,319,50,0
+7262,Vanløse,1014224000000,Lerchenborgvej,0,80,50,0
+7263,Østerbro,1011684010000,Esthersvej,0,45,50,0
+7264,Amager Øst,1017160000000,Svend Dyrings Vej,0,89,40,0
+7266,Indre By,1011043000000,Børsbroen,0,67,50,0
+7267,Nørrebro,1016576000000,Slangerupgade,0,275,50,0
+7270,Valby,1016632000000,Smedestræde,0,109,50,40
+7271,Østerbro,1010720050000,Borgervænget,0,144,50,30
+7272,Amager Øst,1011620070000,Engvej,0,136,40,0
+7273,Bispebjerg,1014906300000,Møntmester Plads,0,73,50,0
+7275,Brønshøj-Husum,1015528010000,Pilesvinget,0,109,40,30
+7276,Østerbro,1015160020000,Næstvedgade 18-20,0,33,50,0
+7277,Brønshøj-Husum,1018604000000,Østerlågen,0,140,50,0
+7278,Bispebjerg,1012360010000,Grønnemose Allé,0,76,50,0
+7155,Amager Vest,1018016000000,Vatnavej,0,166,50,0
+7118,Amager Vest,1018236000000,Vestermarksvej,176,411,50,30
+7279,Nørrebro,1018180000000,Vermundsgade,0,675,50,0
+7280,Vanløse,1012400000000,Guldagervej,0,429,50,0
+7281,Valby,1013416000000,Johan Krohns Vej,0,53,50,0
+7285,Valby,1015356000000,Overbys Allé,0,417,50,30
+7290,Amager Øst,1015708000000,Ramundsvej,0,123,40,0
+7291,Indre By,1017348000000,Teglgårdstræde,0,147,40,0
+7292,Amager Vest,1010112020000,Amagerfælledvej,0,265,50,0
+7293,Østerbro,1015904000000,Romsøgade,0,85,40,0
+7294,Amager Vest,1017105000000,Sundbygårdsvej,0,226,50,0
+7295,Østerbro,1013516000000,Kalkbrænderihavnsgade,118,1945,60,0
+7296,Indre By,1014364000000,Livjægergade,310,425,50,30
+7297,Indre By,1014364000000,Livjægergade,425,454,15,0
+7298,Østerbro,1013008000000,Holsteinsgade,48,431,50,30
+7144,Amager Vest,1013300000000,Islands Brygge,1545,2026,50,0
+7145,Østerbro,1010908800000,Bryggervangen,522,627,40,30
+7146,Østerbro,1018416000000,Vognmandsmarken,48,484,40,0
+7147,Østerbro,1010720800000,Borgervænget,308,721,30,0
+7148,Østerbro,1013020000000,Hornemansgade,131,239,40,30
+7149,Østerbro,1013020000000,Hornemansgade,239,268,40,0
+7150,Østerbro,1014404000000,H.C. Lumbyes Gade,55,81,15,0
+7151,Østerbro,1014404000000,H.C. Lumbyes Gade,81,143,40,0
+7152,Østerbro,1014404000000,H.C. Lumbyes Gade,143,281,40,30
+7156,Valby,1014072000000,Kærskiftevej,0,323,50,30
+7157,Indre By,1015584000000,Poul Ankers Gade,0,77,50,0
+7158,Østerbro,1014372000000,Livøgade,0,76,40,0
+7159,Indre By,1018466000000,Værftbroen,0,117,40,0
+7160,Østerbro,1013700000000,Kirsteinsgade,0,130,50,0
+4685,Brønshøj-Husum,1011004000000,Byporten,0,136,50,0
+7162,Nørrebro,1010068000000,Ahornsgade,0,173,50,0
+7163,Brønshøj-Husum,1013164000000,Hækkevold,0,161,50,30
+7164,Nørrebro,1018382000000,Vingelodden,0,490,50,0
+7165,Amager Vest,1018343000000,Vilhelm Buhls Gade,0,213,50,0
+7166,Østerbro,1015648800000,Præstøgade,153,272,50,30
+7167,Nørrebro,1010916000000,Brynhildegade,0,107,50,0
+7168,Bispebjerg,1014872000000,Musvågevej,0,230,40,0
+7169,Østerbro,1017156800000,Svendborggade,127,175,50,0
+7171,Vanløse,1012996000000,Holmestien,0,212,50,0
+7172,Amager Vest,1018543020000,Øresundsmotorvejen,62566,63360,60,0
+7173,Amager Vest,1018543030000,Øresundsmotorvejen,63977,64250,50,0
+7174,Amager Vest,1018543040000,Øresundsmotorvejen,63982,64246,50,0
+7175,Amager Vest,1014208000000,Leifsgade,228,418,50,0
+7176,Amager Vest,1012528000000,Halfdansgade,336,491,50,30
+7121,Amager Vest,1016096000000,Røde Mellemvej,1784,1924,50,0
+7122,Amager Vest,1011442000000,Edvard Thomsens Vej,0,444,50,0
+7123,Amager Vest,1010119020000,Amagermotorvejen,63210,63522,70,0
+7085,Nørrebro,1012304000000,Griffenfeldsgade,330,364,15,0
+7125,Amager Vest,1018543000000,Øresundsmotorvejen,61921,64271,60,0
+7126,Amager Vest,1018543000000,Øresundsmotorvejen,64271,65598,110,0
+6965,Østerbro,1016040000000,Ryesgade,135,433,40,30
+6968,Østerbro,1013332000000,Jagtvej,833,901,40,0
+6953,Vanløse,1011384000000,Dybendalsvej,484,787,50,30
+7127,Amager Vest,1018543010000,Øresundsmotorvejen,62086,63619,60,0
+7128,Amager Vest,1018543020000,Øresundsmotorvejen,62416,62566,90,0
+7129,Brønshøj-Husum,1013648000000,Kildebrøndevej,460,682,50,0
+7130,Brønshøj-Husum,1010884000000,Brovænget,170,531,50,0
+7131,Brønshøj-Husum,1018368000000,Vindingevej,274,562,50,0
+7132,Brønshøj-Husum,1017372000000,Tersløsevej,276,453,50,30
+7133,Brønshøj-Husum,1017372000000,Tersløsevej,453,591,50,0
+6905,Østerbro,1015188000000,Nørre Allè,105,636,50,0
+6906,Østerbro,1015188000000,Nørre Allè,636,1739,60,0
+6908,Østerbro,1015296000000,Olufsvej,52,89,15,0
+6909,Østerbro,1015296000000,Olufsvej,89,211,50,30
+6912,Vesterbro-Kongens Enghave,1014080000000,Kødboderne,0,66,50,0
+6914,Østerbro,1014143800000,Langelinie Allé,229,1033,40,0
+6915,Indre By,1011970000000,Luftmarinegade,0,157,50,0
+6916,Vesterbro-Kongens Enghave,1018820000000,Thad Jones Vej,0,174,15,0
+6917,Indre By,1012384320000,Gråbrødretorv,0,85,40,0
+6924,Bispebjerg,1017632000000,Trekløvervej,0,146,50,30
+6918,Brønshøj-Husum,1017624000000,Trappehøjen,0,89,50,0
+6956,Vanløse,1014312000000,Limfjordsvej,349,573,50,0
+6957,Vanløse,1014312000000,Limfjordsvej,573,673,50,30
+6958,Vanløse,1014312000000,Limfjordsvej,673,839,50,0
+6959,Vanløse,1017696000000,Tulipanvej,213,293,50,0
+6960,Vanløse,1017696000000,Tulipanvej,293,340,50,30
+6961,Vanløse,1017696000000,Tulipanvej,340,415,50,0
+6963,Østerbro,1012768000000,Helgesensgade,96,196,50,0
+6964,Østerbro,1013292000000,Irmingersgade,89,176,50,0
+6969,Østerbro,1013332000000,Jagtvej,901,3450,50,0
+6970,Nørrebro,1015780000000,Refsnæsgade,70,111,50,30
+6971,Nørrebro,1015780000000,Refsnæsgade,111,354,50,0
+6972,Nørrebro,1015164000000,Nøddebogade,48,87,50,30
+6973,Nørrebro,1015164000000,Nøddebogade,87,157,50,0
+6974,Nørrebro,1012412300000,Guldbergs Plads,68,146,50,0
+6975,Nørrebro,1012412300000,Guldbergs Plads,146,226,50,30
+6976,Valby,1010788000000,Bramslykkevej,0,452,50,0
+6977,Bispebjerg,1015888000000,Rismosevej,0,205,50,0
+6978,Indre By,1016824310000,Staunings Plads,0,123,50,0
+6979,Vanløse,1015852000000,Rindbyvej,0,104,50,0
+6967,Nørrebro,1016240000000,Sankt Hans Gade,128,312,40,0
+6982,Indre By,1016276310000,Sankt Pauls Plads,0,95,40,0
+7086,Nørrebro,1012304000000,Griffenfeldsgade,364,578,50,0
+6984,Vesterbro-Kongens Enghave,1012596000000,Hans Olriks Vej,0,204,50,30
+6985,Valby,1013436000000,Julius andersens vej,0,380,50,0
+6986,Brønshøj-Husum,1010328000000,Bakkeledet,0,72,50,0
+6988,Valby,1013022010000,Hornemanns Vænge,0,113,50,30
+6991,Brønshøj-Husum,1013800000000,Knabstrupvej,0,522,50,0
+6992,Østerbro,1010452800000,Bellmansgade,219,306,40,0
+6995,Amager Vest,1018128000000,Vejlands Allé,1156,1949,60,0
+6996,Amager Vest,1018128000000,Vejlands Allé,1949,4106,70,0
+7077,Brønshøj-Husum,1018140000000,Veksøvej,137,536,50,0
+7078,Brønshøj-Husum,1018140000000,Veksøvej,536,705,50,30
+7079,Brønshøj-Husum,1018140000000,Veksøvej,705,1358,50,0
+7080,Brønshøj-Husum,1013576000000,Karlslundevej,223,349,50,30
+7076,Brønshøj-Husum,1013916000000,Korsager Allé,142,888,50,0
+6987,Indre By,1012272000000,Gothersgade,0,303,50,0
+7081,Brønshøj-Husum,1013576000000,Karlslundevej,349,412,50,0
+7082,Brønshøj-Husum,1013648000000,Kildebrøndevej,22,102,50,30
+7083,Brønshøj-Husum,1013648000000,Kildebrøndevej,102,295,50,0
+7084,Brønshøj-Husum,1013648000000,Kildebrøndevej,295,460,50,30
+7087,Nørrebro,1013564000000,Kapelvej,104,262,50,30
+7088,Nørrebro,1013564000000,Kapelvej,262,439,15,0
+7089,Nørrebro,1013564000000,Kapelvej,439,665,50,30
+7090,Nørrebro,1013468000000,Jægergade,53,90,15,0
+7091,Nørrebro,1013468000000,Jægergade,90,146,50,30
+7092,Nørrebro,1017032000000,Struenseegade,50,507,50,30
+7002,Amager Vest,1015384000000,Oxford Allé,562,756,50,30
+4870,Østerbro,1018700300000,Århus Plads,0,79,50,0
+7093,Nørrebro,1012604000000,Hans Tavsens Gade,197,555,50,0
+7094,Nørrebro,1016864000000,Stengade,119,345,30,0
+7095,Nørrebro,1014188000000,Laurids Skaus Gade,66,210,50,0
+7096,Nørrebro,1018648000000,Ågade,302,695,60,0
+7097,Nørrebro,1018648000000,Ågade,695,1217,50,0
+7098,Valby,1012688020000,Havebo,0,124,50,30
+7099,Nørrebro,1010340320000,Balders Plads,0,74,15,0
+7102,Amager Øst,1015708010000,Ramundsvej,0,85,40,0
+7103,Indre By,1014178300000,Larsens Plads,0,873,40,0
+7104,Brønshøj-Husum,1012890000000,Hillerødmotorvejen,5429,6206,70,0
+7105,Brønshøj-Husum,1013748000000,Klintholmvej,0,133,50,0
+7107,Amager Vest,1010218010000,Arne Jacobsens Allé,0,118,20,0
+7108,Brønshøj-Husum,1014240000000,Lidemarksvej,0,130,50,30
+7109,Østerbro,1010720000000,Borgervænget,0,307,50,0
+7110,Brønshøj-Husum,1013484000000,Kagsbro,0,199,50,0
+7113,Bispebjerg,1012476000000,Gørtlervej,0,76,50,0
+7119,Amager Vest,1018236000000,Vestermarksvej,411,731,50,0
+6997,Amager Vest,1017112000000,Sundbyvestervej,426,798,50,30
+6999,Amager Vest,1014376000000,Lobeliavej,82,148,50,30
+7000,Amager Vest,1014376000000,Lobeliavej,148,335,50,0
+4237,Bispebjerg,101442001B000,Lundedalsvej,0,84,50,0
+7003,Amager Vest,1015384000000,Oxford Allé,756,990,50,0
+7004,Amager Vest,1015572000000,Portlandsvej,227,357,50,30
+7005,Amager Vest,1012672000000,Hastingsvej,43,157,50,0
+7006,Amager Vest,1013132000000,Hyacintvej,101,157,50,0
+7007,Vanløse,1018148000000,Vendsysselvej,383,480,50,30
+7008,Vanløse,1018148000000,Vendsysselvej,480,531,50,0
+7009,Vanløse,1012468000000,Gyvelvej,82,156,50,30
+7010,Vanløse,1014452000000,Lupinvej,81,183,50,30
+7011,Vanløse,1018512000000,Æblevej,89,485,50,30
+7033,Nørrebro,1013920000000,Korsgade,311,485,50,30
+6998,Amager Vest,1017112000000,Sundbyvestervej,798,1270,50,0
+7013,Vanløse,1012888800000,Hillerødgade,748,1761,50,0
+7014,Brønshøj-Husum,1017764000000,Tølløsevej,705,1014,50,30
+7015,Brønshøj-Husum,1017764000000,Tølløsevej,1014,1200,50,0
+7016,Brønshøj-Husum,1011220000000,Dalbyvej,28,128,50,30
+7017,Brønshøj-Husum,1011220000000,Dalbyvej,128,166,50,0
+7018,Brønshøj-Husum,1010576000000,Bjernedevej,175,875,50,0
+7019,Brønshøj-Husum,1016888000000,Stenløsevej,809,1027,50,30
+7021,Nørrebro,1016408000000,Sjællandsgade,100,394,50,30
+7022,Nørrebro,1016408000000,Sjællandsgade,394,457,50,0
+7023,Nørrebro,1016408000000,Sjællandsgade,457,569,50,30
+7024,Nørrebro,1016408000000,Sjællandsgade,569,740,50,0
+4238,Amager Vest,1016616020000,Slusevej,0,381,50,30
+7025,Nørrebro,1017808000000,Udbygade,60,182,50,0
+7026,Nørrebro,1015604000000,Prinsesse Charlottes Gade,59,365,50,40
+7027,Nørrebro,1015604000000,Prinsesse Charlottes Gade,365,420,50,0
+7028,Nørrebro,1017416000000,Thorupsgade,44,122,50,30
+7029,Nørrebro,1016628000000,Smedegade,56,90,15,0
+7030,Nørrebro,1016628000000,Smedegade,90,181,50,30
+7032,Nørrebro,1013920000000,Korsgade,272,311,15,0
+7031,Nørrebro,1013920000000,Korsgade,38,272,50,30
+7035,Nørrebro,1012304000000,Griffenfeldsgade,207,254,15,0
+7036,Nørrebro,1012304000000,Griffenfeldsgade,254,330,50,30
+7038,Valby,1014164000000,Langvaddam,0,61,50,30
+7039,Østerbro,1010660000000,Bogensegade,0,101,50,0
+7040,Østerbro,1015172000000,Nøjsomhedsvej,0,221,50,40
+7041,Indre By,1010028000000,Admiralsgade,0,189,40,0
+7042,Nørrebro,1012744000000,Heimdalsgade,0,152,50,0
+7043,Nørrebro,1010508000000,Birkegade,0,195,50,0
+7044,Vanløse,1017268000000,Søkrogen,0,56,50,0
+7045,Amager Vest,1017364000000,Telemarksgade,0,195,50,0
+7046,Valby,1016332000000,Selveje Allé,0,187,50,0
+7047,Amager Vest,1014960000000,Nebraskavej,0,325,50,30
+7048,Vanløse,1010196010000,Apollovej,0,29,50,0
+7049,Østerbro,1014736000000,Middelfartgade,0,216,50,0
+7051,Valby,1013444000000,Julius Lassens Vej,0,118,50,0
+7058,Amager Vest,1018016000000,Vatnavej,166,374,50,30
+7052,Bispebjerg,1014832000000,Moseskellet,0,404,50,30
+7053,Amager Vest,1012028000000,Fussingsvej,73,115,50,0
+7054,Amager Vest,1012028000000,Fussingsvej,115,154,30,0
+7055,Amager Vest,1017568000000,Torfavej,183,211,50,0
+7056,Amager Vest,1010824000000,Breidablik Allé,87,275,50,30
+7057,Amager Vest,1017828000000,Ulrik Birchs Allé,467,575,50,0
+5916,Brønshøj-Husum,1018660010000,Sti f. Åkandev. til Kobbelvæng,0,159,50,30
+7037,Amager Øst,1014232000000,Lergravsvej,0,1072,50,0
+7059,Amager Vest,1015452000000,Peder Lykkes Vej,453,1098,50,0
+7060,Amager Vest,1012244000000,Glommensgade,82,218,50,30
+7061,Amager Vest,1017320000000,Søren Norbys Allé,78,283,50,30
+7062,Amager Vest,1011600000000,Englandsvej,2023,2436,50,0
+7063,Amager Vest,1010892000000,Brydes Allé,405,596,50,30
+7064,Amager Vest,1016504300000,Skotlands Plads,119,222,50,0
+7066,Amager Vest,1015064000000,Norgesgade,337,410,50,0
+7067,Amager Vest,1010986000000,Bygrænsen,242,482,50,0
+7068,Amager Vest,1013912000000,Kornskyldvej,254,478,50,30
+7069,Amager Vest,1013064000000,Hovmålvej,77,478,50,30
+7070,Amager Vest,1014096000000,Landehjælpvej,269,359,50,30
+7071,Amager Vest,1017870000000,Urmagerstien,35,144,50,30
+7072,Amager Vest,1018236000000,Vestermarksvej,36,155,50,30
+7073,Brønshøj-Husum,1016888000000,Stenløsevej,1027,1180,50,0
+7074,Brønshøj-Husum,1011400000000,Dyssevænget,767,1035,50,0
+7075,Brønshøj-Husum,1018704000000,Åvendingen,383,720,50,0
+6925,Bispebjerg,1011100010000,Charlotte Muncks Vej,0,251,50,0
+6926,Vesterbro-Kongens Enghave,1015542000000,Platanvej,0,49,50,0
+6927,Østerbro,1010416000000,Bechgaardsgade,0,127,40,0
+6928,Amager Øst,1013684000000,Kirkegårdsvej,249,465,50,40
+6929,Amager Øst,1013684000000,Kirkegårdsvej,465,579,50,0
+6952,Vanløse,1018624000000,Åbakkevej,194,693,50,0
+6930,Amager Øst,1018544000000,Øresundsvej,482,1626,50,0
+6931,Amager Øst,1015576000000,Portugalsgade,79,161,50,0
+6932,Amager Øst,1014828000000,Moselgade,262,402,50,0
+6933,Amager Øst,1018404000000,Wittenberggade,196,509,50,0
+6934,Amager Øst,1016336000000,Serbiensgade,46,171,50,0
+6935,Amager Øst,1017848000000,Ungarnsgade,108,293,50,30
+6937,Amager Øst,1010828000000,Bremensgade,53,89,15,0
+6938,Amager Øst,1010828000000,Bremensgade,89,490,50,0
+6939,Amager Øst,1013368000000,Jenagade,27,333,50,0
+6940,Amager Øst,1011896000000,Frankrigsgade,445,540,50,30
+6941,Amager Vest,1015384800000,Oxford Allé,1112,1205,50,30
+6942,Amager Vest,1015384800000,Oxford Allé,1205,1513,50,0
+6943,Amager Vest,1011692000000,Etonvej,98,176,50,30
+6944,Amager Vest,1011692000000,Etonvej,176,400,50,0
+6945,Amager Vest,1010420000000,Bedfordvej,97,132,50,30
+6946,Vanløse,1010380000000,Bangsbovej,210,247,50,30
+6947,Vanløse,1010380000000,Bangsbovej,247,799,50,0
+6735,Vesterbro-Kongens Enghave,1016584000000,Slesvigsgade,0,135,50,40
+6948,Vanløse,1013608000000,Katrinedalsvej,89,211,50,30
+6949,Vanløse,1013608000000,Katrinedalsvej,211,821,50,0
+6950,Vanløse,1015712000000,Randbølvej,186,707,50,30
+6951,Vanløse,1018640000000,Ådalsvej,447,734,50,0
+6955,Vanløse,1017436000000,Thyvej,367,394,50,0
+6954,Vanløse,1017436000000,Thyvej,91,367,50,30
+6889,Vanløse,1011452000000,Egelykkevej,33,192,50,30
+6890,Vanløse,1011452000000,Egelykkevej,192,213,50,0
+6891,Vanløse,1017984000000,Vanløse Allé,575,608,50,30
+6892,Vanløse,1017984000000,Vanløse Allé,608,1115,50,0
+6893,Vanløse,1013664000000,Kilholmvej,185,322,50,30
+6894,Vanløse,1013664000000,Kilholmvej,322,551,50,0
+6895,Nørrebro,1014936000000,Nannasgade,102,383,50,0
+6896,Nørrebro,1010780000000,Bragesgade,238,352,50,0
+6897,Nørrebro,1010088000000,Allersgade,62,115,50,15
+6898,Nørrebro,1010088000000,Allersgade,115,164,50,30
+6899,Nørrebro,1016160000000,Rådmandsgade,418,914,50,0
+6901,Østerbro,1017360000000,Teglværksgade,118,393,50,0
+6902,Østerbro,1011576000000,Engelstedsgade,249,341,50,0
+6903,Østerbro,1016004000000,Rudolph Berghs Gade,267,292,15,0
+6904,Østerbro,1016004000000,Rudolph Berghs Gade,292,311,50,30
+5749,Vesterbro-Kongens Enghave,1011958000000,Frederikskaj,0,248,50,0
+5750,Valby,1016796000000,Stadfeldtsvej,0,314,50,30
+5751,Brønshøj-Husum,1010568000000,Bjergstedvej,0,238,50,0
+5752,Brønshøj-Husum,1017796000000,Tårnhusstræde,0,538,50,30
+5753,Nørrebro,1010372000000,Bangertsgade,0,126,50,0
+5756,Valby,1018260000000,Vestre Allé,0,264,50,30
+5757,Indre By,1017660300000,Trondhjems Plads,0,56,50,0
+5166,Valby,1011702000000,Fajancegade,0,49,50,0
+5758,Østerbro,1013428000000,Judithsvej,0,191,50,0
+5759,Amager Vest,1017568000000,Torfavej,0,183,50,30
+5760,Østerbro,1010732000000,Borgmester Jensens Allé,0,346,50,0
+5790,Vanløse,1013456000000,Jydeholmen,0,536,50,0
+5791,Brønshøj-Husum,1013480000000,Kabbelejevej,0,287,50,0
+5793,Nørrebro,1013144000000,Hyltebro,0,81,50,0
+5794,Valby,1012064000000,Gadekærvej,0,276,50,0
+5795,Vesterbro-Kongens Enghave,1011240000000,Damagervej,0,230,40,0
+5796,Indre By,1017708000000,Turesensgade,0,234,30,0
+5800,Valby,1014324010000,Lindebugten,0,72,50,30
+5801,Brønshøj-Husum,1011572800000,Engelholmvej,89,266,50,0
+5802,Indre By,1010128800000,Amaliegade,261,725,40,0
+5803,Indre By,1012880000000,Hestemøllestræde,0,80,40,0
+5804,Vanløse,1013588020000,Kastanie Allé,0,173,50,0
+5805,Vesterbro-Kongens Enghave,1012076000000,Gamle Carlsberg Vej,0,391,50,0
+5806,Østerbro,1015160800000,Næstvedgade,243,348,50,0
+5807,Brønshøj-Husum,1013908000000,Kornerupvej,0,119,50,0
+5832,Amager Vest,1018420000000,Vogtervej,0,304,50,0
+5833,Indre By,1015364010000,Overgaden Neden Vandet,0,65,40,0
+5808,Brønshøj-Husum,1010932000000,Brønshøjgårdvej,0,274,50,0
+5809,Østerbro,1018136000000,Vejrøgade,0,196,40,0
+5810,Vanløse,1015184000000,Nøragervej,0,204,50,0
+5811,Amager Vest,1010119000000,Amagermotorvejen,60365,61500,90,0
+5812,Amager Øst,1017848000000,Ungarnsgade,0,108,50,0
+5917,Nørrebro,1012852510000,Herman Triers Plads,0,116,50,0
+5813,Amager Vest,1017196800000,Svinget,121,359,50,0
+5814,Østerbro,1010456300000,Bellmans Plads,0,88,40,0
+5815,Amager Vest,1010218000000,Arne Jacobsens Allé,0,660,50,0
+5816,Brønshøj-Husum,1012624000000,Haraldstedvej,0,244,50,0
+5818,Amager Vest,1013160000000,Hyttehusvej,0,222,50,0
+5820,Vesterbro-Kongens Enghave,1014496000000,Lyrskovgade,0,285,50,40
+5821,Amager Øst,1013888000000,Koreavej,0,410,40,30
+5822,Bispebjerg,1013560000000,Kantorparken,0,177,50,30
+5823,Bispebjerg,1014580000000,Magistervej,0,191,50,30
+5824,Brønshøj-Husum,1014746020000,Midtfløjene,0,109,50,30
+5826,Valby,1014361000000,Lise Ringheims Vej,0,61,40,0
+5827,Indre By,1012496000000,Gåsegade,0,42,40,0
+5828,Brønshøj-Husum,1015980000000,Rostgaardsvej,0,210,50,30
+5830,Østerbro,1018356030000,Willemoesgade,0,32,50,0
+5831,Amager Øst,1017104000000,Sumatravej,0,879,40,0
+5867,Vanløse,1017092000000,Støvringvej,0,76,50,0
+5834,Amager Vest,1017196810000,Svinget,264,371,50,0
+5835,Indre By,1012380000000,Gråbrødrestræde,0,23,40,0
+5836,Amager Øst,1013840000000,Kongedybs Allé,0,196,15,0
+5914,Vanløse,1015884000000,Risbyholmvej,0,302,50,0
+5919,Amager Vest,1013810000000,Knud Kristensens Gade,15,164,50,0
+5920,Amager Øst,1014644000000,Markmandsgade,0,216,50,0
+4661,Amager Øst,1012720020000,Hedegaardsvej,0,51,50,0
+5921,Brønshøj-Husum,1012824000000,Herbergvejen,0,216,50,0
+5922,Vanløse,1018044000000,Ved Damhussøen,0,287,50,30
+5923,Nørrebro,1015268000000,Ole Jørgensens Gade,0,119,50,0
+5926,Bispebjerg,1010542800000,Bispeengbuen,888,1073,70,0
+5927,Østerbro,1010720010000,Borgervænget,0,109,50,0
+5928,Bispebjerg,1011532000000,Emdrup Huse,0,170,50,0
+5931,Indre By,1016460000000,Skindergade,0,396,40,0
+5932,Amager Vest,1014108000000,Landgildevej,0,118,50,0
+5933,Valby,1017296000000,Søndermarksvej,0,306,50,30
+5934,Nørrebro,1010312000000,Baggesensgade,0,394,50,30
+5937,Amager Vest,1012980000000,Hollænderdybet,0,390,50,0
+5938,Valby,1017976000000,Vangs Allé,0,167,50,0
+5939,Vesterbro-Kongens Enghave,1014802000000,Molestien,0,230,50,0
+5940,Amager Øst,1014752000000,Mikkel Skovs Allé,0,100,50,30
+5941,Nørrebro,1018040000000,Vedbækgade,0,149,50,0
+5942,Bispebjerg,1016164000000,Rådvadsvej,0,136,50,0
+5843,Indre By,1012348000000,Grønnegade,0,177,40,0
+7650,Østerbro,1018696000000,Århusgade,0,867,50,0
+7547,Nørrebro,1016740000000,Sortedam Dossering,498,1585,0,0
+5945,Indre By,1016920000000,Stockholmsgade,0,769,40,0
+5946,Indre By,1011099300000,Charlotte Ammundsens Plads,0,33,30,0
+5947,Vesterbro-Kongens Enghave,1012508800000,Haderslevsgade,186,451,50,0
+5948,Vanløse,1013740000000,Klingseyvej,0,399,50,0
+5950,Bispebjerg,1014476010000,Lyngbyvej,0,1238,60,0
+5952,Amager Øst,1018062000000,Ved Kastrupfortet,0,381,50,0
+5953,Amager Vest,1015452000000,Peder Lykkes Vej,0,453,50,30
+5954,Bispebjerg,1015592000000,Pragtstjernevej,0,219,50,30
+5955,Indre By,1016964000000,Store Søndervoldstræde,0,78,40,0
+5956,Vanløse,1017184000000,Svenstrupvej,0,152,50,30
+7545,Nørrebro,1016740000000,Sortedam Dossering,0,498,40,0
+7546,Nørrebro,1016740000000,Sortedam Dossering,0,498,0,0
+5837,Indre By,1017204000000,Sværtegade,0,85,40,0
+5838,Brønshøj-Husum,1013824000000,Kobbelvænget,0,38,50,0
+5839,Vanløse,1016124000000,Rønnebærvej,0,297,50,30
+5840,Indre By,1010304000000,Badstuestræde,0,164,40,0
+5868,Brønshøj-Husum,1017180000000,Svenskelejren,0,263,50,30
+5841,Nørrebro,1011748000000,Fensmarkgade,0,604,50,30
+5842,Vanløse,1014484000000,Lyngvigvej,0,208,50,0
+5845,Amager Vest,1013640000000,Kigkurren,0,129,50,0
+5846,Vanløse,1012400010000,Guldagervej,0,88,50,0
+5847,Brønshøj-Husum,1012704000000,Havrevej,0,424,50,0
+5848,Valby,1015168020000,Nøddehaven,0,21,40,0
+5849,Amager Øst,1014828000000,Moselgade,0,262,50,30
+5850,Valby,1010412000000,Beatevej,0,337,50,0
+5851,Østerbro,1018668000000,Ålborggade,0,206,50,0
+5853,Amager Vest,1011514000000,Else Alfelts Vej,0,861,40,0
+5854,Indre By,1014756000000,Mikkel Vibes Gade,0,69,40,0
+5855,Valby,1018087000000,Ved Ovnhallen,0,168,50,40
+5857,Vanløse,1012940000000,Hjortdalsvej,0,215,50,0
+5858,Bispebjerg,1010528000000,Bispebjerg Bakke,0,797,50,0
+5859,Amager Vest,1010892000000,Brydes Allé,0,405,50,0
+5860,Valby,1013028000000,Horsekildevej,0,364,50,0
+5861,Nørrebro,1017484000000,Titangade,0,452,50,0
+5862,Amager Øst,1015912010000,Roselillevej,0,30,40,0
+5863,Indre By,1011056800000,Bådsmandsstræde,147,448,40,0
+5864,Brønshøj-Husum,1015420000000,Parkstykket,0,176,50,30
+5501,Nørrebro,1018456000000,Vulkangade,0,46,50,0
+5869,Nørrebro,1012744800000,Heimdalsgade,152,497,50,0
+5870,Vesterbro-Kongens Enghave,1018264000000,Vestre Kirkegårds Allé,0,352,50,0
+5872,Nørrebro,1016696000000,Solitudevej,0,85,50,0
+5873,Valby,1016120000000,Rønhaven,0,245,40,0
+5875,Vanløse,1014204000000,Ledagervej,0,81,50,30
+5905,Nørrebro,1018648000000,Ågade,0,302,50,0
+5878,Østerbro,1017004000000,Strandvejen,0,1417,50,0
+5879,Østerbro,1015108000000,Nygårdsvej,0,273,40,30
+5880,Amager Vest,1011160300000,Christmas Møllers Plads,0,128,50,0
+5881,Østerbro,1013008020000,Holsteinsgade 10-16/Willemoesgade 33-35,0,56,50,0
+5882,Brønshøj-Husum,1010432000000,Beldringevej,0,180,50,0
+5883,Østerbro,1016564020000,Slagelsegade,0,35,50,0
+5885,Brønshøj-Husum,1014888000000,Møllebakken,0,473,50,0
+5886,Indre By,1013612000000,Kattesundet,0,169,40,0
+5887,Bispebjerg,1011540000000,Emdrup Mosevej,0,223,50,30
+5888,Bispebjerg,1010504000000,Birkedommervej,0,883,50,30
+5891,Indre By,1017448000000,Tigergade,0,82,50,0
+5765,Østerbro,1011608000000,Engskiftevej,0,88,40,0
+5892,Nørrebro,1017440000000,Tibirkegade,0,206,50,0
+5893,Brønshøj-Husum,1017488000000,Tjærebyvej,0,150,50,30
+5894,Østerbro,1014148000000,Lange - Müllers Gade,0,199,40,0
+5896,Amager Vest,1013386000000,Jens Otto Krags Gade,0,175,50,0
+5897,Vanløse,1011752000000,Ferringvej,0,132,50,30
+5898,Bispebjerg,1010860000000,Brofogedvej,0,200,50,0
+5899,Vanløse,1014160000000,Langkærvej,0,243,50,30
+5901,Vanløse,1015940000000,Rosenlunds Allé,0,145,50,0
+5902,Indre By,1011396000000,Dyrkøb,0,115,40,0
+5903,Valby,1016080000000,Rødbyvej,0,142,50,30
+5904,Vanløse,1010760050000,Borups Allé,0,96,50,0
+5906,Amager Vest,1018543040000,Øresundsmotorvejen,63553,63982,60,0
+5909,Brønshøj-Husum,1014820000000,Mosebakken,0,375,50,0
+5910,Vesterbro-Kongens Enghave,1012702000000,Havneholmen,0,94,50,0
+5911,Vanløse,1017664000000,Tryggevældevej,0,950,50,30
+5912,Amager Øst,1012532000000,Halgreensgade,0,92,50,0
+5913,Amager Øst,1013316810000,Italiensvej,571,870,50,0
+5761,Bispebjerg,1017620000000,Tranevej,0,279,40,0
+5762,Vanløse,1014332020000,Lindehøjen,0,54,50,0
+5763,Østerbro,1014868000000,Musholmgade,0,115,40,0
+7810,Amager Vest,1015682000000,Radisevej,0,0,30,0
+7809,Amager Vest,10175486000000,Løvstikkevej,0,0,30,0
+5766,Vesterbro-Kongens Enghave,1012556010000,Hammelstrupvej,0,40,40,0
+5767,Amager Øst,1015396030000,Pallesvej,0,83,40,0
+5769,Bispebjerg,1018560000000,Ørnevej,0,1106,40,0
+5770,Valby,1015408000000,Panumsvej,0,513,50,0
+5771,Bispebjerg,1014120000000,Landsdommervej,0,102,50,30
+5773,Brønshøj-Husum,1012864010000,Herslevvej,0,27,50,0
+5774,Vanløse,1014136000000,Langdraget,0,195,50,0
+5775,Østerbro,1011920000000,Frederik V's Vej,0,565,40,0
+5776,Bispebjerg,1013072000000,Hulgårdsvej,0,192,50,0
+5777,Vanløse,1012524000000,Haldagervej,0,49,50,0
+5778,Indre By,1015008000000,Nordborggade,0,155,50,0
+5779,Vanløse,1014564000000,Løvholmen,0,205,50,30
+5781,Indre By,1013834000000,Kongebrovej,0,230,50,0
+5784,Amager Øst,1013364000000,Jemtelandsgade,0,86,50,0
+5785,Amager Øst,1016380000000,Siljangade,0,187,50,0
+5786,Amager Øst,1011620040000,Engvej,0,128,40,0
+5787,Vanløse,1012840000000,Herlufsholmvej,0,812,50,0
+5788,Vanløse,1015180300000,Nørager Plads,0,235,50,0
+5789,Brønshøj-Husum,1017956000000,Valløvej,0,231,50,0
+5734,Indre By,1014112010000,Landgreven,0,120,40,0
+5735,Amager Øst,1011820000000,Flinterenden,0,93,50,0
+5736,Indre By,1013796000000,Knabrostræde,0,271,40,0
+5737,Amager Øst,1012580000000,Hannovergade,0,112,50,0
+5739,Vanløse,1010928000000,Brøndumvej,0,214,50,0
+5741,Indre By,1011932000000,Frederiksberggade,0,256,15,0
+5742,Østerbro,1015372320000,Ove Rodes Plads,0,63,50,30
+5743,Vanløse,1011828000000,Floras Allé,0,220,50,0
+5744,Amager Øst,1014800000000,Moldaugade,0,111,50,0
+5745,Østerbro,1010900000000,Bryggergade,0,84,50,0
+5746,Amager Øst,1015300000000,Olymposvej,0,488,50,30
+5747,Indre By,1010008000000,Abildgaardsgade,0,180,50,15
+6749,Amager Øst,1017160000000,Svend Dyrings Vej,89,115,15,0
+5748,Bispebjerg,1011804000000,Fladstjernevej,0,212,50,30
+6671,Valby,1018504000000,Æblehaven,23,245,40,0
+6672,Bispebjerg,1015256000000,Oldermandsvej,118,415,50,0
+6673,Østerbro,1017036000000,Strynøgade,103,129,40,0
+6674,Amager Øst,1011878000000,Forlandet,400,994,50,0
+6677,Bispebjerg,1013072000000,Hulgårdsvej,192,1485,60,0
+6678,Indre By,1013520000000,Kalvebod Brygge,1555,1648,60,0
+6679,Vesterbro-Kongens Enghave,1017444800000,Tietgensgade,495,596,50,40
+6680,Vesterbro-Kongens Enghave,1011180000000,Colbjørnsensgade,303,405,50,40
+6681,Vesterbro-Kongens Enghave,1016608000000,Sluseholmen,443,489,40,0
+6682,Vesterbro-Kongens Enghave,1017084000000,Støberigade,355,416,40,0
+6683,Amager Øst,1016088020000,Rødegård,0,213,50,0
+6684,Vesterbro-Kongens Enghave,1017616000000,Tranehavevej,0,457,50,30
+6685,Amager Øst,1011900000000,Frankrigshusene,0,193,50,0
+6686,Bispebjerg,1013148000000,Hyrdeledet,0,197,50,0
+6687,Brønshøj-Husum,1017884000000,Utterslevvej,0,365,50,30
+6688,Indre By,1012564000000,Hammerichsgade,0,489,50,0
+6718,Valby,1011072000000,Carl Langes Vej,612,701,50,30
+6719,Valby,1011992000000,Frilands Allé,77,335,50,30
+6750,Amager Øst,1017160800000,Svend Dyrings Vej,127,240,40,0
+6751,Amager Øst,1015912800000,Roselillevej,589,614,15,0
+6753,Amager Øst,1017604000000,Tovelillevej,768,782,40,30
+6754,Amager Øst,1017604000000,Tovelillevej,625,768,40,0
+6720,Valby,1014932000000,Nakskovvej,302,1242,50,30
+6721,Valby,1012600000000,Hansstedvej,93,276,50,0
+6722,Valby,1012600000000,Hansstedvej,276,363,50,30
+6723,Valby,1018244000000,Vestervang,131,823,50,30
+6725,Amager Vest,1015000000000,Njalsgade,0,1179,50,0
+6726,Amager Vest,1011098000000,Centrumforbindelsen,0,379,70,0
+6727,Valby,1015168000000,Nøddehaven,0,33,40,0
+6764,Valby,1016284000000,Saxhøjvej,224,499,50,0
+6729,Vanløse,1012216000000,Gjorslevvej,0,253,50,0
+6731,Indre By,1013520000000,Kalvebod Brygge,0,603,50,0
+6734,Valby,1015376000000,Overskousvej,0,210,50,0
+6737,Vanløse,1012692000000,Havekrogen,0,47,50,0
+6740,Valby,1018504000000,Æblehaven,0,23,40,30
+6741,Nørrebro,1010088000000,Allersgade,0,62,50,30
+6743,Amager Øst,1016348000000,Siamvej,294,413,40,0
+6744,Amager Øst,1013668000000,Kinavej,70,296,40,30
+6748,Amager Øst,1016196000000,Samosvej,568,707,40,0
+6745,Amager Øst,1013668000000,Kinavej,0,70,40,0
+6746,Amager Øst,1013344000000,Japanvej,77,297,40,30
+6747,Amager Øst,1013344000000,Japanvej,297,408,40,0
+6756,Amager Øst,1017604000000,Tovelillevej,263,545,50,0
+6757,Amager Øst,1017604000000,Tovelillevej,235,263,40,0
+6758,Amager Øst,1017604000000,Tovelillevej,172,235,50,0
+6759,Amager Øst,1017604000000,Tovelillevej,134,172,50,30
+6760,Amager Øst,1017604000000,Tovelillevej,0,134,40,0
+6761,Valby,1013188000000,Højdedraget,108,354,50,30
+6762,Valby,1014164000000,Langvaddam,445,520,50,30
+6763,Valby,1016284000000,Saxhøjvej,209,224,50,30
+6736,Vesterbro-Kongens Enghave,1014880000000,Møgeltøndergade,0,65,40,0
+6765,Valby,1013720000000,Kjærstrupvej,56,554,50,30
+6766,Valby,1018684000000,Ålstrupvej,288,371,50,0
+6767,Valby,1014464000000,Lykkebovej,459,743,50,30
+6768,Vanløse,1014320000000,Linde Allé,290,342,40,0
+6769,Vanløse,1014320000000,Linde Allé,342,536,50,0
+6770,Vanløse,1018044000000,Ved Damhussøen,287,685,50,0
+6841,Nørrebro,1015192000000,Nørrebrogade,2190,2271,50,0
+6842,Nørrebro,1018520000000,Ægirsgade,418,507,50,30
+6843,Nørrebro,1018520000000,Ægirsgade,507,543,50,30
+6844,Nørrebro,1018520000000,Ægirsgade,543,633,50,30
+6845,Nørrebro,1010336000000,Baldersgade,268,494,50,0
+6846,Nørrebro,1010336000000,Baldersgade,494,535,50,0
+6847,Nørrebro,1010336000000,Baldersgade,535,624,50,0
+6849,Valby,1013716000000,Kjeldsgårdsvej,0,331,50,0
+6850,Vanløse,1012324000000,Grønbakken,0,175,50,0
+6853,Amager Vest,1016680000000,Sofienhøjvej,0,150,50,0
+6855,Valby,1014184000000,Lauravej,0,188,50,0
+6857,Vesterbro-Kongens Enghave,1018212000000,Vesterfælledvej,0,833,50,0
+6859,Valby,1014508000000,Lyshøjgårdsvej,0,870,50,0
+6860,Vanløse,1010220000000,Arnestedet,0,163,50,0
+6616,Valby,1017520000000,Toftebakkevej,70,120,50,30
+7659,Brønshøj-Husum,1014848000000,Muldager,0,406,50,0
+6861,Bispebjerg,1014420010000,Lundedalsvej,0,285,50,0
+6862,Amager Øst,1013340000000,Jansvej,399,522,50,30
+6863,Amager Øst,1013340000000,Jansvej,522,674,50,0
+6864,Amager Øst,1013340000000,Jansvej,674,700,50,30
+6865,Amager Øst,1013340000000,Jansvej,700,798,50,0
+6866,Amager Øst,1011304000000,Dirchsvej,77,207,50,30
+6867,Amager Øst,1011304000000,Dirchsvej,207,361,50,0
+6868,Amager Øst,1011304000000,Dirchsvej,361,389,50,30
+6869,Amager Øst,1011304000000,Dirchsvej,389,480,50,0
+6870,Amager Øst,1015432000000,Parosvej,110,198,50,0
+6871,Amager Øst,1015836000000,Ridder Stigs Vej,0,33,40,0
+6872,Amager Øst,1014760000000,Milanovej,167,593,40,30
+6873,Amager Øst,1014760000000,Milanovej,593,664,40,0
+6874,Amager Øst,1016736000000,Sorrentovej,343,512,40,30
+6875,Amager Øst,1016736000000,Sorrentovej,512,670,40,0
+6876,Amager Øst,1012168000000,Genuavej,35,333,40,30
+6877,Amager Øst,1012168000000,Genuavej,333,391,40,0
+6878,Amager Øst,1012168000000,Genuavej,391,582,40,30
+6879,Amager Øst,1014952000000,Neapelvej,118,250,40,0
+6880,Amager Øst,1015828000000,Rialtovej,32,215,50,30
+6881,Amager Øst,1015828000000,Rialtovej,215,247,50,0
+6070,Vanløse,1010444040000,Bellahøjvej,0,140,50,0
+6882,Vanløse,1013464000000,Jyllingevej,963,1785,60,0
+6883,Vanløse,1013604000000,Katholmvej,122,336,50,30
+6884,Vanløse,1017092000000,Støvringvej,76,274,50,30
+6885,Vanløse,1011040000000,Børglumvej,380,744,50,30
+6886,Vanløse,1016480000000,Skjulhøj Allé,334,525,50,30
+6887,Vanløse,1016480000000,Skjulhøj Allé,525,694,50,0
+6771,Vanløse,1016112000000,Rødtjørnevej,435,633,50,0
+6772,Vanløse,1017412000000,Thorupgård Allé,234,453,50,30
+6773,Vanløse,1017412000000,Thorupgård Allé,453,471,50,0
+6774,Vanløse,1018632000000,Åbjergvej,51,453,50,30
+6775,Vanløse,1012668000000,Hasselvej,229,406,50,30
+6776,Vanløse,1012668000000,Hasselvej,406,493,50,0
+6777,Vanløse,1014060000000,Kæragervej,25,159,50,30
+6778,Bispebjerg,1014068000000,Kærsangervej,119,233,40,30
+6799,Amager Øst,1014232020000,Lergravsvej,0,294,50,0
+6779,Bispebjerg,1016144000000,Rørsangervej,191,315,40,30
+6780,Bispebjerg,1016144000000,Rørsangervej,315,497,40,30
+6781,Bispebjerg,1016144000000,Rørsangervej,497,732,40,30
+6782,Bispebjerg,1014948000000,Nattergalevej,607,790,40,30
+6783,Bispebjerg,1018288000000,Vibevej,327,621,40,30
+6784,Bispebjerg,1018288000000,Vibevej,621,736,40,30
+6785,Bispebjerg,1013328000000,Jacob Lindbergs Vej,120,254,50,0
+6786,Bispebjerg,1016048000000,Rymarksvej,62,121,50,30
+6194,Østerbro,1015768800000,Reersøgade,207,271,40,30
+6787,Bispebjerg,1016048000000,Rymarksvej,121,661,50,30
+6788,Bispebjerg,1016048000000,Rymarksvej,661,892,50,0
+6789,Bispebjerg,1010680000000,Bolandsvej,142,275,50,30
+6826,Vanløse,1017536000000,Toftøjevej,252,520,50,30
+6827,Vanløse,1017536000000,Toftøjevej,520,627,50,0
+6790,Østerbro,1017136000000,Svanemøllevej,40,1079,40,0
+6791,Østerbro,1017136000000,Svanemøllevej,1079,1341,50,30
+6792,Østerbro,1017464000000,Tingskiftevej,114,220,50,0
+6793,Brønshøj-Husum,1015632000000,Præstegårds Allé,0,290,50,30
+6794,Valby,1014268000000,Lillegade,0,87,50,0
+6795,Nørrebro,1016408000000,Sjællandsgade,0,100,50,0
+6796,Brønshøj-Husum,1013488000000,Kagsløkke,0,208,50,0
+6797,Østerbro,1014309300000,Lilly Helveg Petersens Plads,0,51,50,30
+6800,Indre By,1012188000000,Gernersgade,0,433,40,0
+6801,Valby,1014310000000,Lily Brobergs Vej,0,178,40,0
+6802,Amager Øst,1014220000000,Lemnosvej,0,280,50,30
+6803,Nørrebro,1011856000000,Fogedmarken,0,176,50,0
+6804,Østerbro,1018192000000,Vestagervej,0,518,40,0
+6805,Valby,1011364000000,Druehaven,0,462,40,0
+5997,Amager Vest,1010036000000,Agerbo,0,138,50,0
+6806,Brønshøj-Husum,1016892000000,Stenmaglevej,0,342,50,0
+6828,Vanløse,1014480000000,Lyngholmvej,435,637,50,30
+6829,Vanløse,1010052000000,Aggervej,52,233,50,0
+6617,Valby,1010608000000,Blommehaven,59,200,40,30
+6808,Amager Øst,1011620000000,Engvej,1777,1852,40,0
+6809,Amager Øst,1017784000000,Tønnesvej,282,"427,5",50,30
+6810,Amager Øst,1012312000000,Grækenlandsvej,375,1024,50,30
+6811,Amager Øst,1012312000000,Grækenlandsvej,1024,1059,50,0
+6812,Amager Øst,1012312000000,Grækenlandsvej,1059,1077,50,30
+6813,Amager Øst,1012312000000,Grækenlandsvej,1077,1192,50,0
+6814,Amager Øst,1012312000000,Grækenlandsvej,1192,1704,50,0
+6815,Amager Øst,1017784000000,Tønnesvej,"427,5",559,50,0
+6816,Amager Øst,1017784000000,Tønnesvej,559,590,50,30
+6817,Amager Øst,1017784000000,Tønnesvej,590,688,50,0
+6818,Amager Øst,1018360000000,Willumsvej,100,349,50,30
+6819,Amager Øst,1013340000000,Jansvej,93,399,50,0
+6820,Vanløse,1014556000000,Lønstrupvej,213,622,50,0
+6821,Vanløse,1017736000000,Tyborøn Allé,603,929,50,30
+6822,Vanløse,1017736000000,Tyborøn Allé,929,1026,50,0
+6823,Vanløse,1012608000000,Hanstholmvej,203,614,50,0
+6824,Vanløse,1013752000000,Klitmøllervej,42,207,50,30
+6825,Vanløse,1013752000000,Klitmøllervej,207,548,50,0
+6830,Vanløse,1017304000000,Søndervigvej,237,1107,50,0
+6831,Østerbro,1014428000000,Lundevangsvej,343,405,60,0
+6832,Østerbro,1017972000000,Vangehusvej,286,317,60,0
+6833,Østerbro,1017276000000,Sølundsvej,112,139,60,0
+6834,Nørrebro,1014448010000,Lundtoftegade,89,532,50,30
+6835,Nørrebro,1014448010000,Lundtoftegade,532,591,50,0
+6836,Nørrebro,1016204000000,Sandbjerggade,236,375,50,30
+6837,Nørrebro,1016844000000,Stefansgade,201,480,50,30
+6838,Nørrebro,1016844000000,Stefansgade,480,582,50,0
+6839,Nørrebro,1016844000000,Stefansgade,582,751,50,40
+6840,Nørrebro,1014768000000,Mimersgade,361,1018,50,0
+6689,Indre By,1013182000000,Højbro,0,31,40,0
+6714,Valby,1012660000000,J. P. E. Hartmanns Allé,609,666,50,0
+6690,Valby,1016848310000,Steins Plads,0,83,50,0
+6691,Vanløse,1010444060000,Bellahøjvej,0,96,50,0
+6692,Brønshøj-Husum,1010884000000,Brovænget,0,170,50,30
+6693,Amager Vest,1018128000000,Vejlands Allé,0,1156,50,0
+6695,Valby,1012652000000,Harrestrup Allé,0,329,40,30
+6697,Amager Vest,1010384000000,Bardenflethsgade,0,132,50,0
+6698,Valby,1015571300000,Porcelænstorvet,0,68,50,0
+6699,Indre By,1016604010000,Slotsholmsgade,0,36,50,0
+6700,Vanløse,1014648000000,Markskellet,0,129,50,0
+6463,Valby,1017912030000,Valby Langgade,0,63,50,0
+6701,Brønshøj-Husum,1013580000000,Karlstads Allé,0,200,50,30
+7660,Brønshøj-Husum,1014848000000,Muldager,0,406,50,0
+7661,Brønshøj-Husum,1014848000000,Muldager,0,406,50,0
+6704,Brønshøj-Husum,1013108010000,Hvedevej,0,70,50,30
+6705,Indre By,1016152320000,Rådhuspladsen,0,82,50,0
+6706,Østerbro,1015188000000,Nørre Allè,0,105,50,30
+6707,Amager Øst,1018296000000,Wibrandtsvej,865,1275,40,0
+6708,Amager Øst,1011880000000,Formosavej,87,402,40,30
+6709,Amager Øst,1011880000000,Formosavej,402,508,40,0
+6710,Amager Øst,1011880000000,Formosavej,508,530,15,0
+6711,Amager Øst,1016348000000,Siamvej,48,294,40,30
+6712,Valby,1011660000000,Eschrichtsvej,148,670,50,0
+6713,Valby,1015356000000,Overbys Allé,417,515,50,0
+6715,Valby,1011740000000,Fengersvej,70,315,50,30
+6716,Valby,1011740000000,Fengersvej,315,338,50,0
+6717,Valby,1011072000000,Carl Langes Vej,177,612,50,0
+5957,Valby,1011064000000,Carl Jacobsens Vej,0,1087,50,0
+5990,Amager Vest,1012428000000,Gullfossgade,0,110,50,0
+6660,Valby,1013696000000,Kirsebærhaven,476,913,40,0
+6661,Valby,1010724800000,Borghaven,69,178,40,30
+6065,Bispebjerg,1015676020000,På Bjerget,0,289,50,0
+6662,Valby,1010724800000,Borghaven,178,495,40,0
+6663,Valby,1011256000000,Danhaven,44,177,40,30
+6664,Valby,1011256000000,Danhaven,177,522,40,0
+6665,Valby,1013084800000,Humlehaven,129,307,40,30
+6666,Valby,1013084800000,Humlehaven,307,854,40,0
+6667,Valby,1015168000000,Nøddehaven,33,289,40,30
+6668,Valby,1015168000000,Nøddehaven,289,587,40,0
+6669,Valby,1014328000000,Lindehaven,175,316,40,0
+6670,Valby,1014328000000,Lindehaven,316,443,40,0
+5976,Valby,1012876000000,Hestehaven,0,239,40,0
+5977,Amager Vest,1012589000000,H.C. Hansens Gade,0,141,50,0
+5979,Østerbro,1014620000000,Manøgade,0,156,40,0
+5982,Vanløse,1010624000000,Blåbærvej,0,113,50,30
+5983,Valby,1018244010000,Vestervang,0,115,50,30
+5985,Vanløse,1017476000000,Tipsagervej,0,94,50,0
+5986,Bispebjerg,1010680010000,Bolandsvej,0,41,50,0
+5988,Nørrebro,1018188000000,Wesselsgade,0,239,50,0
+5989,Amager Vest,1012472000000,Gærdebred,0,243,50,0
+5995,Amager Øst,1015588810000,Prags Boulevard,609,1049,50,0
+5992,Nørrebro,1011504000000,Elmegade,0,258,40,0
+5993,Vesterbro-Kongens Enghave,1018616000000,Østre Teglgade,0,230,50,0
+6066,Amager Øst,1014384000000,Lombardigade,0,253,50,0
+5994,Indre By,1014016000000,Krystalgade,0,277,40,0
+5996,Vesterbro-Kongens Enghave,1017172000000,Svendgade,0,56,50,0
+6027,Østerbro,1017136000000,Svanemøllevej,0,40,60,0
+6028,Østerbro,1018064000000,Ved Kildevældskirken,0,62,40,0
+6029,Østerbro,1010524000000,Biskop Krags Vænge,0,233,50,0
+6031,Valby,1013028020000,Horsekildevej,0,135,50,0
+6032,Valby,1018196000000,Vestbanevej,0,191,50,0
+6033,Vesterbro-Kongens Enghave,1013228010000,Hørdumsgade,0,61,50,30
+6034,Valby,1012660000000,J. P. E. Hartmanns Allé,0,609,50,30
+6035,Indre By,1016828000000,Stavangergade,0,102,50,0
+6036,Indre By,1018496000000,Zinnsgade,0,123,50,0
+6037,Østerbro,1018696020000,Århusgade 66-78,0,48,50,0
+6039,Amager Øst,1015396000000,Pallesvej,0,335,40,0
+6056,Brønshøj-Husum,1013644000000,Kildeager,0,276,50,0
+6057,Vesterbro-Kongens Enghave,1010728010000,Borgmester Christiansens Gade,0,202,50,0
+6044,Amager Vest,1015512000000,Peter Vedels Gade,0,133,50,0
+6047,Vanløse,1011808000000,Flakholmen,0,256,50,0
+6062,Brønshøj-Husum,1018032000000,Ved Bellahøj Nord,0,390,50,30
+6058,Indre By,1015140310000,Nytorv,0,56,40,0
+6059,Vanløse,1013808000000,Knivholtvej,0,167,50,0
+6060,Vanløse,1017480000000,Tirsbækvej,0,292,50,0
+6061,Indre By,1012680340000,Hauser Plads,0,52,40,30
+6181,Østerbro,1013860000000,Kong Oscars Gade,0,90,40,0
+6067,Indre By,1014284000000,Lille Kirkestræde,0,70,40,0
+6068,Vanløse,1011252000000,Damstien,0,408,50,30
+6069,Valby,1011604000000,Englodden,0,309,40,0
+6045,Bispebjerg,1011964000000,Frederikssundsvej,0,4870,50,0
+6040,Indre By,1016300000000,Schacksgade,0,105,30,0
+6041,Vesterbro-Kongens Enghave,1014128000000,Landvindingsgade,0,319,50,0
+6043,Vanløse,1012160310000,Genforeningspladsen,0,105,50,30
+5377,Amager Øst,1015464000000,Peitersvej,0,72,50,0
+6049,Valby,1014536000000,Læstedet,0,231,50,30
+6050,Amager Vest,1012244000000,Glommensgade,0,82,50,0
+6051,Valby,1016436000000,Skellet,0,440,50,30
+6052,Vanløse,1018148000000,Vendsysselvej,0,383,50,0
+6053,Bispebjerg,1018548000000,Ørevadsvej,0,363,50,0
+6054,Vesterbro-Kongens Enghave,101629680A000,Scandiagade (parallel vejbane),0,388,50,30
+6055,Amager Øst,1014492010000,Lyongade,0,74,50,0
+6046,Amager Vest,1016856000000,Stemannsgade,0,89,50,0
+6063,Østerbro,1015304000000,Omøgade,0,379,40,0
+6064,Østerbro,1016268320000,Sankt Kjelds Plads,0,41,40,0
+6071,Indre By,1012680320000,Hauser Plads,0,38,40,30
+6072,Vanløse,1015964000000,Roshagevej,0,280,50,0
+6073,Indre By,1015474000000,Per Knutzons Vej,0,141,50,0
+6074,Amager Vest,1012040000000,Fælledfold,0,244,50,0
+6076,Amager Øst,1010828000000,Bremensgade,0,53,50,0
+6077,Valby,1016292000000,Saxtorphsvej,0,356,50,0
+6078,Vanløse,1012892020000,Himmerlandsvej,0,91,50,0
+6079,Amager Øst,1014380000000,Lodivej,0,137,40,0
+6080,Amager Vest,1015384800000,Oxford Allé,991,1112,50,0
+6081,Brønshøj-Husum,1014720000000,Mellemvangen,0,710,50,30
+6150,Indre By,1011388000000,Dybensgade,0,145,40,0
+6151,Østerbro,1017392000000,Thomas Laubs Gade,0,265,40,0
+6152,Indre By,1016392000000,Silkegade,0,104,40,0
+6178,Vanløse,1010948000000,Bulbjergvej,0,333,50,0
+6154,Østerbro,1017000000000,Strandpromenaden,0,129,60,0
+6155,Vesterbro-Kongens Enghave,1012260000000,Godsbanegade,0,257,50,0
+6156,Amager Vest,1010986000000,Bygrænsen,0,242,50,30
+6157,Vanløse,1012400020000,Guldagervej,0,43,50,0
+6162,Bispebjerg,1017356000000,Teglstrupvej,0,440,50,0
+6159,Indre By,1018336000000,Vildandegade,0,82,40,0
+6160,Indre By,1015220000000,Nørre Voldgade,0,775,40,0
+6161,Valby,1012688040000,Havebo,0,27,50,30
+6464,Amager Vest,1017016000000,Stratfordvej,0,196,50,0
+6163,Amager Øst,1015896000000,Rodosvej,0,250,50,30
+6164,Bispebjerg,1011560010000,Engblommevej,0,68,50,0
+6165,Valby,1010500000000,Birkebakken,0,206,50,30
+6166,Vesterbro-Kongens Enghave,1014844000000,Mozartsvej,0,410,40,0
+6167,Indre By,1010148800000,H.C. Andersens Boulevard,422,1208,50,0
+6168,Amager Øst,1010808010000,Bredegrund,0,154,50,0
+6169,Nørrebro,1015960010000,Rosenørns Allé,0,40,50,0
+6171,Amager Øst,1010604000000,Blekingegade,0,64,50,0
+6172,Valby,1015412000000,Parkbo,0,228,50,30
+6173,Amager Øst,1013864000000,Kongovej,0,319,50,0
+6174,Østerbro,1013656000000,Kildevældsgade,0,608,40,0
+6176,Indre By,1010116000000,Amagergade,0,143,40,0
+6177,Brønshøj-Husum,1012972320000,Holcks Plads,0,49,50,30
+6180,Bispebjerg,1011542400000,Emdrup Torv,0,105,50,0
+6182,Bispebjerg,1017684000000,Tuborgvej,0,878,60,0
+6183,Amager Vest,1018541150000,Ørestads Boulevard,0,163,50,0
+6185,Indre By,1014552000000,Lønporten,0,84,40,0
+6188,Nørrebro,1016580000000,Slejpnersgade,0,91,50,0
+6189,Vesterbro-Kongens Enghave,1012392000000,Gråstensgade,0,83,50,0
+6190,Indre By,1010548300000,Bispetorvet,0,48,40,0
+6191,Valby,1011200000000,Cæciliavej,0,278,50,0
+6192,Vanløse,1016328000000,Selsøvej,0,319,50,0
+6193,Amager Øst,1016088000000,Rødegård,0,227,50,0
+6082,Amager Øst,1013600000000,Kastrupvej,0,2069,50,0
+6083,Østerbro,1016564000000,Slagelsegade,0,163,50,0
+6094,Indre By,1015448000000,Peder Hvitfeldts Stræde,0,131,40,0
+6084,Vesterbro-Kongens Enghave,1017444000000,Tietgensgade,0,411,50,0
+6184,Amager Vest,1011224010000,Dalføret,0,109,50,0
+6187,Valby,1017028000000,Strindbergsvej,0,999,50,0
+6085,Østerbro,1010252000000,Assensgade,0,124,50,0
+6086,Valby,1012656020000,Harrestrupvang,0,18,50,30
+6087,Amager Øst,1018664800000,Ålandsgade  43-57,232,380,50,0
+6088,Valby,1011740000000,Fengersvej,0,70,50,0
+6090,Østerbro,1015688000000,Ragnagade,0,159,50,0
+6091,Nørrebro,1010632310000,Blågårds Plads,0,160,50,0
+6092,Østerbro,1017868000000,Urbansgade,0,84,50,30
+6093,Vesterbro-Kongens Enghave,1016406000000,Sjællandsbroen,0,787,70,0
+6095,Indre By,1013348310000,Jarmers Plads,0,87,50,0
+6096,Østerbro,1010908000000,Bryggervangen,0,245,40,0
+6097,Vanløse,1013128000000,Hvidtjørnevej,0,218,50,0
+6098,Nørrebro,1014568010000,P. D. Løvs Allé,0,37,50,0
+6099,Indre By,1012108000000,Gammel Strand,0,185,40,0
+6101,Vesterbro-Kongens Enghave,1016288000000,Saxogade,0,685,50,0
+6447,Valby,1016852000000,Steinsvej,0,67,50,0
+6102,Brønshøj-Husum,1012890020000,Hillerødmotorvejen,4661,5125,70,0
+6103,Østerbro,1014428000000,Lundevangsvej,0,343,40,0
+6104,Østerbro,1016752000000,Spangbergsgade,0,68,50,0
+6106,Amager Øst,1015392000000,Palermovej,0,387,40,0
+6107,Nørrebro,1017496000000,Tjørnegade,0,108,50,30
+6108,Bispebjerg,1014416000000,Lundeborgvej,0,167,50,0
+6110,Brønshøj-Husum,1011392000000,Dyblandsvangen,0,287,50,30
+6111,Vesterbro-Kongens Enghave,1017208000000,Sydbanestien,0,67,15,0
+6132,Østerbro,1013636000000,Kertemindegade,0,130,50,0
+6112,Indre By,1014988000000,Nikolajgade,0,181,40,0
+6113,Brønshøj-Husum,1010576000000,Bjernedevej,0,175,50,30
+6114,Nørrebro,1016732000000,Sorgenfrigade,0,116,50,0
+6115,Nørrebro,1011430000000,Edith Rodes Vej,0,323,50,0
+6116,Valby,1016716000000,Solskrænten,0,580,50,30
+6117,Brønshøj-Husum,1012644000000,Hareskovvej,4829,5428,70,0
+6118,Valby,1011634010000,Erik Ballings Vej,0,37,50,0
+6119,Bispebjerg,1012708000000,Havsgårdsvej,0,170,50,0
+6120,Valby,1016836000000,Steenbergsvej,0,280,50,0
+6121,Vanløse,1013972020000,Krogebjerg,0,133,50,0
+6122,Indre By,1012148000000,Gefionsgade,0,59,50,0
+6123,Nørrebro,1015188010000,Nørre Allé,0,83,50,0
+6124,Bispebjerg,1015256000000,Oldermandsvej,0,26,50,0
+6148,Bispebjerg,1011036000000,Bøllegård Allé,0,272,50,30
+6125,Indre By,1018608000000,Øster Søgade,0,1392,50,0
+6126,Bispebjerg,1016144000000,Rørsangervej,0,191,40,0
+6128,Bispebjerg,1017684010000,Tuborgvej,0,90,50,0
+6129,Bispebjerg,1015040000000,Nordre Fasanvej,0,426,40,0
+6130,Amager Øst,1017608000000,Tovværkgade,0,79,50,0
+6131,Indre By,1015276000000,Ole Suhrs Gade,0,237,40,0
+6133,Valby,1011268000000,Danshøjvej,0,769,50,0
+6134,Indre By,1017968000000,Vandkunsten,0,71,40,0
+6135,Indre By,1016944000000,Store Kirkestræde,0,66,40,0
+6138,Amager Øst,1018296000000,Wibrandtsvej,0,865,50,0
+6139,Vesterbro-Kongens Enghave,1011688000000,Estlandsgade,0,115,50,0
+6140,Brønshøj-Husum,1010888000000,Brunevang,0,298,50,0
+6141,Indre By,1015052000000,Nordre Toldbod,0,60,50,0
+6142,Bispebjerg,1018220000000,Vestergårdsporten,0,70,40,0
+6143,Amager Øst,1017848020000,Ungarnsgade,0,29,50,0
+6144,Valby,1011092000000,Castbergsvej,0,324,50,0
+6145,Brønshøj-Husum,1011712000000,Faksingevej,0,184,50,0
+6146,Indre By,1015916000000,Rosenborggade,0,179,40,0
+6149,Amager Øst,1016348000000,Siamvej,0,48,40,0
+5998,Bispebjerg,1011764000000,Filosofvænget,0,271,15,0
+5999,Indre By,1013992000000,Kronprinsensgade,0,120,40,0
+6000,Vanløse,1011398010000,Dysseager,0,37,50,0
+6002,Valby,1012688010000,Havebo,0,28,50,30
+6003,Bispebjerg,1012156000000,Gemmet,0,147,50,30
+6004,Vesterbro-Kongens Enghave,1015820000000,Reverdilsgade,0,97,50,0
+6005,Amager Øst,1015428000000,Parnasvej,0,81,50,30
+6006,Bispebjerg,1017684030000,Tuborgvej,0,313,30,0
+6007,Indre By,1018216000000,Vestergade,0,244,40,0
+6008,Indre By,1018366000000,Vindebrogade,0,306,50,0
+6009,Vesterbro-Kongens Enghave,1010968000000,Bustrupgade,0,126,50,30
+5959,Bispebjerg,1017088000000,Støvnæs Allé,0,269,50,30
+6011,Indre By,1015844000000,Rigensgade,0,372,40,0
+6012,Østerbro,1014668800000,Marstalsgade,232,425,50,0
+6014,Vesterbro-Kongens Enghave,1014636300000,Maria Kirkeplads,0,61,50,30
+6015,Valby,1016771000000,Spinderigade,0,62,50,0
+6016,Østerbro,1015948010000,Rosenvængets Allé,0,31,15,0
+6017,Brønshøj-Husum,1018368000000,Vindingevej,0,274,50,30
+6018,Bispebjerg,1015628000000,Provstevej,0,304,50,40
+6020,Østerbro,1014540400000,Løgstørgade,0,77,50,0
+6021,Indre By,1015456000000,Peder Skrams Gade,0,290,40,0
+6448,Vanløse,1010196000000,Apollovej,0,508,50,0
+6449,Brønshøj-Husum,1018140010000,Veksøvej,0,227,50,0
+6450,Amager Øst,1015484000000,Persiensvej,0,319,50,0
+6022,Vanløse,1016600000000,Slotsherrensvej,0,2084,50,0
+6023,Nørrebro,1011424000000,Eddagården,0,89,50,0
+6024,Amager Vest,1018122010000,Weidekampsgade,0,85,50,0
+6025,Amager Øst,1015424020000,Parmagade,0,40,50,0
+6453,Vesterbro-Kongens Enghave,101254433A000,Halmtorvet,0,227,50,0
+6454,Indre By,1014548000000,Løngangstræde,0,151,40,0
+6026,Vanløse,1013680000000,Kirkebjerg Allé,0,480,50,30
+5958,Amager Vest,1015252000000,Oldensti,0,242,50,0
+5960,Amager Vest,1018528000000,Ærtelandsvej,0,230,50,30
+5961,Indre By,1014180000000,Larslejsstræde,0,197,40,0
+5962,Vanløse,1016184010000,Sallingvej,0,60,50,0
+5963,Indre By,1014572000000,Løvstræde,0,110,40,0
+5965,Indre By,1011188000000,Cort Adelers Gade,0,128,40,0
+5966,Østerbro,1010044000000,Aggersborggade,0,160,50,0
+5967,Amager Vest,1016022030000,Rundholtsvej,0,45,50,0
+4468,Valby,1015416000000,Parkstien,0,700,50,0
+5970,Brønshøj-Husum,1017716000000,Tuxensvej,0,110,50,0
+5971,Valby,1014328000000,Lindehaven,0,175,40,0
+5972,Valby,1014932000000,Nakskovvej,0,302,50,0
+5974,Østerbro,1011608800000,Engskiftevej,89,176,40,0
+5975,Valby,1017916020000,Valby Tingsted,0,46,50,30
+6452,Østerbro,1016988010000,Strandboulevarden,0,63,50,0
+5973,Indre By,1016056000000,Rysensteensgade,0,230,50,0
+6455,Østerbro,1016396000000,Sionsgade,0,129,50,0
+6456,Østerbro,1015208000000,Nørre Sideallé,0,74,50,0
+6457,Brønshøj-Husum,1013204000000,Højlandsvangen,0,833,50,30
+6458,Amager Øst,1012168000000,Genuavej,0,35,40,0
+6459,Østerbro,1014680000000,Masnedøgade,0,414,40,0
+6460,Østerbro,1018600000000,Østerled,0,248,50,30
+6461,Østerbro,1010452000000,Bellmansgade,0,218,40,0
+6530,Bispebjerg,1012803020000,Lyngbyvej,0,145,60,0
+6634,Bispebjerg,1010676000000,Bogtrykkervej,331,571,50,0
+6497,Nørrebro,1013080000000,Humlebækgade,0,526,50,0
+6499,Amager Vest,1015644020000,Præstemarksvej,0,48,50,30
+6500,Amager Vest,1015894000000,Robert Jacobsens Vej,0,779,40,0
+6501,Vesterbro-Kongens Enghave,1016316000000,Schubertsvej,0,137,40,0
+6503,Amager Øst,1014272000000,Lillegrund,0,111,50,0
+6505,Valby,1010701000000,Bomuldsgade,0,60,50,0
+6506,Brønshøj-Husum,1015892000000,Risvangen,0,36,50,0
+6507,Amager Øst,1012288000000,Greisvej,0,344,50,30
+6508,Bispebjerg,1014920000000,Mågevej,0,267,50,0
+6510,Østerbro,1017360000000,Teglværksgade,0,118,50,30
+6511,Nørrebro,1011448000000,Egegade,0,124,50,0
+6512,Østerbro,1012256000000,Glænøgade,0,117,40,0
+6513,Nørrebro,1013332010000,Jagtvej,0,158,50,30
+6514,Østerbro,1011246000000,Dampfærgevej,0,734,50,0
+6517,Vanløse,1014452000000,Lupinvej,0,81,50,0
+6519,Valby,1012051000000,Følager,0,281,50,0
+6520,Østerbro,1014168000000,Langøgade,0,285,40,0
+6521,Vanløse,1018248000000,Vestervigvej,0,208,50,0
+6523,Valby,1015624000000,Prisholmvej,0,426,50,0
+6525,Amager Øst,1011480000000,Elbagade,0,480,50,0
+6527,Nørrebro,1015152000000,Nærumgade,0,178,50,0
+6528,Amager Øst,1018176800000,Vermlandsgade,945,1040,50,0
+6529,Nørrebro,1015616000000,Prins Jørgens Gade,0,87,15,0
+6531,Nørrebro,1015960000000,Rosenørns Allé,0,280,50,0
+6532,Vanløse,1010876000000,Brombærvej,0,161,50,30
+6533,Nørrebro,1014864000000,Murergade,0,82,50,30
+6535,Valby,1017252000000,Sæbyholmsvej,0,595,50,30
+6536,Amager Vest,1014376000000,Lobeliavej,0,82,50,0
+6539,Nørrebro,1010542000000,Bispeengbuen,0,516,70,0
+6541,Brønshøj-Husum,1013304000000,Islevholm,0,332,50,0
+6544,Bispebjerg,1012034000000,Fyrbødervej,0,89,50,0
+6546,Brønshøj-Husum,1014348020000,Lindholmsvej,0,87,50,0
+6618,Valby,1010608000000,Blommehaven,200,657,40,0
+6619,Valby,1013696000000,Kirsebærhaven,121,476,40,30
+6621,Bispebjerg,1015480000000,Pernillevej,274,319,50,0
+6622,Bispebjerg,1015260000000,Oldfuxvej,54,306,50,30
+6623,Bispebjerg,1013392000000,Jeppes Allé,115,277,50,30
+6624,Bispebjerg,1013392000000,Jeppes Allé,120,254,50,0
+6625,Bispebjerg,1011312000000,Dortheavej,499,1007,50,30
+6626,Bispebjerg,1015628000000,Provstevej,304,343,50,0
+6627,Bispebjerg,1017396000000,Thoravej,167,426,50,40
+6628,Bispebjerg,1017380000000,Theklavej,201,275,50,40
+6629,Bispebjerg,1017380000000,Theklavej,275,411,50,0
+6630,Bispebjerg,1014580000000,Magistervej,191,370,50,0
+6631,Bispebjerg,1014120000000,Landsdommervej,262,400,50,30
+6632,Bispebjerg,1014120000000,Landsdommervej,400,484,50,0
+6633,Bispebjerg,1010676000000,Bogtrykkervej,112,331,50,30
+6635,Bispebjerg,1015256000000,Oldermandsvej,26,118,50,30
+6654,Nørrebro,1016552000000,Skyttegade,0,166,50,30
+6570,Bispebjerg,1015176000000,Nøkkerosevej,375,716,50,0
+6465,Østerbro,1018056000000,Ved Hegnet,0,36,50,0
+6543,Amager Øst,1010120020000,Amager Strandvej,0,177,50,0
+6636,Amager Vest,1010112000000,Amagerfælledvej,0,1546,50,0
+6637,Østerbro,1012092800000,Gammel Kalkbrænderi Vej,396,482,50,30
+6638,Amager Vest,1012052000000,Følfodvej,0,1118,50,0
+6639,Brønshøj-Husum,1010356000000,Banefløjen,0,247,30,0
+6640,Amager Øst,1018620000000,Østrigsgade,0,681,50,0
+6642,Vanløse,1012356000000,Grønnehøj,0,212,50,0
+6643,Amager Vest,1016022000000,Rundholtsvej,0,115,50,0
+6644,Valby,1013572000000,Karensgade,0,294,50,0
+6645,Amager Øst,1015028000000,Nordmarksvej,0,84,50,0
+6647,Nørrebro,101518801A000,Nørre Allè,0,18,50,0
+6648,Vesterbro-Kongens Enghave,1013930000000,Kortløb,0,68,50,0
+6649,Amager Vest,1015064000000,Norgesgade,0,337,50,30
+6650,Indre By,1011944000000,Frederiksgade,0,345,40,0
+6310,Vanløse,1012160300000,Genforeningspladsen,0,62,50,0
+6651,Bispebjerg,1011444000000,Egebæksvej,0,252,50,0
+6652,Valby,1012600010000,Hansstedvej,0,64,50,30
+6613,Valby,1016488000000,Skolegade,113,194,50,0
+6656,Nørrebro,1016908000000,Stevnsgade,0,373,50,30
+6657,Bispebjerg,1014300000000,Lille theklavej,0,39,50,0
+6548,Amager Øst,1016760000000,Spaniensgade,0,283,50,0
+6549,Brønshøj-Husum,1018140030000,Veksøvej,0,104,50,30
+6550,Amager Øst,1011896020000,Frankrigsgade,0,101,50,30
+6552,Nørrebro,1016844000000,Stefansgade,0,202,50,0
+6553,Brønshøj-Husum,1017588000000,Torpstien,0,82,50,0
+6554,Bispebjerg,1014576000000,Magdelonevej,0,314,50,30
+6576,Bispebjerg,1015804000000,Rentemestervej,544,681,50,40
+6555,Vanløse,1013176000000,Høgholtvej,0,326,50,0
+6556,Brønshøj-Husum,1017764000000,Tølløsevej,0,705,50,0
+6557,Amager Vest,1011108010000,Christian ll's Allé,0,59,50,30
+6558,Bispebjerg,1010640000000,Blåmunkevej,0,377,50,30
+6559,Vesterbro-Kongens Enghave,1011656000000,Esbern Snares Gade,0,164,50,0
+6560,Valby,1015582000000,Poul Reichhardts Vej,0,241,40,0
+6561,Bispebjerg,1011892010000,C. J. Frandsens Vej,0,75,50,0
+6562,Brønshøj-Husum,1012464000000,Gyrstingevej,0,163,50,0
+6565,Valby,1011634000000,Erik Ballings Vej,69,159,15,0
+6566,Amager Øst,1012288020000,Greisvej,0,521,50,30
+6567,Brønshøj-Husum,1016012000000,Rugvej,0,184,50,30
+6568,Bispebjerg,1011560000000,Engblommevej,392,682,50,0
+6569,Bispebjerg,1015176000000,Nøkkerosevej,77,375,50,30
+6571,Bispebjerg,1016164000000,Rådvadsvej,136,813,50,40
+6572,Bispebjerg,1016164000000,Rådvadsvej,813,1594,50,0
+6573,Bispebjerg,1017088000000,Støvnæs Allé,269,634,50,0
+6574,Bispebjerg,1017880300000,Utterslev Torv,149,345,50,0
+6575,Bispebjerg,1016688000000,Sokkelundsvej,86,315,50,30
+6491,Nørrebro,1010068020000,Ahornsgade,0,44,50,0
+6577,Bispebjerg,1015804000000,Rentemestervej,681,1011,50,0
+6579,Valby,1017312000000,Søndre Fasanvej,0,156,50,0
+6581,Amager Vest,1011638000000,Erik Eriksens Gade,0,137,50,0
+6583,Nørrebro,1011744000000,Fenrisgade,0,93,50,0
+6584,Vesterbro-Kongens Enghave,1017888000000,Wagnersvej,0,294,40,30
+6585,Valby,1014132000000,Langagervej,0,780,50,0
+6586,Vesterbro-Kongens Enghave,1017443000000,Tietgensbroen,0,129,50,0
+6587,Amager Vest,1015644000000,Præstemarksvej,0,196,50,30
+6589,Bispebjerg,1011488000000,Ellebakken,0,36,50,0
+6350,Valby,1011414000000,Ebbe Rodes Allé,0,86,40,0
+6591,Østerbro,1015920000000,Rosendalsgade,0,118,50,0
+6592,Østerbro,1018564000000,H.P. Ørums Gade,0,249,50,30
+6614,Valby,1010180000000,Annexstræde,85,179,50,0
+6593,Østerbro,1014143600000,Langelinie Allé,0,69,40,0
+6594,Brønshøj-Husum,1014724000000,Merløsevej,0,598,50,0
+6596,Vanløse,1016099520000,Rødkilde Plads,0,235,50,0
+6597,Vanløse,1013120060000,Hvidkildevej,0,74,50,0
+6599,Amager Øst,1013324000000,Jacob Holms Gade,0,79,50,0
+6600,Brønshøj-Husum,1010392000000,Basnæsvej,0,187,50,0
+6601,Vesterbro-Kongens Enghave,1012368000000,Grønrisvej,0,136,40,0
+6602,Indre By,1018076000000,Ved Langebro,0,212,50,0
+6603,Vanløse,1012608000000,Hanstholmvej,0,203,50,30
+6604,Amager Øst,1011232000000,Dalslandsgade,0,266,50,0
+6605,Valby,1017912000000,Valby Langgade,1243,3242,50,0
+6606,Valby,1014824000000,Mosedalvej,74,299,50,0
+6608,Valby,1011200000000,Cæciliavej,278,316,50,40
+6609,Valby,1011200000000,Cæciliavej,316,413,50,0
+6610,Valby,1010596000000,Blankavej,309,342,50,40
+6611,Valby,1010596000000,Blankavej,342,444,50,0
+6466,Valby,1014072090000,Kærskiftevej,0,195,50,30
+6467,Valby,1014716000000,Mellemtoftevej,0,181,50,30
+6468,Østerbro,1010240000000,Askøgade,0,120,40,0
+6469,Nørrebro,1010064000000,Ahlmannsgade,0,67,50,30
+6471,Amager Vest,1015902000000,Romsdalsgade,0,123,50,0
+6473,Østerbro,1017850400000,Unicef Plads,0,126,50,0
+6474,Vanløse,1010976000000,Bygholmvej,0,396,50,30
+6492,Amager Vest,1012336000000,Grønjordsvej,0,333,50,0
+6493,Valby,1010254000000,Asta Nielsen Strædet,0,130,50,0
+6494,Nørrebro,1017948000000,Valkyriegade,0,255,50,0
+6496,Nørrebro,1017336010000,Tagensvej,0,117,50,0
+6195,Vesterbro-Kongens Enghave,1016412010000,Sjælør Boulevard,0,329,40,0
+6230,Østerbro,1017644000000,Trianglen,0,98,50,0
+6231,Indre By,1013348400000,Jarmers Plads,0,"95,15",50,0
+6433,Amager Vest,1010119010000,Amagermotorvejen,61628,63121,90,0
+6434,Valby,1015408030000,Panumsvej,0,122,50,0
+6435,Indre By,1014024310000,Kultorvet,0,42,15,0
+6436,Bispebjerg,1018112000000,Ved Vigen,0,318,50,0
+6405,Amager Vest,1013912000000,Kornskyldvej,0,254,50,0
+6437,Amager Vest,1018484000000,Våningsvej,0,145,50,0
+6439,Amager Øst,1012512000000,Hagbardvej,0,248,40,0
+6440,Amager Øst,1013196000000,Højdevej,0,442,50,0
+6475,Amager Vest,1010108000000,Amagerbrogade,0,3413,50,0
+6476,Brønshøj-Husum,1011400000000,Dyssevænget,0,767,50,30
+6477,Indre By,1016992000000,Strandgade,0,451,40,0
+6478,Indre By,1011728000000,Farvergade,0,118,40,0
+6479,Amager Øst,1010200000000,Arabiensvej,0,271,50,0
+6480,Vanløse,1012468000000,Gyvelvej,0,82,50,0
+6481,Indre By,1013348350000,Jarmers Plads,0,48,50,0
+6486,Bispebjerg,1010984000000,Bygmestervej,0,298,50,0
+6487,Amager Øst,1013112000000,Hveensvej,0,205,50,0
+6488,Amager Øst,1010076000000,Albaniensgade,0,107,50,0
+6490,Bispebjerg,1011780000000,Firkløvervej,0,276,50,30
+6441,Nørrebro,1012268000000,Gormsgade,0,164,50,0
+6442,Indre By,1018208000000,Vester Farimagsgade,0,657,50,0
+6443,Østerbro,1011708000000,Fakse Tværgade,0,41,50,0
+6444,Østerbro,1017156000000,Svendborggade,0,126,50,0
+6445,Vanløse,1011360000000,Dronninglundvej,0,191,50,0
+6446,Valby,1014796000000,Molbechsvej,0,185,50,30
+6216,Amager Øst,1013704000000,Kirsten Kimers Vej,0,114,40,0
+6217,Østerbro,1016720000000,Solvænget,0,240,50,30
+6218,Valby,1015587000000,Poul Reumerts Vej,0,153,40,0
+6219,Amager Vest,1017076000000,Sturlasgade,0,288,50,0
+6220,Nørrebro,1015744000000,Ravnsborggade,0,268,40,0
+6234,Brønshøj-Husum,1017952000000,Vallekildevej,0,331,50,0
+6225,Bispebjerg,1012420000000,Gulkløvervej,0,226,50,30
+6226,Amager Vest,1013504000000,Kaktusvej,0,290,50,0
+6227,Valby,1011166000000,Clara Pontoppidans Vej,0,218,40,0
+6270,Vesterbro-Kongens Enghave,1016776000000,Spontinisvej,0,635,40,0
+6271,Amager Øst,1018024010000,Ved Amagerbanen,0,112,50,0
+6272,Nørrebro,1013236020000,Hørsholmsgade,0,66,50,0
+6273,Østerbro,1012968000000,Holbækgade,0,78,50,0
+6274,Bispebjerg,1015500000000,Peter Rørdams Vej,0,324,50,0
+6275,Vesterbro-Kongens Enghave,1012740000000,Heilsgade,0,52,50,0
+6406,Amager Vest,1018256000000,Vestmannagade,0,72,50,0
+7521,Amager Vest,1018541000000,Ørestads Boulevard,0,6078,50,0
+6222,Nørrebro,1014236010000,Lersø Parkallé,0,34,50,0
+6223,Brønshøj-Husum,1013308000000,Islevhusvej,0,1281,50,0
+6224,Indre By,1010229000000,Arsenalvej,0,198,50,0
+6228,Østerbro,1016744000000,Sorøgade,0,61,50,0
+6232,Nørrebro,1014744000000,Midgårdsgade,0,130,50,0
+7520,Amager Vest,1018541000000,Ørestads Boulevard,0,6078,60,0
+6298,Valby,1011248000000,Damsbo Vænge,0,113,50,0
+7522,Amager Vest,1015384000000,Oxford Allé,116,562,50,30
+6233,Amager Vest,1016504300000,Skotlands Plads,0,119,50,40
+6276,Indre By,1010476000000,Bernstorffsgade,0,850,50,0
+6278,Valby,1018680000000,Ålholmvej,0,806,50,0
+6305,Indre By,1018252000000,Vester Voldgade,0,230,50,0
+6279,Indre By,1011262000000,Danneskiold-Samsøes Allé,0,775,50,0
+6280,Valby,1012600000000,Hansstedvej,0,93,50,30
+6281,Indre By,1014296000000,Lille Søndervoldstræde,0,74,40,0
+6283,Amager Vest,1017828000000,Ulrik Birchs Allé,0,467,50,30
+6285,Brønshøj-Husum,1013648000000,Kildebrøndevej,0,22,50,0
+6286,Amager Vest,1011106000000,J.C.Christensens Gade,0,84,50,0
+6288,Amager Øst,1011308000000,Donaugade,0,136,50,0
+6289,Indre By,1016972000000,Stormgade,0,310,50,0
+6290,Nørrebro,1012412300000,Guldbergs Plads,0,68,50,30
+6291,Indre By,1010128000000,Amaliegade,0,260,40,0
+6292,Brønshøj-Husum,1018644000000,Åfløjen,0,85,50,0
+6293,Bispebjerg,1014460000000,Lygten,0,832,50,0
+6294,Amager Vest,1011176000000,Clematisvej,0,308,50,0
+6408,Indre By,1015280000000,Olfert Fischers Gade,0,433,40,0
+6295,Brønshøj-Husum,1018428000000,Voldfløjen,0,230,30,0
+6296,Østerbro,1015372310000,Ove Rodes Plads,0,63,50,30
+6297,Vanløse,1018632020000,Åbjergvej,0,88,50,30
+6299,Nørrebro,1013732000000,Kleinsgade,0,119,50,0
+6300,Brønshøj-Husum,1017532000000,Toften,0,78,50,30
+6301,Nørrebro,1011840000000,Florsgade,0,99,50,30
+6302,Indre By,1012540000000,Hallinsgade,0,140,50,15
+6303,Vesterbro-Kongens Enghave,1016784000000,Olivia Nielsens Gade,0,194,50,0
+6307,Østerbro,1013420000000,Johan Svendsens Vej,0,215,50,0
+6309,Amager Vest,1012806000000,Hemsedalsgade,0,94,50,0
+6311,Vanløse,1010496000000,Birkagervej,0,240,50,0
+6312,Valby,1010724800000,Borghaven,32,69,40,0
+6314,Bispebjerg,1011272000000,Danstrupvej,0,315,50,0
+6393,Amager Vest,1015384020000,Oxford Allé,0,106,50,30
+6394,Vanløse,1016216000000,Sandhøjen,0,278,50,0
+6395,Amager Vest,1011442010000,Edvard Thomsens Vej,0,64,50,0
+6396,Amager Vest,1013192000000,Højdevangs Allé,0,460,50,0
+6398,Valby,1017832000000,Ulriksdalvej,0,179,50,0
+6399,Valby,1017528310000,Toftegårds Plads,0,93,50,0
+6402,Valby,1018316000000,Vigerslevstræde,0,222,50,30
+6403,Indre By,1014024300000,Kultorvet,0,78,15,0
+6308,Østerbro,1013610000000,Kattegatvej,0,784,50,0
+6304,Indre By,1010198300000,Applebys Plads,0,122,50,0
+6407,Valby,1011082000000,Carl Th. Dreyers Vej,0,259,50,30
+6409,Indre By,1011872000000,Folke Bernadottes Allé,0,584,50,0
+6413,Brønshøj-Husum,1014524000000,Lærkebakken,0,95,50,0
+6414,Vesterbro-Kongens Enghave,1018822000000,Dexter Gordons Vej,0,209,50,0
+6415,Amager Øst,1010120060000,Amager Strandvej,92,719,40,0
+6416,Nørrebro,1014448000000,Lundtoftegade,0,895,50,0
+6417,Valby,1013028010000,Horsekildevej,0,148,50,0
+6418,Østerbro,1015876000000,Ringstedgade,0,106,50,0
+6419,Bispebjerg,1011536000000,Emdrup Kærvej,0,201,50,0
+6420,Amager Øst,1017748000000,Tyrolsgade,0,221,50,0
+6421,Amager Øst,1012152000000,Geislersgade,0,152,50,0
+6422,Valby,1018676310000,Ålholm Plads,0,85,50,0
+6424,Brønshøj-Husum,1011668000000,Eskildstrupvej,0,145,50,0
+6425,Bispebjerg,1011868000000,Folevadsvej,0,348,50,0
+6353,Østerbro,1015832000000,Ribegade,0,287,50,0
+6354,Valby,1016716020000,Solskrænten,0,68,50,30
+6355,Valby,1015032000000,Nordre Allé,0,201,50,30
+6356,Østerbro,1018580040000,Østerbrogade,0,62,50,0
+6429,Bispebjerg,1016688000000,Sokkelundsvej,0,86,50,0
+6430,Vanløse,1013425000000,Jordbærvej,0,38,50,0
+6431,Østerbro,1018356070000,Willemoesgade,0,39,50,0
+6315,Indre By,1014748000000,Mikkel Bryggers Gade,0,101,15,0
+6317,Brønshøj-Husum,1010564000000,Bjergmarksvej,0,151,50,0
+6236,Vanløse,1011552000000,Enebærvej,0,143,50,30
+6318,Indre By,1012964000000,Holbergsgade,0,387,40,0
+6319,Amager Øst,1018488000000,Yderlandsvej,0,377,50,0
+6321,Amager Øst,1018404000000,Wittenberggade,0,196,50,30
+6322,Nørrebro,1012048000000,Fælledvejens passage,0,93,0,0
+6325,Indre By,1010856000000,Brobergsgade,0,129,40,0
+6326,Nørrebro,1012604000000,Hans Tavsens Gade,0,197,15,0
+6327,Amager Øst,1018542000000,Øresund Parkvej,0,291,20,0
+6328,Bispebjerg,1019801000000,Bro Over Lyngbyvej,0,63,50,0
+5060,Østerbro,1012724000000,Hedemannsgade,0,77,40,0
+6329,Amager Øst,1013340000000,Jansvej,0,93,50,30
+6331,Brønshøj-Husum,1017140000000,Svanestien,0,208,50,0
+6332,Bispebjerg,1011048000000,Børskovvej,0,187,50,0
+6381,Amager Vest,1016344000000,Shetlandsgade,0,80,50,0
+6334,Amager Vest,1010972000000,Byagervej,0,103,50,0
+6336,Vanløse,1012328000000,Grøndals Parkvej,0,2540,50,0
+6337,Nørrebro,1016248310000,Sankt Hans Torv,0,56,50,0
+6338,Valby,1010184010000,Ansgars Allé,0,46,50,0
+6339,Vanløse,1016208000000,Sandbygårdsvej,0,278,50,0
+6340,Brønshøj-Husum,1011012000000,Bytinget,0,83,50,30
+6263,Østerbro,1017640000000,Trepkasgade,0,123,50,0
+6264,Amager Øst,1010808020000,Bredegrund,0,74,50,0
+6341,Indre By,1013832000000,Kompagnistræde,0,286,15,0
+6343,Amager Vest,1016005000000,Rued Langgaards Vej,0,342,50,0
+6344,Brønshøj-Husum,1010772000000,Botoftevej,0,90,50,0
+6345,Østerbro,1012800000000,Helsingborggade,0,244,40,0
+6346,Østerbro,1016840000000,Steen Billes Gade,0,80,50,0
+6347,Amager Vest,1014228000000,Lerfosgade,0,142,50,0
+6348,Indre By,1015924000000,Rosengade,0,114,40,0
+6349,Amager Øst,1016904000000,Sternberggade,0,80,50,0
+6351,Brønshøj-Husum,1012504000000,Gåseurtvej,0,181,50,0
+6352,Indre By,1012104000000,Gammel Mønt,0,202,40,0
+4869,Nørrebro,1010248510000,Asnæsgade (nordlige),0,56,50,0
+6357,Amager Vest,1011368000000,Dublinvej,0,457,50,0
+6358,Vesterbro-Kongens Enghave,1010308000000,Bagerstræde,0,120,50,0
+6359,Vesterbro-Kongens Enghave,1011812800000,Flensborggade,186,386,50,0
+6360,Vesterbro-Kongens Enghave,1011640000000,Eriksgade,0,98,50,0
+6362,Vesterbro-Kongens Enghave,1011792000000,Fiskerihavnsgade,0,340,50,0
+6363,Østerbro,1012592300000,Hans Knudsens Plads,116,170,40,0
+6364,Amager Vest,1014252000000,Liflandsgade,0,115,50,0
+6366,Amager Øst,1014244000000,Liden Gunvers Vej,0,215,40,0
+6367,Brønshøj-Husum,1010988000000,Bygårdstræde,0,452,50,30
+6261,Brønshøj-Husum,1012252000000,Glumsøvej,0,452,50,0
+6368,Vanløse,1017732000000,Tybjergvej,0,1025,50,0
+6369,Nørrebro,1015192010000,Nørrebrogade,0,41,40,0
+6370,Østerbro,1012568000000,Hammershusgade,0,169,50,0
+6373,Vesterbro-Kongens Enghave,1013520030V01,Kalvebod Brygge,0,524,50,0
+6375,Amager Øst,1011878000000,Forlandet,0,400,50,40
+6376,Vanløse,1016420000000,Skalbakken,0,140,50,0
+6377,Bispebjerg,1017380000000,Theklavej,0,201,50,0
+6378,Bispebjerg,1010572000000,Bjergvænget,0,249,50,0
+6379,Bispebjerg,1012284000000,Gravervænget,0,192,30,0
+6380,Amager Øst,1013792000000,Kløvermarksvej,0,1493,50,0
+6382,Brønshøj-Husum,1018532000000,Ærtevej,0,270,50,0
+6383,Brønshøj-Husum,1011016000000,Byvangen,0,154,50,30
+6384,Vesterbro-Kongens Enghave,1012712000000,Haydnsvej,0,64,0,0
+6385,Indre By,1014140000000,Langebrogade,0,491,50,0
+6386,Amager Vest,1017108310000,Sundbyvester Plads,0,143,50,0
+6387,Amager Vest,1013628000000,Kentiavej,0,241,50,0
+6388,Valby,1017520000000,Toftebakkevej,0,25,50,30
+6390,Indre By,1016152310000,Rådhuspladsen,0,238,50,0
+6391,Vanløse,1018640000000,Ådalsvej,0,447,50,30
+6235,Nørrebro,1012856000000,Hermodsgade,0,342,50,0
+6237,Nørrebro,1012620000000,Haraldsgade,0,1119,50,0
+6238,Østerbro,1015956000000,Rosenvængets Sideallé,0,101,50,0
+6239,Amager Vest,1013676000000,Kingstonvej,0,139,50,0
+6240,Amager Vest,1015036000000,Nordre Digevej,0,699,50,0
+6241,Amager Vest,1015572000000,Portlandsvej,0,227,50,0
+6243,Nørrebro,1013040320000,Hothers Plads,0,125,50,0
+6244,Østerbro,1010346000000,Baltikavej,0,490,50,0
+6245,Nørrebro,1014236030000,Lersø Parkallé,0,446,50,30
+6246,Østerbro,1018580100000,Østerbrogade,0,89,50,0
+6247,Indre By,1012364030000,Grønningen,0,33,50,0
+6248,Indre By,1011884000000,Fortunstræde,0,111,40,0
+5256,Vesterbro-Kongens Enghave,1010236000000,Asger Rygs Gade,0,161,50,0
+6249,Amager Øst,1012776000000,Helikonsvej,0,327,50,30
+6250,Valby,1014072030000,Kærskiftevej,0,26,50,30
+6251,Amager Vest,1018543060000,Øresundsmotorvejen,64198,64778,50,0
+6252,Østerbro,1016256400000,Sankt Jakobs Plads,0,30,50,0
+6253,Vanløse,1017696000000,Tulipanvej,0,213,50,30
+6254,Vanløse,1017992000000,Vanløsehøj,0,182,50,0
+6257,Indre By,1011478020000,Ekvipagemestervej,0,320,50,0
+6258,Brønshøj-Husum,1011008000000,Bystævnet,13,490,50,0
+6259,Nørrebro,1010632300000,Blågårds Plads,0,102,50,0
+6260,Amager Vest,1018541030000,Ørestads Boulevard,0,52,50,0
+6262,Amager Øst,1015588600000,Prags Boulevard (Rundkørsel),0,128,50,0
+6265,Nørrebro,1015748000000,Ravnsborg Tværgade,0,113,40,0
+6266,Brønshøj-Husum,1014052000000,Kyringevej,0,149,50,30
+6267,Vesterbro-Kongens Enghave,1012702800000,Havneholmen,95,197,50,40
+6268,Nørrebro,1015604000000,Prinsesse Charlottes Gade,0,59,50,0
+6269,Amager Vest,1011836000000,Floridavej,0,182,50,30
+6197,Indre By,1016156000000,Rådhusstræde,0,143,40,0
+6198,Amager Øst,1014472000000,Lynettevej,0,76,50,0
+6199,Nørrebro,1010244000000,Asminderødgade,0,159,50,0
+6200,Indre By,1015928000000,Rosengården,0,120,40,0
+6201,Valby,1014824000000,Mosedalvej,0,59,50,0
+6203,Nørrebro,1013016000000,Hornbækgade,0,124,50,0
+5540,Amager Øst,1016368000000,Signelilvej,0,232,40,0
+6204,Vanløse,1015012000000,Nordbyvej,0,311,50,0
+6205,Indre By,1013348320000,Jarmers Plads,0,91,50,0
+6206,Nørrebro,1011700000000,Fafnersgade,0,101,50,0
+6210,Nørrebro,1014768000000,Mimersgade,0,361,50,40
+6211,Amager Vest,1013836000000,Kongedybet,0,340,50,0
+6212,Indre By,1016320000000,J. A. Schwartz Gade,0,141,50,15
+6213,Amager Øst,1015548000000,Polensgade,0,493,50,0
+6214,Vanløse,1014432000000,Lundgærdet,0,99,50,0
+6215,Indre By,1013852310000,Kongens Nytorv,0,102,40,0
+4812,Valby,1013696000000,Kirsebærhaven,0,121,40,0
+4813,Amager Øst,1010056000000,Agnetevej,0,357,40,0
+7507,Vesterbro-Kongens Enghave,1011492000000,Ellebjergvej,0,1307,60,0
+4816,Amager Øst,1016768000000,Spartavej,0,276,50,30
+5025,Vanløse,1016020000000,Rundholmen,0,209,50,30
+4818,Bispebjerg,1011616000000,Engsvinget,0,685,50,0
+4819,Østerbro,1018356050000,Willemoesgade,0,44,50,30
+4822,Østerbro,1013964000000,Kristineberg,0,138,40,0
+4823,Amager Vest,101854111A000,Ørestads Boulevard,0,110,50,0
+4824,Vanløse,1015683000000,Rabarbervej,0,98,50,0
+4825,Amager Vest,1011296000000,Derbyvej,0,208,50,30
+4827,Nørrebro,1015232000000,Odinsgade,0,171,50,0
+7506,Vesterbro-Kongens Enghave,1011492000000,Ellebjergvej,0,1307,50,0
+5516,Bispebjerg,1014412000000,Lundebakken,0,165,50,0
+5257,Bispebjerg,1011312000000,Dortheavej,0,499,50,0
+5258,Amager Vest,1018568000000,Øselsgade,0,105,50,0
+5259,Nørrebro,1010780000000,Bragesgade,0,238,50,30
+5260,Amager Vest,1018508000000,Æblestien,0,63,50,0
+5261,Nørrebro,1013236000000,Hørsholmsgade,0,395,50,0
+5262,Valby,1010924000000,Brøndkærvej,0,128,50,0
+5263,Valby,1018692000000,Aarestrupsvej,0,208,50,0
+5264,Amager Øst,1012976000000,Hollands Allé,0,234,50,30
+5265,Østerbro,1014984000000,Niels W. Gades Gade,0,47,40,0
+5266,Amager Vest,1014028000000,Kurlandsgade,0,293,50,0
+5267,Vanløse,1014784000000,Mirabellevej,0,180,50,30
+5268,Bispebjerg,1018460000000,Væbnervej,0,47,50,0
+5269,Vesterbro-Kongens Enghave,1014008000000,Krusågade,0,289,50,0
+5270,Valby,1016548000000,Skyggelundsvej,0,295,50,0
+5271,Amager Øst,1013704800000,Kirsten Kimers Vej,115,446,40,0
+5273,Amager Vest,1014592000000,Majrosevej,0,128,50,0
+4932,Valby,1012848300000,Herman Bangs Plads,0,112,50,0
+5289,Indre By,1016272800000,Sankt Pauls Gade,190,385,40,0
+5290,Østerbro,1010720800000,Borgervænget,722,1031,40,0
+5291,Østerbro,1012620020000,Haraldsgade,0,43,50,0
+5295,Indre By,1014222000000,Leo Mathisens Vej,0,97,50,0
+5296,Indre By,1012116300000,Gammeltorv,0,132,40,0
+5297,Vanløse,1016452020000,Skibelundvej,0,54,50,0
+5298,Nørrebro,1012432000000,Gunhildsgade,0,84,50,0
+5299,Amager Øst,1015912800000,Roselillevej,614,681,40,0
+5300,Amager Vest,1017196020000,Svinget,0,88,50,30
+7204,Østerbro,1010468000000,Berggreensgade,43,84,40,30
+5301,Amager Øst,1014492000000,Lyongade,0,425,50,0
+5302,Amager Vest,1011316000000,Dovregade,0,80,50,0
+5303,Amager Vest,1018541170000,Ørestads Boulevard,0,147,50,0
+5304,Østerbro,1017276000000,Sølundsvej,0,112,40,0
+5307,Amager Vest,1013388000000,Jens Warmings Vej,0,259,50,30
+4846,Amager Vest,1010588000000,Bjørneklovej,0,135,50,0
+4849,Amager Vest,1016668000000,Snorresgade,0,379,50,0
+4850,Vesterbro-Kongens Enghave,1011980000000,Freundsgade,0,77,15,0
+4851,Vanløse,1017988000000,Vanløse Byvej,0,599,50,0
+4852,Valby,1017300000000,Søndervangs Allé,0,726,40,0
+4853,Østerbro,1016268300000,Sankt Kjelds Plads,0,132,50,0
+4854,Østerbro,1010468000000,Berggreensgade,0,43,15,0
+4855,Valby,1013720000000,Kjærstrupvej,0,56,50,0
+4856,Amager Øst,1015396050000,Pallesvej,0,82,40,0
+4828,Amager Vest,1012808000000,Hendonvej,0,410,50,30
+7682,Indre By,1018252800000,Vester Voldgade,230,863,50,30
+5026,Amager Øst,1017504000000,Tjørnerækken,0,98,50,0
+5027,Indre By,1014288000000,Lille Kongensgade,0,218,40,0
+5028,Valby,1010650000000,Bodil Ipsens Vej,0,96,40,0
+5033,Indre By,1011478000000,Ekvipagemestervej,0,248,50,0
+5274,Indre By,1012680310000,Hauser Plads,0,57,40,30
+5715,Amager Øst,1010120010000,Amager Strandvej,0,265,50,0
+5716,Østerbro,1013432000000,Juliane Maries Vej,0,503,40,0
+5543,Bispebjerg,1018344000000,Vilhelm Birkedals Vej,0,125,50,0
+5717,Nørrebro,1011873300000,Folmer Bendtsens Plads,0,180,50,0
+5718,Amager Øst,1011620030000,Engvej,0,33,40,0
+5719,Valby,1011660000000,Eschrichtsvej,0,148,50,30
+5721,Nørrebro,1015380000000,Overskæringen,0,87,50,0
+5722,Bispebjerg,1017684800000,Tuborgvej,878,2562,60,0
+5723,Vesterbro-Kongens Enghave,1013816000000,P. Knudsens Gade,0,728,50,0
+5510,Vanløse,1010376310000,Bangsbo Plads,0,84,50,0
+5511,Amager Vest,1010232010000,Artillerivej,0,106,50,0
+5512,Vesterbro-Kongens Enghave,1016288020000,Saxogade,0,46,50,0
+5513,Amager Øst,1011156000000,Christian Svendsens Gade,0,91,50,0
+5515,Vesterbro-Kongens Enghave,1013168020000,Händelsvej,0,72,40,0
+5517,Brønshøj-Husum,1010936000000,Brønshøjholms Allé,0,57,50,0
+5518,Brønshøj-Husum,1017804000000,Tåstrupvej,0,136,50,0
+5521,Brønshøj-Husum,1013916000000,Korsager Allé,0,142,50,30
+5522,Amager Øst,1013316000000,Italiensvej,0,825,50,0
+5523,Østerbro,1011436000000,Edvard Griegs Gade,0,219,40,0
+5524,Bispebjerg,1010740000000,Borgskrivervej,0,126,50,0
+5525,Brønshøj-Husum,1010940000000,Brønshøj Kirkevej,0,128,50,0
+5526,Vesterbro-Kongens Enghave,1017444010000,Tietgensgade,0,161,50,0
+5527,Østerbro,1014676000000,Marthagade,0,86,40,0
+4858,Vanløse,1012332000000,Grøndalsvænge Allé,0,786,50,40
+4859,Amager Øst,1014396000000,Luganovej,0,273,50,30
+4860,Brønshøj-Husum,1017200000000,Svogerslevvej,0,139,50,0
+4861,Indre By,1016228000000,Sankt Annæ Gade,0,451,40,0
+4862,Amager Øst,1015756000000,Reberbanegade,0,330,50,0
+4863,Brønshøj-Husum,1014852000000,Mullerupvej,0,120,50,0
+4864,Amager Vest,1016096020000,Røde Mellemvej,0,58,0,0
+4865,Nørrebro,1010864000000,Brohusgade,0,215,50,30
+4866,Amager Øst,1012988000000,Holmbladsvænge,0,129,50,0
+4867,Brønshøj-Husum,1013252000000,Håbets Allé,0,235,50,0
+4871,Amager Vest,1018236000000,Vestermarksvej,0,36,50,0
+4872,Brønshøj-Husum,1013500000000,Kagsvang,0,435,50,0
+5034,Nørrebro,1015270000000,Ole Maaløes Vej,0,192,50,0
+5036,Østerbro,1017126000000,Sundkrogskaj,0,231,50,0
+5037,Amager Øst,1018360000000,Willumsvej,0,100,50,0
+5534,Amager Øst,1015656000000,Prøvestens Allé,0,180,15,0
+5038,Østerbro,1017972000000,Vangehusvej,0,286,40,0
+5039,Amager Øst,1018544000000,Øresundsvej,0,482,50,40
+5041,Amager Øst,1016560000000,Skånegade,0,164,50,0
+5042,Indre By,1016604000000,Slotsholmsgade,0,299,50,0
+5544,Indre By,1016152330000,Rådhuspladsen,0,163,50,0
+5061,Amager Vest,1011442070000,Edvard Thomsens Vej,0,70,50,0
+5045,Indre By,1014364000000,Livjægergade,0,310,50,0
+5046,Vesterbro-Kongens Enghave,1016084000000,Røddinggade,0,134,50,0
+5047,Amager Vest,1014792000000,Mjøsensgade,0,117,50,0
+5048,Nørrebro,1013988000000,Kronborggade,0,248,50,0
+5049,Amager Øst,1015556000000,Pommernsgade,0,145,50,0
+5050,Indre By,1011112000000,Christian IX's Gade,0,125,40,0
+5724,Nørrebro,1015988000000,Rovsingsgade,0,1308,50,0
+5728,Nørrebro,1016160000000,Rådmandsgade,0,418,50,30
+5729,Bispebjerg,1013060000000,Hovmestervej,0,589,50,30
+5731,Brønshøj-Husum,1018644020000,Åfløjen,0,269,30,0
+5732,Bispebjerg,1011284000000,Degnestavnen,0,242,50,30
+5528,Amager Øst,1014172000000,Laplandsgade,0,238,50,0
+5530,Valby,1014464000000,Lykkebovej,0,459,50,0
+5531,Indre By,1016656000000,Snaregade,0,101,40,0
+5533,Valby,1013212300000,Højsager Plads,0,44,50,0
+5535,Brønshøj-Husum,1010664000000,Bogenæsvej,0,234,50,0
+5537,Vesterbro-Kongens Enghave,1014734000000,A.C.Meyers Vænge,0,417,50,0
+5538,Amager Vest,1016148000000,Røsågade,0,270,50,0
+5539,Nørrebro,1010228000000,Arresøgade,0,221,50,0
+5545,Vanløse,1010376300000,Bangsbo Plads,0,74,50,0
+4873,Amager Øst,1011620000000,Engvej,0,426,40,0
+4874,Valby,1016304000000,Scharlingsvej,0,241,50,0
+4875,Bispebjerg,1016048000000,Rymarksvej,0,62,50,0
+4877,Bispebjerg,1012820000000,Henriksvej,0,235,50,30
+4878,Bispebjerg,1016416000000,Skaffervej,0,128,50,0
+4879,Brønshøj-Husum,1013108000000,Hvedevej,0,435,50,0
+4881,Vanløse,1017408000000,Thorsmindevej,0,185,50,0
+4883,Vesterbro-Kongens Enghave,1016816000000,Stampesgade,0,90,50,30
+4884,Indre By,1017652000000,Trommesalen,0,139,50,0
+4885,Amager Øst,1011620090000,Engvej,0,254,40,0
+4886,Amager Vest,1015798000000,Remisevej,0,281,50,30
+4887,Amager Øst,1014708000000,Mellemforts Allé,0,81,40,0
+5051,Vanløse,1017152000000,Svankærvej,0,206,50,0
+4892,Vesterbro-Kongens Enghave,1014408000000,Lundbyesgade,0,77,15,0
+4893,Østerbro,1013940000000,Krausesvej,0,251,50,0
+5052,Brønshøj-Husum,1018652000000,Ågerupvej,0,624,50,0
+5053,Amager Vest,1016464000000,Skipper Clements Allé,0,207,50,30
+5055,Bispebjerg,1015060000000,Nordstien,0,92,50,30
+5056,Vesterbro-Kongens Enghave,1016770000000,Speditørvej,0,175,50,0
+5057,Østerbro,1015292000000,Oliemøllegade,0,87,50,0
+5059,Indre By,1014092000000,Laksegade,0,251,40,0
+5062,Østerbro,1011426000000,Edel Sauntes Allé,0,890,40,0
+5063,Vanløse,1018632000000,Åbjergvej,0,51,50,0
+5309,Brønshøj-Husum,1016068000000,Rytterskolehøj,0,81,50,0
+5310,Østerbro,1014020000000,Kuhlausgade,0,51,40,0
+7605,Østerbro,1017852000000,Universitetsparken,18,306,40,0
+5312,Vesterbro-Kongens Enghave,1014385000000,Lone Kellermanns Vej,0,118,50,0
+5313,Vanløse,1010644000000,Bobakken,0,168,50,0
+5314,Indre By,1012364010000,Grønningen,0,42,50,0
+5315,Brønshøj-Husum,1015016000000,Nordfeldvej,0,239,50,0
+5316,Vanløse,1018688000000,Åløkkevej,0,420,50,0
+5317,Valby,1012920000000,Hjalmar Bergstrøms Vej,0,212,50,0
+5318,Østerbro,1015389000000,Parkhusvej,0,91,50,0
+5319,Nørrebro,1010176000000,Annekegade,0,66,50,0
+7610,Indre By,1010148000000,H.C. Andersens Boulevard,0,0,50,0
+5322,Indre By,1010160000000,Andreas Bjørns Gade,0,192,40,30
+5321,Vanløse,1011876000000,Fordresgårdvej,0,508,50,30
+5323,Østerbro,1017036000000,Strynøgade,0,103,40,30
+7604,Østerbro,1017852000000,Universitetsparken,18,306,60,0
+7206,Østerbro,1010468000000,Berggreensgade,120,170,40,30
+5549,Amager Vest,1018584000000,Østerdalsgade,0,177,50,0
+5550,Vesterbro-Kongens Enghave,1018824000000,Ernie Wilkins Vej,0,288,15,0
+5551,Nørrebro,1015192020000,Nørrebrogade,0,48,40,0
+5552,Amager Øst,1012192000000,Gertsvej,0,89,50,0
+5553,Indre By,1012992000000,Holmens Kanal,0,398,50,0
+5554,Vesterbro-Kongens Enghave,1015400000000,Palnatokesgade,0,64,50,0
+5555,Nørrebro,1016312000000,Schleppegrellsgade,0,118,40,0
+5556,Amager Vest,1011468000000,Egilsgade,0,518,50,30
+5557,Vanløse,1017994400000,Vanløse Torv,0,61,50,0
+5558,Valby,1017908000000,Valby Kirkevej,0,93,50,40
+5559,Amager Øst,1010072000000,Ahrenkildes Allé,0,217,50,30
+5560,Valby,1014932080000,Nakskovvej,0,67,50,30
+5561,Amager Vest,1011324000000,Drechselsgade,0,208,50,0
+5562,Amager Øst,1010272000000,Augustagade,0,202,50,0
+5566,Vanløse,1012628000000,Harboørevej,0,253,50,0
+5564,Amager Øst,1015588000000,Prags Boulevard,0,225,50,0
+5565,Bispebjerg,1017820000000,Uglevej,0,149,40,0
+4888,Østerbro,1010600000000,Blegdamsvej,0,1317,50,0
+4889,Indre By,1017970000000,Vandværksviadukten,0,73,50,0
+4890,Vanløse,1018396000000,Vinløvstien,0,76,50,30
+4891,Nørrebro,1010820000000,Bregnerødgade,0,179,50,0
+4894,Østerbro,1013556000000,Kanslergade,0,216,50,30
+4895,Valby,1014640000000,Maribovej,0,411,50,30
+4896,Amager Vest,1011108000000,Christian ll's Allé,0,348,50,30
+4897,Østerbro,1012956000000,Hjørringgade,0,218,50,0
+4898,Vesterbro-Kongens Enghave,1012702010000,Havneholmen,0,84,40,0
+4899,Østerbro,1017920000000,Valdemar Holmers Gade,0,282,50,30
+5334,Valby,1014002000000,Krumtappen,0,205,50,0
+4900,Nørrebro,1013012000000,Holtegade,0,173,50,0
+4901,Vesterbro-Kongens Enghave,1011664000000,Eskildsgade,0,358,50,0
+5064,Indre By,1015148000000,Ny Østergade,0,306,40,0
+5065,Østerbro,1012812000000,Henrik Harpestrengs Vej,0,285,40,0
+5066,Østerbro,1018416010000,Vognmandsmarken,0,130,50,30
+5068,Østerbro,1017836000000,F. F. Ulriks Gade,0,228,50,30
+5069,Nørrebro,1015724000000,Rantzausgade,0,783,50,0
+5071,Valby,1013788000000,Kløverbladsgade,0,460,50,0
+5072,Nørrebro,1012044000000,Fælledvej,0,242,50,0
+5073,Østerbro,1016324000000,Sejrøgade,0,240,50,0
+5074,Brønshøj-Husum,1011220000000,Dalbyvej,0,28,50,0
+5123,Vanløse,1017244000000,Syvstensvej,0,77,50,0
+5075,Vesterbro-Kongens Enghave,1015240000000,Oehlenschlægersgade,0,287,50,0
+5076,Østerbro,1011332000000,Drejøgade,0,543,40,0
+5325,Amager Øst,1011732000000,Fehmernsgade,0,77,50,0
+5327,Nørrebro,1013244000000,Høsterkøbgade,0,91,50,0
+5328,Amager Vest,1011160320000,Christmas Møllers Plads,16,68,50,0
+5330,Indre By,1011276300000,Dantes Plads,0,178,0,0
+5331,Amager Vest,1014520000000,Lærdalsgade,0,97,50,0
+5332,Bispebjerg,1015480000000,Pernillevej,0,274,50,30
+5333,Østerbro,1013008000000,Holsteinsgade,0,48,50,0
+5165,Amager Øst,1018444000000,Volosvej,0,202,50,30
+5335,Amager Øst,1010440000000,Belgiensgade,0,113,50,0
+5336,Amager Øst,1011060000000,Caprivej,0,104,40,0
+5337,Indre By,1017540000000,Toldbodgade,0,876,40,0
+5345,Amager Vest,1012172000000,Georginevej,0,154,50,0
+5338,Bispebjerg,1010536300000,Bispebjerg Torv,0,130,50,0
+5339,Nørrebro,1010340310000,Balders Plads,0,74,15,0
+5340,Nørrebro,1015692800000,Ragnhildgade,299,395,50,0
+5341,Amager Øst,1014248000000,Liden Kirstens Vej,0,132,40,0
+5343,Valby,1014804020000,Monrads Allé,0,35,50,0
+5344,Amager Vest,1018096000000,Ved Stadsgraven,0,340,50,0
+5567,Nørrebro,1018480000000,Vølundsgade,0,222,50,0
+5568,Amager Vest,1011416000000,Ebertsgade,0,87,50,0
+5569,Brønshøj-Husum,1013616000000,Kattingevej,0,151,50,0
+5570,Vesterbro-Kongens Enghave,1018172000000,Verdisvej,0,87,40,0
+5082,Valby,1010188000000,Antoinettevej,0,238,50,30
+5571,Brønshøj-Husum,1016444000000,Skensvedvej,0,654,50,0
+5573,Amager Øst,1013668000000,Kinavej,296,413,40,0
+5574,Bispebjerg,1010540000000,Bispebjergvej,0,471,50,0
+5576,Nørrebro,1014532000000,Læssøesgade,0,291,40,0
+5577,Nørrebro,1016478310000,Skjolds Plads,0,42,50,0
+5579,Valby,1011024000000,Bærhaven,0,299,40,0
+5581,Vesterbro-Kongens Enghave,1015792000000,Rejsbygade,0,69,50,0
+5086,Valby,1013692000000,Kirkevænget,0,286,50,40
+4902,Vanløse,1010448000000,Bellisvej,0,233,50,30
+4903,Indre By,1015772000000,Refshalevej,0,1343,50,30
+4904,Vanløse,1015834000000,C. F. Richs Vej,0,74,50,0
+4905,Amager Vest,1017870000000,Urmagerstien,0,35,50,0
+4906,Vesterbro-Kongens Enghave,1012248000000,Glucksvej,0,114,40,30
+4908,Indre By,1013596000000,Kastelsvej,0,448,50,0
+4909,Valby,1012656000000,Harrestrupvang,0,260,50,30
+4910,Amager Vest,1014208000000,Leifsgade,0,228,50,30
+4912,Indre By,1014992300000,Nikolaj Plads,0,115,40,0
+4914,Vesterbro-Kongens Enghave,1012076800000,Gamle Carlsberg Vej,392,583,50,0
+5077,Vanløse,1013608000000,Katrinedalsvej,0,89,50,0
+5078,Amager Øst,1017864000000,Uralvej,0,114,40,0
+5079,Bispebjerg,1015864000000,Ringertoften,0,243,50,30
+5080,Vanløse,1012668000000,Hasselvej,0,229,50,0
+5081,Østerbro,1017008010000,Strandvænget,0,166,50,0
+5360,Valby,1016008000000,Rughavevej,0,216,50,30
+5083,Østerbro,1015948000000,Rosenvængets Allé,0,563,50,30
+5084,Indre By,1016924000000,Stokhusgade,0,127,40,0
+5085,Valby,1016804000000,Stakhaven,0,165,40,0
+5584,Vanløse,1010492000000,Billesborgvej,0,175,50,0
+5087,Amager Vest,1011550000000,Emil Holms Kanal,0,358,0,0
+5088,Brønshøj-Husum,1014956000000,Nebbegårdsbakken,0,551,50,0
+5089,Indre By,1013960000000,Kristianiagade,0,478,50,0
+5090,Nørrebro,1014688020000,Meinungsgade,0,50,50,0
+5091,Nørrebro,1014936000000,Nannasgade,0,102,50,30
+5092,Vanløse,1014312000000,Limfjordsvej,0,349,50,30
+5093,Vanløse,1013434000000,Julie Arenholts Vænge,0,91,50,0
+5094,Indre By,1015320300000,Oslo Plads,0,288,50,0
+5346,Østerbro,1016032000000,Ruthsvej,0,126,50,0
+5347,Østerbro,1014192020000,Lautrupsgade,0,546,0,0
+5348,Brønshøj-Husum,1014956010000,Nebbegårdsbakken,0,67,50,0
+5349,Brønshøj-Husum,1012684000000,Havdrupvej,0,419,50,0
+5350,Brønshøj-Husum,1018140000000,Veksøvej,0,137,50,30
+5352,Amager Øst,1015588800000,Prags Boulevard,226,608,50,0
+5353,Brønshøj-Husum,1013768000000,Klostermarksvej,0,218,50,0
+5355,Nørrebro,1014188000000,Laurids Skaus Gade,0,66,50,30
+5356,Indre By,1015668000000,Pustervig,0,68,40,0
+5359,Amager Vest,1013844000000,Kongelundsvej,0,2370,50,0
+5409,Valby,1012352000000,Grønnehave Allé,0,276,40,30
+5582,Vesterbro-Kongens Enghave,1012544310000,Halmtorvet,0,43,50,0
+5583,Vanløse,1010760030000,Borups Allé,0,58,50,0
+5585,Østerbro,1011784000000,Fiskedamsgade,0,292,50,0
+5586,Bispebjerg,1010520000000,Bisiddervej,0,399,50,0
+5587,Valby,1017524000000,Toftegårds Allé,0,476,50,0
+5588,Vanløse,1013868000000,Kongsdalvej,0,603,50,0
+5590,Indre By,1011356000000,Dronningens Tværgade,0,462,40,0
+5591,Indre By,1011906000000,Fredensbro,0,180,50,0
+5592,Brønshøj-Husum,1016540000000,Skråningen,0,205,50,0
+5593,Indre By,1014928000000,Naboløs,0,50,40,0
+5594,Østerbro,1010720020000,Borgervænget,0,88,30,0
+4915,Brønshøj-Husum,1012184000000,Gerlevvej,0,142,50,0
+4916,Valby,1013336000000,Jakob Knudsens Vej,0,50,50,0
+4917,Indre By,1012844000000,Herluf Trolles Gade,0,285,40,0
+4918,Vanløse,1013120000000,Hvidkildevej,0,156,50,0
+4919,Østerbro,1015648000000,Præstøgade,0,141,50,0
+4920,Valby,1015444000000,Peder Hjorts Vej,0,223,50,0
+4921,Amager Vest,1013552000000,Kansasvej,0,335,50,30
+4922,Amager Øst,1018536000000,Ætnavej,0,145,50,0
+4924,Indre By,1014292000000,Lille Strandstræde,0,166,40,0
+5604,Brønshøj-Husum,1016700000000,Solkrogen,0,169,50,30
+5623,Østerbro,1015296000000,Olufsvej,0,52,50,30
+4925,Indre By,1011352000000,Dronningensgade,0,454,40,0
+4926,Indre By,1018020000000,Webersgade,0,213,50,0
+4929,Vesterbro-Kongens Enghave,1016412020000,Sjælør Boulevard,0,286,40,0
+4930,Bispebjerg,1016104000000,Rødkløvervej,0,413,50,30
+5367,Vesterbro-Kongens Enghave,1011264000000,Dannevirkegade,0,286,50,40
+5095,Valby,1015808000000,Retortvej,0,1061,50,0
+5096,Østerbro,1018356800000,Willemoesgade,738,816,50,0
+5097,Nørrebro,1017808000000,Udbygade,0,60,50,30
+5098,Valby,1011568000000,Engdraget,0,890,50,30
+5099,Brønshøj-Husum,1012388000000,Gråbynkevej,0,109,50,0
+5100,Indre By,1012001000000,Frue Plads,0,109,40,0
+5101,Valby,1017940000000,Valhøjvej,0,212,50,0
+5102,Amager Vest,1016880800000,Stenlandsvej,461,598,50,0
+5103,Østerbro,1010284000000,Australiensvej,0,301,40,0
+5104,Amager Vest,1014388000000,Lotusvej,0,281,50,0
+5105,Brønshøj-Husum,1011624000000,Enigheds Allé,0,41,50,0
+5106,Brønshøj-Husum,1017324000000,Sørupvej,0,122,50,0
+5107,Vesterbro-Kongens Enghave,1015796000000,Rektorparken,0,93,50,0
+5108,Amager Øst,1011976000000,Fremads Allé,0,53,50,0
+5109,Amager Øst,1015468000000,Per Døves Vej,0,134,40,0
+5110,Valby,1010612000000,Blommestien,0,231,40,0
+5111,Amager Vest,1018122000000,Weidekampsgade,0,473,50,0
+5361,Østerbro,1011152000000,Christiansmindevej,0,251,40,0
+5606,Vanløse,1011672000000,Eskjærvej,0,169,50,0
+5607,Valby,1014400000000,Lukretiavej,0,88,50,40
+5362,Valby,1011344000000,Dronning Dagmars Allé,0,229,50,0
+5363,Brønshøj-Husum,1012644010000,Hareskovvej,0,444,70,0
+5364,Vesterbro-Kongens Enghave,1016296000000,Scandiagade,0,353,60,0
+5366,Bispebjerg,1018548010000,Ørevadsvej,0,88,50,0
+5368,Brønshøj-Husum,1016888000000,Stenløsevej,0,809,50,0
+5369,Bispebjerg,1010620000000,Blytækkervej,0,149,50,0
+5370,Brønshøj-Husum,1018232000000,Vesterløkken,0,304,50,0
+5371,Vanløse,1013972000000,Krogebjerg,0,1389,50,0
+5596,Brønshøj-Husum,1010656000000,Boeslundevej,0,409,50,0
+5597,Indre By,1015200000000,Nørre Farimagsgade,0,761,50,0
+5598,Østerbro,1012960000000,Hobrogade,0,134,50,0
+5599,Valby,1017300010000,Søndervangs Allé,0,710,40,0
+7601,Indre By,1014144000000,Langelinie,0,888,0,0
+5602,Vanløse,1013604000000,Katholmvej,0,122,50,0
+5603,Amager Vest,1013826300000,Kofoeds Plads,0,45,50,0
+4933,Nørrebro,1011208000000,Dagmarsgade,0,354,50,0
+4934,Amager Øst,1011484000000,Eliasgade,0,178,50,0
+4936,Valby,1018684000000,Ålstrupvej,0,288,50,30
+4937,Amager Vest,1016616000000,Slusevej,0,349,50,0
+4938,Vanløse,1017980000000,Vangsåvej,0,137,50,0
+4939,Bispebjerg,1010668000000,Bogfinkevej,0,156,40,0
+4940,Amager Øst,1015024000000,Nordlandsgade,0,185,50,0
+4941,Indre By,1017454000000,Timiansgade,0,72,40,0
+4942,Vesterbro-Kongens Enghave,1018815000000,Peter Holms Vej,0,108,50,0
+4943,Østerbro,1017332000000,Saabyesvej,0,107,50,30
+4944,Amager Vest,1018543000000,Øresundsmotorvejen,61501,61921,90,0
+4945,Valby,1015968000000,Roskildevej,0,1325,60,0
+4946,Amager Øst,1018024000000,Ved Amagerbanen,0,721,50,0
+5113,Bispebjerg,1010692000000,Bomhusvej,0,235,50,0
+5114,Amager Øst,1014624000000,Marathonvej,0,226,50,30
+5115,Indre By,1013776000000,Klosterstræde,0,150,40,0
+5116,Brønshøj-Husum,1014512000000,Lystrupvej,0,251,50,0
+5117,Valby,1017896000000,Valborg Allé,0,186,50,0
+5118,Brønshøj-Husum,1017368000000,Terrasserne,0,523,50,40
+5391,Indre By,1015080000000,Ny Adelgade,0,113,40,0
+5119,Amager Øst,1013196010000,Højdevej,0,102,50,0
+5120,Amager Øst,1014596000000,Malakkavej,0,77,40,0
+5121,Brønshøj-Husum,1015075000000,Novembervej,0,86,50,0
+5124,Amager Øst,1012904000000,Hindustanvej,0,549,40,0
+5125,Brønshøj-Husum,1017372000000,Tersløsevej,0,276,50,0
+5126,Vesterbro-Kongens Enghave,1010652000000,Bodilsgade,0,72,50,0
+5129,Bispebjerg,1017580000000,Tornsangervej,0,139,40,0
+5376,Vesterbro-Kongens Enghave,1014036000000,Kvægtorvsgade,0,146,50,40
+5378,Østerbro,1010080000000,Aldersrogade,0,540,50,0
+5379,Indre By,1016076000000,Rævegade,0,75,40,0
+5380,Indre By,1012676000000,Hausergade,0,45,40,0
+5381,Vesterbro-Kongens Enghave,1013412000000,Johan Kellers Vej,0,483,50,30
+5382,Brønshøj-Husum,1013476000000,Jægersprisvej,0,138,50,0
+5383,Valby,1016440000000,Skelmosevej,0,163,50,0
+5384,Vesterbro-Kongens Enghave,1018472000000,Værnedamsvej,16,106,50,0
+5385,Valby,1012970000000,Holbæk Motorvej,6725,6809,60,0
+5386,Brønshøj-Husum,1014776000000,Mindstrupvej,0,70,50,30
+5387,Nørrebro,1018492000000,Ydunsgade,0,117,50,0
+5388,Østerbro,1017012000000,Strandøre,0,419,40,0
+5390,Amager Øst,1013944000000,Kretavej,240,518,50,30
+5127,Nørrebro,1012404000000,Guldbergsgade,0,198,50,0
+5609,Vanløse,1018372000000,Vindruevej,0,241,50,30
+5611,Østerbro,1014668000000,Marstalsgade,0,231,50,0
+5612,Brønshøj-Husum,1013240000000,Hørtoftevej,0,119,50,0
+5613,Vesterbro-Kongens Enghave,1010480000000,Bevtoftgade,0,148,50,0
+5614,Bispebjerg,1013256050000,Håndværkerhaven,0,99,50,30
+5615,Nørrebro,1012604030000,Hans Tavsens Gade,0,54,50,0
+5616,Bispebjerg,1016052020000,Ryparken,0,673,50,30
+5617,Vanløse,1011888000000,Fossgårdsvej,0,382,50,0
+5618,Indre By,1012680300000,Hauser Plads,0,83,40,30
+5619,Valby,1017628000000,Traps Allé,0,286,50,30
+5620,Amager Vest,1017844000000,Under Elmene,0,183,50,0
+5621,Amager Vest,1013568000000,Kaprifolievej,0,240,50,0
+5622,Bispebjerg,1016636000000,Smedetoften,0,438,50,30
+4947,Valby,1013820000000,Knuthenborgvej,0,234,50,30
+4948,Østerbro,1018192010000,Vestagervej,0,45,40,0
+4949,Brønshøj-Husum,1015156000000,Næsbyholmvej,0,604,50,0
+4950,Amager Øst,1011832000000,Florensvej,0,177,40,0
+4951,Vesterbro-Kongens Enghave,1010480010000,Bevtoftgade,0,34,50,0
+4952,Østerbro,1018046000000,Ved Eltham,0,30,50,0
+5151,Amager Øst,1016336000000,Serbiensgade,0,46,50,30
+4954,Vesterbro-Kongens Enghave,1014088000000,Kaalundsgade,0,92,50,0
+4955,Amager Vest,1018541070000,Ørestads Boulevard,0,54,50,0
+4956,Brønshøj-Husum,1017168000000,Svend Gønges Vej,0,239,50,30
+5130,Østerbro,1014476000000,Lyngbyvej,0,766,60,0
+5131,Amager Vest,1010119020000,Amagermotorvejen,61564,63210,90,0
+5133,Valby,1017918000000,Valby Torvegade,0,153,50,0
+5134,Vesterbro-Kongens Enghave,1011596000000,Engholmen,0,163,40,0
+5135,Brønshøj-Husum,1016496000000,Skolevangen,0,279,50,30
+5136,Bispebjerg,1016044000000,Rygårds Allé,0,184,50,0
+5137,Østerbro,1017133000000,Svanemøllebro,0,69,50,0
+5138,Amager Vest,1011736000000,Femkløvervej,0,65,50,0
+5139,Brønshøj-Husum,1014212000000,Lejrevej,0,222,50,30
+5140,Nørrebro,1010074400000,Aksel Larsens Plads,0,20,50,0
+5393,Vesterbro-Kongens Enghave,1013520020H01,Kalvebod Brygge,0,613,50,0
+5395,Amager Øst,1013892000000,Korfuvej,0,266,50,30
+5397,Bispebjerg,1015476020000,Perlestikkervej,0,141,50,30
+5398,Brønshøj-Husum,1013880000000,Kongstedvej,0,195,50,0
+5399,Østerbro,1015062000000,Nordsøvej,1000,1366,50,0
+5400,Vanløse,1017232000000,Syrenstien,0,73,50,30
+5402,Nørrebro,1010560000000,Bjelkes Allé,0,341,50,30
+5403,Nørrebro,1016596000000,Slotsgade,0,118,50,30
+5404,Vanløse,1015180320000,Nørager Plads,0,108,50,0
+5405,Amager Øst,1013368000000,Jenagade,0,27,15,0
+5406,Valby,1010320000000,Bag Søndermarken,0,35,50,0
+5407,Brønshøj-Husum,1018660000000,Åkandevej,0,1067,50,0
+5408,Brønshøj-Husum,1012488000000,Gårdtoftevej,0,62,50,0
+5624,Vanløse,1018624000000,Åbakkevej,0,194,50,30
+5625,Amager Øst,1016736000000,Sorrentovej,0,343,40,0
+5626,Indre By,1010060000000,Ahlefeldtsgade,0,96,50,0
+5627,Amager Vest,1010510000000,Birketinget,0,248,50,0
+5628,Vanløse,1013452000000,Jupitervej,0,327,50,0
+5629,Amager Vest,1010040000000,Agerlandsvej,0,465,50,30
+5630,Nørrebro,1016628000000,Smedegade,0,56,50,30
+5632,Valby,1012004000000,Frugthaven,0,594,40,0
+5634,Nørrebro,1012304000000,Griffenfeldsgade,0,207,50,30
+5637,Amager Øst,1011096000000,Ceylonvej,0,344,50,30
+5638,Amager Vest,1017188000000,Sverrigsgade,0,350,50,0
+5152,Østerbro,1014436000000,Lundingsgade,0,108,40,30
+5645,Amager Vest,1015384000000,Oxford Allé,0,116,50,30
+4957,Brønshøj-Husum,1013652000000,Kildeløbet,0,712,50,0
+4958,Vanløse,1013004000000,Holsteinborgvej,0,286,50,0
+4959,Vanløse,1017964000000,Valnøddevej,0,234,50,30
+4960,Nørrebro,1018636020000,Åboulevard,0,36,50,0
+4961,Brønshøj-Husum,1016708000000,Solsikkevej,0,182,50,0
+4962,Østerbro,1011168010000,Classensgade,0,37,50,0
+4963,Østerbro,1011076010000,Carl Nielsens Allé,0,37,50,0
+4964,Valby,1014324020000,Lindebugten,0,70,50,30
+4966,Østerbro,1013008040000,Holsteinsgade 22-24/Willemoesgade 39-41,0,33,50,30
+4967,Valby,1011072000000,Carl Langes Vej,0,177,50,30
+4968,Amager Øst,1013316010000,Italiensvej,0,571,50,0
+4969,Brønshøj-Husum,1012796000000,Hellestedvej,0,370,50,0
+4971,Amager Vest,1010092000000,Alperosevej,0,136,50,0
+5143,Østerbro,1015160000000,Næstvedgade,0,242,50,0
+7602,Indre By,1014144000000,Langelinie,0,888,40,0
+5145,Østerbro,1013660010000,Kildevænget,0,118,50,0
+5147,Indre By,1014260000000,Lille Farimagsgade,0,67,50,15
+5149,Vanløse,1013968000000,Krogagervej,0,185,50,0
+5150,Indre By,1016524000000,Skovgaardsgade,0,148,50,15
+5153,Østerbro,1015984000000,Rothesgade,0,186,50,0
+5154,Østerbro,1016424000000,Skanderborggade,0,190,50,0
+5155,Nørrebro,1017512000000,Todesgade,0,115,50,30
+5156,Indre By,1017660310000,Trondhjems Plads,0,56,50,0
+5410,Vesterbro-Kongens Enghave,1017216000000,Sydhavns Plads,0,250,50,0
+5411,Amager Øst,1010808000000,Bredegrund,0,56,50,0
+5412,Vesterbro-Kongens Enghave,1016544000000,Skydebanegade,0,194,50,0
+5413,Amager Øst,1012176000000,Gerbrandsvej,0,303,50,30
+5414,Østerbro,1018120000000,Ved Vænget,0,124,50,0
+5415,Brønshøj-Husum,1010324000000,Bakkekammen,0,466,50,0
+5417,Østerbro,1015472000000,Per Henrik Lings Allé,0,324,50,30
+5418,Amager Vest,1014500000000,Lysefjordsgade,0,107,50,0
+5419,Brønshøj-Husum,1012296000000,Grevingevej,0,245,50,0
+5420,Indre By,1011109000000,Christian IV's Bro,0,94,50,0
+5421,Amager Vest,1017960000000,Valmuevej,0,147,50,0
+5422,Nørrebro,1017812000000,Uffesgade,0,60,50,0
+5423,Amager Vest,1012584000000,Hans Bogbinders Allé,0,122,50,30
+5425,Indre By,1014980000000,Niels Juels Gade,0,176,50,0
+5427,Brønshøj-Husum,1016728000000,Sonnerupvej,0,228,50,0
+5641,Amager Øst,1018176000000,Vermlandsgade,0,944,50,0
+5642,Indre By,1014196000000,Lavendelstræde,0,130,40,0
+5643,Amager Vest,1011348000000,Dronning Elisabeths Allé,0,228,50,30
+5644,Brønshøj-Husum,1011508000000,Elmelundevej,0,308,50,0
+5646,Amager Vest,1013288000000,Irlandsvej,748,1570,50,0
+5647,Amager Vest,1018543050000,Øresundsmotorvejen,64200,64911,50,0
+5648,Østerbro,1011336000000,A . L . Drewsens Vej,0,160,50,0
+5649,Nørrebro,1012128000000,Gartnergade,0,97,50,0
+4972,Vanløse,1017536000000,Toftøjevej,0,252,50,0
+4973,Indre By,1018412000000,Vognmagergade,0,158,40,0
+4974,Amager Vest,1017840000000,Ulvefodvej,0,132,50,0
+4975,Amager Vest,1014875000000,Myggenæsgade,0,213,15,0
+4976,Amager Vest,1011477000000,Ejler Billes Allé,0,304,40,0
+4977,Østerbro,1010456310000,Bellmans Plads,0,45,40,0
+4979,Amager Øst,1012792000000,Hellelidenvej,0,180,40,0
+4980,Nørrebro,1018280000000,Vibekegade,0,294,50,0
+4981,Amager Øst,1012780000000,Hellasvej,0,404,50,30
+4982,Valby,1015132000000,Nystedvej,0,651,50,30
+4983,Amager Vest,1011404000000,Dyvekes Allé,0,228,50,30
+4984,Indre By,1014992320000,Nikolaj Plads,0,157,40,0
+5157,Nørrebro,1010760810000,Borups Allé,623,712,50,0
+5158,Amager Øst,1012720010000,Hedegaardsvej,0,237,50,0
+5160,Østerbro,1013948000000,A. F. Kriegers Vej,0,176,50,0
+5163,Indre By,1012924300000,Hjalmar Brantings Plads,0,75,40,0
+5164,Amager Vest,1010436000000,Belfastvej,0,184,50,0
+5159,Amager Vest,1010688000000,Boltonvej,0,518,50,0
+5167,Bispebjerg,1011372000000,Dunhammervej,0,167,50,30
+5168,Vesterbro-Kongens Enghave,1011086000000,Carsten Niebuhrs Gade,0,492,50,0
+5169,Amager Øst,1013952000000,Krimsvej,0,466,50,0
+5170,Brønshøj-Husum,1015528000000,Pilesvinget,0,1432,40,30
+5171,Vanløse,1012888800000,Hillerødgade,381,748,40,0
+5172,Brønshøj-Husum,1010408000000,Bavnevangen,0,295,50,30
+5173,Indre By,1014112000000,Landgreven,0,120,40,0
+5174,Indre By,1010192000000,Antonigade,0,85,40,0
+5175,Nørrebro,1013040300000,Hothers Plads,0,148,50,0
+5429,Amager Øst,1011880000000,Formosavej,0,87,50,0
+5430,Amager Vest,1016022010000,Rundholtsvej,0,96,50,0
+5703,Brønshøj-Husum,1010012000000,Abildhøj,0,106,50,0
+5431,Vesterbro-Kongens Enghave,1010020000000,Absalonsgade,0,487,50,0
+5434,Indre By,1017132000000,Svanegade,0,125,40,0
+5435,Bispebjerg,1015476000000,Perlestikkervej,0,136,50,30
+5436,Vesterbro-Kongens Enghave,1018008000000,Vasbygade,0,1426,60,0
+5437,Valby,1011104000000,Christen Bergs Allé,0,276,50,30
+5438,Vanløse,1015683020000,Rabarbervej,0,62,50,0
+5439,Valby,1017912010000,Valby Langgade,0,142,50,0
+5440,Indre By,1013804000000,Knippelsbrogade,0,124,40,0
+5441,Amager Vest,1014733000000,Metrovej,0,580,50,0
+5650,Vanløse,1014556000000,Lønstrupvej,0,213,50,30
+5652,Valby,1016516000000,Skovbogårds Allé,0,62,50,40
+5654,Valby,1014324000000,Lindebugten,0,575,50,30
+5655,Amager Øst,1013936010000,Kraftværksvej,0,334,0,0
+5656,Indre By,1015540000000,Pistolstræde,0,30,40,0
+5658,Østerbro,1014745000000,Midtermolen,0,264,50,0
+5659,Vesterbro-Kongens Enghave,1018268000000,Vestre Teglgade,0,185,50,0
+5660,Indre By,1014600000000,Malmøgade,0,150,40,0
+5182,Vanløse,1017576000000,Tornestykket,0,215,50,0
+5661,Østerbro,1016264000000,Sankt Kjelds Gade,0,350,40,0
+5664,Nørrebro,1013448000000,Julius Thomsens Gade,0,227,50,0
+5663,Vanløse,1014964000000,Nedertoften,0,283,50,0
+5665,Bispebjerg,1015804000000,Rentemestervej,0,544,50,0
+5666,Østerbro,1017316000000,Søpassagen,0,106,40,30
+5458,Vanløse,1018168000000,Veras Allé,0,304,50,0
+5466,Brønshøj-Husum,1012972300000,Holcks Plads,0,280,50,30
+4986,Valby,1015488000000,Peter Bangs Vej,0,957,50,0
+4988,Bispebjerg,1011996000000,Frimestervej,0,660,50,0
+4991,Amager Vest,1016168000000,Rågårdsminde,0,159,50,0
+4992,Indre By,1016232300000,Sankt  Annæ Plads,0,403,40,0
+4993,Brønshøj-Husum,1014154000000,Langhusvej,0,495,50,40
+4994,Bispebjerg,1013392000000,Jeppes Allé,0,114,50,0
+4997,Vesterbro-Kongens Enghave,1015900000000,H. V. Rolsteds Vej,0,204,50,30
+4998,Amager Øst,1011192000000,Cumberlandsgade,0,97,50,0
+4999,Bispebjerg,1016820000000,Statholdervej,0,232,50,0
+5000,Indre By,1013248000000,Høyensgade,0,138,50,15
+5176,Brønshøj-Husum,1013932000000,Krabbesholmvej,0,252,50,0
+5177,Amager Øst,1015736000000,Ravennavej,0,222,40,0
+5178,Valby,1016284000000,Saxhøjvej,0,209,50,0
+5179,Valby,1015932000000,Rosenhaven,0,187,40,0
+5180,Amager Vest,1013132000000,Hyacintvej,0,101,50,30
+5181,Østerbro,1016564040000,Slagelsegade,0,33,50,0
+5183,Indre By,1012108010000,Gammel Strand,0,34,40,0
+5185,Vesterbro-Kongens Enghave,1015664000000,Thomas Koppels Allé,0,428,40,30
+5459,Østerbro,1012092000000,Gammel Kalkbrænderi Vej,0,385,50,30
+5186,Østerbro,1015068000000,Norgesmindevej,0,487,40,0
+5188,Amager Vest,1012456000000,Gyldenrisvej,0,576,50,0
+5190,Østerbro,1011076000000,Carl Nielsens Allé,0,152,50,0
+5191,Nørrebro,1012816000000,Henrik Rungs Gade,0,191,50,0
+5192,Vesterbro-Kongens Enghave,1016724000000,Sommerstedgade,0,254,50,0
+5193,Amager Øst,1011620110000,Engvej,0,75,50,0
+5442,Indre By,1015204000000,Nørregade,0,491,40,0
+5443,Amager Øst,1013280000000,Iranvej,0,410,40,0
+5444,Valby,1017500000000,Tjørnelunds Allé,0,413,50,0
+5445,Indre By,1013712000000,Kjeld Langes Gade,0,125,30,0
+5446,Indre By,1018116000000,Ved Volden,0,128,40,0
+5448,Amager Øst,1016672000000,Sofie Brahes Allé,0,105,50,0
+5449,Amager Vest,1017108300000,Sundbyvester Plads,0,135,50,0
+5450,Vesterbro-Kongens Enghave,1010226000000,Arni Magnussons Gade,0,127,50,0
+5451,Valby,1010596000000,Blankavej,0,309,50,0
+5452,Bispebjerg,1015496000000,Peter Ibsens Allé,0,340,50,0
+5453,Brønshøj-Husum,1013152080000,Hyrdevangen,0,150,50,0
+5455,Brønshøj-Husum,1013088000000,Hustoftevej,0,232,50,0
+5456,Vesterbro-Kongens Enghave,1014048000000,Küchlersgade,0,222,15,0
+5457,Valby,1017636000000,Trekronergade,0,448,50,0
+5460,Amager Vest,1013722000000,Klaksvigsgade,0,340,50,0
+5461,Indre By,1015144000000,Ny Vestergade,0,177,40,0
+5668,Østerbro,1012440000000,Gustav Adolfs Gade,0,168,50,0
+5669,Amager Øst,1013924000000,Korsikavej,0,93,40,0
+5670,Amager Vest,1017828010000,Ulrik Birchs Allé,0,60,50,30
+5671,Bispebjerg,1014104000000,Landfogedvej,0,78,50,0
+5672,Amager Øst,1010144000000,Amsterdamvej,0,293,50,30
+5673,Vesterbro-Kongens Enghave,1016896000000,Stenosgade,0,144,50,0
+5667,Amager Øst,1016996000000,Strandlodsvej,0,1479,50,0
+5675,Vanløse,1015136000000,Nysøvej,0,232,50,0
+5676,Amager Øst,1010744000000,Borneovej,0,319,40,0
+5681,Vesterbro-Kongens Enghave,1010708000000,V.A. Borgens Vej,0,75,50,30
+5677,Østerbro,1015248000000,J. E. Ohlsens Gade,0,185,50,0
+5678,Brønshøj-Husum,1013198000000,Høje Gladsaxe Vej,0,302,60,0
+5679,Vanløse,1015596000000,Primulavej,0,293,50,0
+5680,Nørrebro,1018480020000,Vølundsgade,0,28,50,0
+5682,Valby,1014544000000,Lønborg Allé,0,143,50,0
+5683,Bispebjerg,1017080020000,Stærevej,0,102,40,0
+5684,Amager Øst,1015048000000,Nordre Røse Vej,0,73,50,0
+5002,Amager Vest,1017547000000,Tom Kristensens Vej,0,297,50,0
+5004,Østerbro,1016252800000,Sankt Jakobs Gade,102,207,50,0
+5005,Indre By,1014970000000,Nicolai Eigtveds Gade,0,213,40,0
+5006,Valby,1017308000000,Søndre Allé,0,421,50,30
+5464,Østerbro,1013266000000,Indiakaj,0,307,40,0
+5465,Nørrebro,1015232020000,Odinsgade,0,32,50,0
+5469,Nørrebro,1016204000000,Sandbjerggade,0,236,50,0
+5007,Vanløse,1010672000000,Bogholder Allé,0,741,50,0
+5009,Østerbro,1013008060000,Holsteinsgade 34-36/Willemoesgade 55-59,0,40,50,0
+5011,Nørrebro,1010336000000,Baldersgade,0,268,50,30
+5012,Brønshøj-Husum,1015517000000,Pilebro,0,33,50,0
+5014,Valby,1017916000000,Valby Tingsted,0,146,50,30
+5016,Østerbro,1018272000000,Weysesgade,0,57,40,0
+5017,Indre By,1014004000000,Krusemyntegade,0,114,40,0
+5020,Amager Øst,1014456000000,Lybækgade,0,311,50,30
+5194,Vanløse,1013764000000,Klokkestien,0,75,50,30
+5195,Vanløse,1011756000000,Ferskenvej,0,437,50,30
+5196,Vesterbro-Kongens Enghave,1018324000000,Wiinbladsgade,0,63,50,30
+5197,Brønshøj-Husum,1017764010000,Tølløsevej,0,45,50,30
+5198,Vanløse,1016452000000,Skibelundvej,0,283,50,0
+5199,Valby,1014324040000,Lindebugten,0,104,50,30
+5200,Amager Øst,1013896000000,Korinthvej,0,104,50,30
+5201,Amager Vest,1016360000000,Sigbrits Allé,0,251,50,30
+5204,Indre By,1018612060000,Øster Voldgade,0,114,40,0
+5205,Østerbro,1018300000000,Victor Bendix Gade,0,140,40,0
+5206,Østerbro,1017770000000,Tømmerkaj,0,394,50,0
+5208,Østerbro,1018576000000,Øster Allé,0,1169,40,0
+5209,Valby,1017680000000,Tschernings Allé,0,156,50,0
+5207,Vesterbro-Kongens Enghave,1018332000000,Viktoriagade,0,321,50,0
+5468,Bispebjerg,1012944000000,Hjortholms Allé,0,407,50,30
+5470,Indre By,1012384300000,Gråbrødretorv,0,90,40,0
+5471,Indre By,1017660320000,Trondhjems Plads,0,56,50,0
+5472,Østerbro,1011168030000,Classensgade,0,46,50,0
+5473,Valby,1012492000000,Gåsebæksvej,0,337,50,40
+5686,Amager Vest,1017155400000,Svend Aukens Plads,0,114,50,30
+5223,Østerbro,1016428000000,Skarøgade,0,97,40,30
+5711,Vanløse,1017712000000,Tustrupvej,0,127,50,0
+5687,Bispebjerg,1014235000000,Lersøstien,0,904,50,0
+5688,Vanløse,1010484000000,A.F. Beyers Vej,0,333,50,0
+5689,Indre By,1011278000000,David Balfours Gade,0,82,40,0
+5690,Brønshøj-Husum,1016756000000,Spangen,0,99,50,0
+5691,Bispebjerg,1017468000000,Tingskrivervej,0,158,50,0
+5692,Vesterbro-Kongens Enghave,1010556000000,Bissensgade,0,77,15,0
+5693,Amager Øst,1013344000000,Japanvej,0,77,40,0
+5695,Vesterbro-Kongens Enghave,1011052000000,Bådehavnsgade,0,1069,50,0
+5696,Bispebjerg,1017080000000,Stærevej,0,564,40,0
+5697,Bispebjerg,1010532020000,Bispebjerg Parkallé Nordlig,0,730,50,30
+5698,Vesterbro-Kongens Enghave,1014238000000,Letlandsgade,0,115,50,0
+5218,Brønshøj-Husum,1014304000000,Lillevang,0,62,50,0
+5219,Brønshøj-Husum,1010868000000,Broksøvej,0,177,50,0
+5702,Valby,1018468000000,Værkstedvej,0,469,50,0
+5220,Nørrebro,1014448010000,Lundtoftegade,0,89,50,0
+5221,Amager Vest,1012038000000,Fælleddiget,0,299,50,0
+5222,Amager Vest,1016916000000,Stjernevej,0,181,50,0
+5224,Østerbro,1015872000000,Ringkøbinggade,0,148,50,0
+5226,Nørrebro,1017452000000,Tikøbgade,0,130,50,0
+5476,Valby,1010368000000,Banevolden,0,709,50,0
+5477,Vanløse,1016648000000,Småkær,0,85,50,0
+5018,Nørrebro,1015192000000,Nørrebrogade,0,2190,40,0
+5021,Østerbro,1013828000000,Koldinggade,0,330,50,0
+5022,Valby,1018320000000,Vigerslevvej,0,3836,50,0
+5210,Brønshøj-Husum,1013152010000,Hyrdevangen,0,163,50,0
+5211,Amager Øst,1011340000000,Drogdensgade,0,182,50,0
+5212,Indre By,1012932000000,Hjertensfrydsgade,0,89,40,0
+5213,Vanløse,1013456010000,Jydeholmen,0,47,50,0
+5214,Indre By,1018100000000,Ved Stranden,0,203,40,0
+5215,Valby,1018276000000,Vibeholmen,0,170,50,30
+5216,Nørrebro,1017416000000,Thorupsgade,0,44,15,0
+5217,Brønshøj-Husum,1013848000000,Kongemarksvej,0,317,50,0
+5478,Amager Vest,1013512000000,Kaliforniensvej,0,303,50,30
+5480,Østerbro,1018356020000,Willemoesgade,0,43,50,0
+5481,Nørrebro,1012032000000,Fyensgade,0,93,50,0
+5482,Vanløse,1013588000000,Kastanie Allé,0,283,50,0
+5483,Valby,1012088000000,Gammel Jernbanevej,0,445,50,0
+5484,Amager Øst,1017856000000,Uplandsgade,0,1376,50,0
+5485,Indre By,1015113000000,Nyhavnsbro,0,42,40,0
+5486,Brønshøj-Husum,1012912000000,Hirsevej,0,252,50,0
+5487,Valby,1013188000000,Højdedraget,0,108,50,0
+5488,Amager Vest,1017320000000,Søren Norbys Allé,0,78,50,30
+5490,Amager Vest,1012578010000,Hannemanns Allé,0,202,50,0
+5699,Nørrebro,1012884000000,Hildursgade,0,185,50,0
+5700,Nørrebro,1018476000000,Vævergade,0,97,50,30
+5701,Bispebjerg,1010552000000,Bispevej,0,304,50,0
+5704,Østerbro,1015020000000,Nordkrog,0,353,50,30
+5705,Brønshøj-Husum,1014560010000,Løvetandsvej,0,108,50,30
+5706,Valby,1015324000000,Ottiliavej,0,101,50,0
+5234,Amager Øst,101423202B000,Lergravsvej,0,55,50,0
+4600,Østerbro,1018580020000,Østerbrogade 54-56,0,107,50,0
+5708,Brønshøj-Husum,1014360000000,Liselundvej,0,189,50,0
+5709,Vesterbro-Kongens Enghave,1014363300000,Liva Weels Plads,0,51,50,0
+5710,Østerbro,1013516000000,Kalkbrænderihavnsgade,0,118,50,0
+5712,Amager Øst,1017784000000,Tønnesvej,0,282,50,0
+5714,Nørrebro,1012748000000,Heinesgade,0,112,50,0
+4777,Amager Øst,1018664000000,Ålandsgade,0,231,50,0
+4778,Amager Vest,1012528000000,Halfdansgade,0,336,50,0
+4779,Brønshøj-Husum,1016704000000,Solrødvej,0,559,50,0
+4782,Amager Vest,1013618000000,Kay Fiskers Vej,0,174,50,0
+4784,Vanløse,1011456000000,Egemarkevej,0,164,50,0
+4786,Østerbro,1014700300000,Melchiors Plads,0,46,50,0
+4787,Indre By,1010716000000,Borgergade,0,277,40,0
+4788,Østerbro,1013360000000,Jellinggade,0,82,50,0
+4789,Vesterbro-Kongens Enghave,1013168000000,Händelsvej,0,410,40,0
+4791,Vanløse,1012892030000,Himmerlandsvej,0,49,50,0
+4793,Amager Vest,1016092000000,Rødelandsvej,0,169,50,30
+5228,Amager Øst,1015992000000,Rubikonvej,0,84,50,0
+4780,Brønshøj-Husum,1010014000000,Abildvang,0,262,50,0
+5229,Indre By,1010388000000,Bartholinsgade,0,164,40,0
+5230,Indre By,1015104000000,Nygade,0,77,15,0
+5231,Indre By,1014584000000,Magstræde,0,104,40,0
+5232,Vesterbro-Kongens Enghave,1016608000000,Sluseholmen,0,443,50,0
+5233,Indre By,1012924310000,Hjalmar Brantings Plads,0,70,40,0
+5235,Østerbro,1011704000000,Faksegade,0,198,50,0
+5236,Indre By,1015212010000,Nørre Søgade,0,49,50,0
+5237,Nørrebro,1010760820000,Borups Allé,715,1542,60,0
+5238,Vesterbro-Kongens Enghave,1010364310000,Banegårdspladsen,0,98,50,0
+4831,Vanløse,1010172000000,Annebergvej,0,261,50,0
+4808,Nørrebro,1010228800000,Arresøgade,222,285,50,0
+5239,Indre By,1018204000000,Vesterbrogade,0,2042,50,0
+5240,Vanløse,1017412000000,Thorupgård Allé,0,234,50,0
+5241,Amager Øst,1011620010000,Engvej,0,34,40,0
+5242,Nørrebro,1010086000000,Alleen,0,127,50,0
+5492,Amager Øst,1015388000000,Paduavej,0,277,40,0
+5493,Valby,1017528300000,Toftegårds Plads,0,153,50,0
+5494,Indre By,1015404000000,Palægade,0,156,40,0
+5496,Østerbro,1012948000000,Hjortøgade,0,191,40,0
+5497,Amager Øst,1010920000000,Brysselgade,0,226,50,0
+5498,Bispebjerg,1017880300000,Utterslev Torv,0,150,50,30
+5499,Amager Øst,1011880800000,Formosavej,530,581,40,0
+5500,Bispebjerg,1013760000000,Klokkerhøjen,0,143,50,30
+5502,Østerbro,1012060000000,Fåborggade,0,127,50,0
+5503,Bispebjerg,1012390000000,Gråspurvevej,0,287,0,0
+5504,Indre By,1014940000000,Nansensgade,0,628,30,0
+5505,Amager Vest,1013544000000,Kanadavej,0,312,50,30
+5507,Amager Øst,1018544040000,Øresundsvej,0,77,50,0
+5280,Østerbro,1012752000000,Heisesgade,0,55,40,0
+5508,Amager Øst,1015424000000,Parmagade,0,500,50,0
+5509,Amager Øst,1014216000000,Lemberggade,0,288,50,0
+4829,Amager Øst,1015224000000,Obdams  Allé,0,225,50,30
+5286,Nørrebro,1017336040000,Tagensvej,0,55,50,0
+4832,Amager Øst,1012288030000,Greisvej,0,416,40,0
+4833,Amager Vest,1015824000000,Reykjaviksgade,0,86,50,0
+4835,Vanløse,1016912000000,Stilledal,0,220,50,0
+4837,Vesterbro-Kongens Enghave,1011518000000,Elværksvej,0,626,50,0
+4838,Brønshøj-Husum,1017816000000,Uggerløsevej,0,196,50,0
+4839,Bispebjerg,1012360030000,Grønnemose Allé,0,117,50,0
+4840,Vesterbro-Kongens Enghave,1016814000000,Staldgade,0,358,50,0
+4843,Østerbro,1015508000000,Petersborgvej,0,80,50,0
+4844,Indre By,1017592000000,Torvegade,0,728,50,0
+4845,Østerbro,1018292000000,Viborggade,0,578,50,0
+4841,Indre By,1012548000000,Hambrosgade,0,268,40,0
+4830,Vesterbro-Kongens Enghave,1012716000000,Hedebygade,0,202,40,0
+4795,Amager Vest,1018376000000,Windsorvej,0,523,50,30
+4796,Vesterbro-Kongens Enghave,1017444800000,Tietgensgade,411,495,50,0
+4797,Østerbro,1017644010000,Trianglen,0,88,50,0
+4799,Valby,1010348000000,Bandholmvej,0,146,50,30
+4800,Amager Vest,1012052040000,Følfodvej,0,68,50,0
+4802,Brønshøj-Husum,1011380000000,Dybekær,0,261,50,0
+3890,Valby,1016772000000,Spiræavej,0,29,50,0
+4803,Brønshøj-Husum,1014308000000,Lilliendalsvej,0,262,50,0
+4804,Amager Øst,1017176000000,Svend Vonveds Vej,0,229,40,0
+4805,Vanløse,1016099510000,Rødkilde Plads,0,246,50,0
+4806,Vesterbro-Kongens Enghave,1017700000000,Tullinsgade,0,144,50,0
+4807,Vesterbro-Kongens Enghave,1011088000000,Carstensgade,0,255,15,0
+4809,Indre By,1016136000000,Rørholmsgade,0,236,40,0
+4810,Indre By,1016956000000,Store Regnegade,0,132,40,0
+4811,Bispebjerg,1011544050000,Emdrupvej,0,160,50,0
+5244,Vanløse,1017556000000,Torbenfeldtvej,0,321,50,0
+5245,Østerbro,1013000000000,Holstebrogade,0,135,50,0
+5246,Vanløse,1010992000000,Byhøjen,0,191,50,0
+5248,Amager Øst,1016188000000,Saltholmsvej,0,147,50,0
+3895,Amager Vest,1012320000000,Grønagervej,0,420,50,30
+4798,Indre By,1011916000000,Fredericiagade,0,758,40,0
+5249,Amager Øst,1015124000000,Nyrnberggade,0,490,50,0
+5250,Amager Øst,1010120000000,Amager Strandvej,0,2974,50,0
+5251,Vesterbro-Kongens Enghave,1017492000000,Tjæregade,0,185,50,0
+5252,Vanløse,1015760000000,Rebildvej,0,600,50,0
+5253,Østerbro,1016040800000,Ryesgade,434,1299,40,30
+5254,Nørrebro,1015236000000,Odins Tværgade,0,69,50,0
+5277,Nørrebro,1014488000000,Lynæsgade,0,49,50,0
+5283,Østerbro,1016072000000,Ryvangs Allé,0,1659,60,0
+5284,Vanløse,1010800000000,Bratskovvej,0,459,50,30
+5285,Østerbro,1016396020000,Sionsgade,0,90,50,0
+5287,Amager Vest,1010104000000,Amager Boulevard,0,1296,50,0
+5288,Vanløse,1014332000000,Lindehøjen,0,158,50,0
+3896,Brønshøj-Husum,1016028050000,Ruten,0,89,50,30
+5278,Amager Øst,1013426000000,Jorisvej,0,355,50,40
+3820,Vanløse,1010512000000,Birkholmvej,0,235,50,0
+3821,Indre By,1015112000000,Nyhavn,0,416,40,0
+3824,Østerbro,1016268310000,Sankt Kjelds Plads,0,81,50,0
+3825,Amager Øst,1013884000000,Kong Volmers Vej,0,122,50,0
+3827,Indre By,1010464000000,Bergensgade,0,200,50,0
+3829,Østerbro,1013610010000,Kattegatvej,0,268,50,0
+3830,Østerbro,1013032000000,Horsensgade,0,122,50,0
+4337,Østerbro,1018500000000,Æbeløgade,0,313,40,0
+4339,Bispebjerg,1011443000000,Efterslægtsvej,0,197,50,30
+4340,Vesterbro-Kongens Enghave,1011960000000,Frederiksstadsgade,0,193,50,30
+4342,Vesterbro-Kongens Enghave,1013876000000,Kongshøjgade,0,84,50,0
+4344,Østerbro,1015348010000,Ourøgade,0,53,40,0
+4345,Østerbro,1014404000000,H.C. Lumbyes Gade,0,55,40,0
+4347,Bispebjerg,1014528000000,Lærkevej,0,254,40,0
+4348,Vanløse,1015880000000,Risagervej,0,205,50,0
+4352,Nørrebro,1016508000000,Skotterupgade,0,237,50,0
+4349,Amager Vest,1017420000000,Thorvald Borgs Gade,0,214,50,0
+3823,Indre By,1014788800000,Mitchellsgade,168,283,40,0
+4338,Indre By,1012900000000,Hindegade,0,112,50,0
+3822,Vesterbro-Kongens Enghave,1011588300000,Enghave Plads,0,218,50,0
+4386,Amager Vest,1012448000000,Gyldenlakvej,0,513,50,0
+4388,Indre By,1010832000000,Bremerholm,0,282,40,0
+4389,Østerbro,1013332000000,Jagtvej,0,833,50,0
+4391,Indre By,1014352000000,Linnésgade,0,220,50,30
+4392,Østerbro,1015908000000,Rosbæksvej,0,420,40,0
+4393,Brønshøj-Husum,1015056000000,Nordrupvej,0,364,50,0
+4395,Østerbro,1011684000000,Esthersvej,0,442,50,0
+4396,Vesterbro-Kongens Enghave,1017888010000,Wagnersvej,0,162,40,30
+4398,Amager Vest,1010119800000,Amagermotorvejen,61501,62294,70,0
+4399,Valby,1010180000000,Annexstræde,0,85,50,30
+3887,Vanløse,1011040000000,Børglumvej,0,380,50,0
+3888,Nørrebro,1012852300000,Herman Triers Plads,0,116,0,0
+3889,Indre By,1017096000000,Suensonsgade,0,367,40,0
+3891,Valby,1010136000000,Amalie Skrams Allé,0,399,50,0
+3892,Bispebjerg,1019802000000,Frederikssundsvejtunnelen,3891,4828,70,0
+3893,Vanløse,1014610000000,Mandelvej,0,139,50,0
+3894,Indre By,1015140300000,Nytorv,0,92,40,0
+3897,Indre By,1010204000000,Arendalsgade,0,186,50,0
+3898,Valby,1013706000000,Kirsten Walthers Vej,0,183,50,0
+3904,Brønshøj-Husum,1010944000000,Brønshøjvej,0,612,50,0
+3903,Bispebjerg,1017552000000,Tonemestervej,0,145,50,0
+3832,Indre By,1014076000000,Købmagergade,0,514,15,0
+4085,Valby,1014612000000,Mansasvej,0,247,50,0
+4086,Amager Vest,1018090000000,Ved Slusen,0,766,50,0
+4087,Amager Øst,1011160310000,Christmas Møllers Plads,0,34,50,0
+4088,Indre By,1010648300000,Bodenhoffs Plads,0,173,40,30
+4089,Bispebjerg,1011228000000,Dalmosevej,0,389,50,30
+4090,Bispebjerg,1014120000000,Landsdommervej,0,262,50,0
+4091,Amager Øst,1013356000000,Javavej,0,262,40,0
+4092,Nørrebro,1013040310000,Hothers Plads,0,187,50,30
+4093,Amager Øst,1015600000000,Prins Buris Vej,0,114,40,0
+4094,Østerbro,1017052000000,Stubbeløbgade,0,190,50,0
+4095,Vesterbro-Kongens Enghave,1016224000000,Sankelmarksgade,0,198,50,0
+4096,Vesterbro-Kongens Enghave,1015996800000,Rubinsteinsvej,141,321,40,0
+4354,Amager Øst,1014368000000,Livornovej,0,267,40,0
+3902,Indre By,1011676000000,Esplanaden,0,500,40,0
+4401,Vanløse,1012916000000,Hirtshalsvej,0,91,50,0
+4402,Indre By,1012924320000,Hjalmar Brantings Plads,0,68,40,0
+4403,Valby,1010616000000,Blushøjvej,0,472,50,0
+4404,Vanløse,1012892000000,Himmerlandsvej,0,291,50,0
+4406,Valby,1017932000000,Valgårdsvej,0,154,50,0
+4408,Brønshøj-Husum,1011280000000,Degnemose Allé,0,141,50,0
+4409,Indre By,1012991000000,Holmens Bro,0,36,50,0
+4417,Amager Vest,1011632000000,Erantisvej,0,316,50,0
+4410,Østerbro,1013660000000,Kildevænget,0,115,50,0
+4411,Vanløse,1011510300000,Elna Munchs Plads,0,82,50,0
+4412,Indre By,1011128310000,Christiansborg Slotsplads,0,88,50,0
+4413,Bispebjerg,1014692000000,Mejsevænget,0,115,40,0
+4414,Nørrebro,1017772000000,Tømrergade,0,111,50,30
+4415,Indre By,1018108000000,Ved Vesterport,0,218,50,0
+4418,Amager Øst,1015684000000,Raffinaderivej,0,769,50,0
+4419,Valby,1014932060000,Nakskovvej,0,67,50,30
+4420,Amager Øst,1011032000000,Bøhmensgade,0,180,50,0
+4400,Nørrebro,1013440020000,Julius Bloms Gade,0,36,50,40
+4594,Indre By,1016620000000,Slutterigade,0,53,15,0
+4595,Indre By,1010872000000,Brolæggerstræde,0,128,40,0
+4596,Vanløse,1010016000000,Abrikosvej,0,144,50,30
+4597,Brønshøj-Husum,1013096000000,Husumvej,0,1466,50,0
+4598,Vesterbro-Kongens Enghave,1017355000000,Teglholm Tværvej,0,169,50,0
+4599,Indre By,1014292010000,Lille Strandstræde,0,27,40,0
+4602,Bispebjerg,1010532010000,Bispebjerg Parkallé Sydlig,0,717,50,30
+4603,Østerbro,1018164000000,Venøgade,0,274,40,0
+4606,Bispebjerg,1015476010000,Perlestikkervej,0,141,50,30
+4607,Amager Øst,1011304000000,Dirchsvej,0,77,50,0
+3905,Amager Øst,1014616000000,Mantuavej,0,272,40,0
+3907,Nørrebro,1015564000000,Poppelgade,0,92,50,0
+3908,Valby,1017686000000,Tudsemindevej,0,387,50,0
+3911,Valby,1010904000000,Bryggerivej,0,178,50,0
+3912,Bispebjerg,1016492000000,Skoleholdervej,0,954,50,30
+3913,Vanløse,1011412000000,Dønnerupvej,0,148,50,0
+3914,Vanløse,1012576000000,Hanebred,0,282,50,0
+3915,Amager Øst,1018184000000,Veronavej,0,270,40,0
+3917,Vanløse,1015732000000,Raunstrupvej,0,159,50,0
+3918,Amager Vest,1015608000000,Prinsesse Christines Vej,0,261,50,30
+4097,Amager Øst,1014032000000,Kvintus Allé,0,149,40,0
+4099,Østerbro,1017464000000,Tingskiftevej,0,114,40,0
+4100,Vanløse,1011644000000,Eriksholmvej,0,390,50,0
+4101,Indre By,1012116310000,Gammeltorv,0,40,15,0
+4102,Valby,1017600000000,Torveporten,0,189,50,0
+4104,Amager Øst,1018088000000,Ved Skansen,0,64,50,0
+4105,Vesterbro-Kongens Enghave,1010728000000,Borgmester Christiansens Gade,0,82,50,0
+4106,Amager Vest,1012196000000,Geysers Allé,0,141,50,30
+4107,Brønshøj-Husum,1018380000000,Vingegavl,0,140,50,30
+4108,Brønshøj-Husum,1016468000000,Skippingevej,0,227,50,0
+4109,Amager Vest,1015386000000,Oxford Have,0,188,50,0
+4612,Indre By,1014608000000,Mandalsgade,0,79,50,0
+4110,Østerbro,1016004000000,Rudolph Berghs Gade,0,267,50,30
+4113,Indre By,1014516000000,Læderstræde,0,184,15,0
+4114,Amager Øst,1011732010000,Fehmernsgade,0,9,50,0
+4115,Vesterbro-Kongens Enghave,1017340000000,Tartinisvej,0,209,40,0
+4111,Amager Vest,1014652000000,Markskiftevej,0,109,50,0
+4423,Indre By,1013620000000,Kejsergade,0,39,40,0
+4424,Vanløse,1012012000000,Fuglagervej,0,370,50,0
+4425,Nørrebro,1012552000000,Hamletsgade,0,405,50,0
+4426,Amager Øst,1015536000000,Pindosvej,0,287,50,30
+4427,Østerbro,1011720000000,Fanøgade,0,176,40,30
+4428,Brønshøj-Husum,1017516000000,Toftagervej,0,436,50,0
+3923,Valby,1015936000000,Rosenholms Allé,0,418,50,0
+4283,Amager Vest,1017724000000,Tværagervej,0,125,50,0
+4429,Østerbro,1018452000000,Vordingborggade,0,808,50,0
+4431,Indre By,1018612040000,Øster Voldgade,0,48,40,0
+4432,Indre By,1016236000000,Sankt Gertruds Stræde,0,86,40,0
+4435,Østerbro,1012292000000,Grenågade,0,156,50,0
+4433,Brønshøj-Husum,1012140000000,Gaunøvej,0,310,50,0
+4434,Østerbro,1017008050000,Strandvænget,0,243,0,0
+4608,Brønshøj-Husum,1012068000000,Gadelandet,0,659,50,0
+4609,Vesterbro-Kongens Enghave,1014392000000,Louis Pios Gade,0,278,40,30
+4614,Østerbro,1017124020000,Sundkrogsgade,0,64,0,0
+4616,Østerbro,1010756000000,Borthigsgade,0,280,50,0
+4619,Indre By,1012570000000,Hammershøis Kaj,0,301,0,0
+4620,Amager Øst,1014952000000,Neapelvej,0,118,40,30
+4621,Brønshøj-Husum,1018464000000,Vængeleddet,0,153,50,0
+4622,Bispebjerg,101076081A000,Borups Allé,0,110,50,0
+4623,Vesterbro-Kongens Enghave,1011518030000,Elværksvej,0,64,50,0
+3919,Amager Vest,1013904000000,Kornblomstvej,0,121,50,0
+3920,Bispebjerg,1014908000000,Møntmestervej,0,351,50,30
+3921,Nørrebro,1014996000000,Nivågade,0,58,50,0
+3922,Bispebjerg,1012000000000,Fruebjergvej,0,263,50,0
+3924,Vanløse,1010760010000,Borups Allé,0,58,50,0
+3925,Vesterbro-Kongens Enghave,1012712800000,Haydnsvej,65,192,40,0
+3926,Vesterbro-Kongens Enghave,1018008020000,Vasbygade,0,261,50,0
+3927,Bispebjerg,1016532000000,Skovstjernevej,0,206,50,30
+3928,Vesterbro-Kongens Enghave,1013312020000,Istedgade,0,46,50,0
+3929,Indre By,1017656000000,Trondhjemsgade,0,244,50,0
+3930,Indre By,1010264000000,Asylgade,0,77,40,0
+3931,Bispebjerg,1010676000000,Bogtrykkervej,0,112,50,0
+3932,Amager Vest,1013617300000,Kay Fiskers Plads,0,164,50,0
+3933,Nørrebro,1016024310000,Rungsted Plads,0,131,50,0
+3934,Nørrebro,1011904000000,Fredensborggade,0,107,50,0
+3935,Indre By,1018400000000,Visbygade,0,136,40,0
+3936,Amager Vest,1012728000000,Hegningen,0,243,50,0
+4116,Nørrebro,1011680000000,Esromgade,0,258,50,0
+4117,Amager Øst,1016016000000,Rumæniensgade,0,135,50,0
+4119,Amager Vest,1015460000000,Peder Skrivers Sti,0,191,50,0
+4120,Valby,1013216000000,Højsagervej,0,138,50,0
+4123,Vesterbro-Kongens Enghave,1010424000000,Beethovensvej,0,137,40,30
+4125,Østerbro,1016040000000,Ryesgade,0,135,40,0
+4127,Valby,1010724000000,Borghaven,0,31,40,0
+4128,Brønshøj-Husum,1012864000000,Herslevvej,0,145,50,0
+4129,Østerbro,1014152000000,Langesund,0,151,40,0
+4436,Indre By,1012452000000,Gyldenløvesgade,16,476,50,0
+4438,Vanløse,1011384000000,Dybendalsvej,0,484,50,0
+4439,Amager Vest,1016326000000,Selinevej,0,3407,50,0
+4440,Vesterbro-Kongens Enghave,1017216020000,Sydhavns Plads,0,62,0,0
+4442,Amager Øst,1015568000000,Poppelrækken,0,98,50,0
+4443,Vanløse,1014656000000,Markvej,0,45,50,0
+4444,Vesterbro-Kongens Enghave,1016860000000,Stenderupgade,0,133,50,0
+4446,Brønshøj-Husum,1011572000000,Engelholmvej,0,87,50,0
+4447,Vesterbro-Kongens Enghave,1013224000000,Høkerboderne,0,116,50,0
+4448,Indre By,1010271000000,August Bournonvilles Passage,0,101,40,0
+4625,Bispebjerg,1017040000000,Strødamvej,0,896,50,0
+4626,Amager Vest,1010844000000,Brigadevej,0,336,50,0
+4627,Nørrebro,1018556000000,Ørholmgade,0,145,50,30
+4628,Nørrebro,1012908000000,Hiort Lorenzens Gade,0,224,50,30
+4629,Vanløse,1014816000000,Morsøvej,0,465,50,0
+4630,Bispebjerg,1013784000000,Klædemålet,0,382,50,0
+4631,Brønshøj-Husum,1010256000000,Astersvej,0,145,50,0
+3968,Indre By,1015514000000,Philip De Langes Allé,0,306,50,0
+4632,Vesterbro-Kongens Enghave,1013228000000,Hørdumsgade,0,782,50,30
+4635,Amager Vest,1017744000000,Tyge Krabbes Vej,0,242,50,30
+4636,Brønshøj-Husum,1012648000000,Harespringet,0,326,50,0
+3937,Østerbro,1016128000000,Rønnegade,0,224,50,0
+3938,Østerbro,1013320000000,Jacob Erlandsens Gade,0,184,50,30
+3939,Valby,1018244000000,Vestervang,0,131,50,0
+3940,Østerbro,1012928000000,Hjelmsgade,0,78,40,0
+3941,Nørrebro,1012200000000,Gilbjerggade,0,56,50,0
+3942,Valby,1015216000000,Nørretofte Allé,0,224,50,0
+3943,Vesterbro-Kongens Enghave,1013520050000,Kalvebod Brygge (Fisketorvet),0,143,50,0
+3944,Østerbro,1014356000000,Lipkesgade,0,284,50,0
+3945,Amager Vest,1012424000000,Gullandsgade,0,241,50,0
+3946,Nørrebro,1013092000000,Husumgade,0,344,50,30
+3947,Vanløse,1012164000000,Gennemløbet,0,129,50,0
+3948,Valby,1014834000000,Mosestykket,0,83,50,0
+3949,Vesterbro-Kongens Enghave,1012508000000,Haderslevgade,0,72,15,0
+3950,Nørrebro,1015780000000,Refsnæsgade,0,70,50,0
+3951,Brønshøj-Husum,1012208000000,Gislingevej,0,100,50,0
+3952,Nørrebro,1015164000000,Nøddebogade,0,48,50,0
+3955,Valby,1014712000000,Mellemleddet,0,154,50,30
+4130,Amager Øst,1013684000000,Kirkegårdsvej,0,249,50,0
+4131,Brønshøj-Husum,1018704000000,Åvendingen,0,383,50,30
+4133,Valby,1013084000000,Humlehaven,0,90,40,0
+4134,Bispebjerg,1013068300000,Hulgårds Plads,0,141,40,0
+4135,Amager Øst,1010032000000,Adriansvej,0,347,50,30
+4138,Brønshøj-Husum,1015636010000,Præstekærvej,0,64,50,0
+4139,Indre By,1011512000000,Elsdyrsgade,0,206,40,0
+4140,Nørrebro,1012460000000,Gyritegade,0,155,50,0
+4141,Vesterbro-Kongens Enghave,1017044000000,Strømmen,0,109,0,0
+4142,Indre By,1013184300000,Højbro Plads,0,142,40,0
+4143,Amager Øst,1015432000000,Parosvej,0,110,50,30
+4146,Indre By,1016152300000,Rådhuspladsen,0,91,50,0
+4144,Vanløse,1011948020000,Frederiksgårds Allé,0,135,50,0
+4145,Indre By,1018800030000,Fabriksområdet,0,35,0,0
+4147,Nørrebro,1013472000000,Jægersborggade,0,339,50,0
+4683,Valby,1012616000000,Harald Kiddes Vej,0,126,50,0
+4452,Indre By,1017860000000,Upsalagade,0,401,40,0
+4454,Amager Vest,1015344000000,Otto Ruds Vej,0,124,50,30
+4456,Vesterbro-Kongens Enghave,1014684000000,Matthæusgade,0,115,15,0
+4457,Vanløse,1012264000000,Godthåbsvej,0,961,50,0
+4470,Amager Vest,1011692000000,Etonvej,0,98,50,0
+4458,Bispebjerg,1012756000000,Hejrevej,0,383,40,0
+4459,Vesterbro-Kongens Enghave,1013672000000,Kingosgade,0,84,50,0
+4461,Vesterbro-Kongens Enghave,1015976000000,Rossinisvej,0,150,40,0
+4464,Bispebjerg,1014424000000,Lundehusvej,0,530,50,0
+4638,Brønshøj-Husum,1014628000000,Marbjergvej,0,327,50,0
+4639,Valby,1018308000000,Vigerslev Allé,0,1033,60,0
+4640,Valby,1014440000000,Lundsfrydvej,0,308,50,0
+4642,Indre By,1017338000000,Takkelloftvej,0,97,50,0
+4643,Amager Øst,1014632000000,Marengovej,0,174,40,0
+4645,Nørrebro,1013468000000,Jægergade,0,53,50,30
+4646,Nørrebro,1017400010000,Thorsgade,0,55,0,0
+4647,Valby,1016352000000,Sibbernsvej,0,93,50,0
+4648,Bispebjerg,1010680000000,Bolandsvej,0,142,50,0
+4653,Valby,1013258000000,Ib Schønbergs Allé,0,243,40,0
+4650,Amager Øst,1017740000000,Tycho Brahes Allé,0,439,50,0
+4652,Amager Øst,1010836000000,Breslaugade,0,110,50,0
+3956,Vesterbro-Kongens Enghave,1016572000000,Slagterboderne,0,119,50,0
+3957,Brønshøj-Husum,1010768000000,Boserupvej,0,199,50,0
+3958,Indre By,1010148000000,H.C. Andersens Boulevard,0,317,50,0
+3959,Brønshøj-Husum,1010260000000,Astrupvej,0,130,50,0
+3960,Valby,1015416020000,Parkstien,0,281,50,0
+3961,Amager Øst,1014740000000,Middelgrundsvej,0,206,50,0
+3962,Bispebjerg,1012803000000,Helsingørmotorvejen,41997,43146,60,0
+3963,Amager Vest,1015360000000,Overdrevsvej,0,108,50,0
+3964,Amager Øst,1017604000000,Tovelillevej,782,852,40,30
+3966,Vesterbro-Kongens Enghave,1018826000000,Oscar Pettifords Vej,0,177,50,0
+3967,Vanløse,1014320000000,Linde Allé,0,290,50,0
+3969,Amager Øst,1018448000000,Woltersgade,0,143,50,0
+3971,Vanløse,1013664000000,Kilholmvej,0,186,50,0
+3972,Vanløse,1014200000000,Ledagersti,0,96,50,30
+4149,Vanløse,1013752000000,Klitmøllervej,0,42,50,0
+4150,Bispebjerg,1013044000000,Houmanns Allé,0,96,50,0
+4151,Vesterbro-Kongens Enghave,101352007A000,Kalvebod Brygge,0,1109,40,0
+4152,Østerbro,1013980000000,Kroghsgade,0,74,40,0
+4154,Brønshøj-Husum,1012828000000,Herfølgevej,0,238,50,0
+4155,Amager Vest,1012672000000,Hastingsvej,0,43,50,30
+4156,Indre By,1010960000000,Burmeistersgade,0,224,40,0
+4158,Amager Øst,1014000000000,Krudtmøllegårds Allé,0,210,50,30
+4161,Amager Vest,1015352000000,Ove Billes Vej,0,220,50,30
+4163,Indre By,1010678000000,Bohlendachvej,0,169,50,0
+4169,Vesterbro-Kongens Enghave,1013536000000,"Kammasvej, 1748 København V",0,112,50,40
+4164,Vesterbro-Kongens Enghave,1010880000000,Brorsonsgade,0,84,50,0
+4165,Indre By,1014176000000,Larsbjørnsstræde,0,181,40,0
+4166,Amager Vest,1013260000000,Ilfordvej,0,122,50,0
+4167,Amager Øst,1010216000000,Armeniensvej,0,275,50,0
+4168,Valby,1017224000000,Sylviavej,30,174,50,0
+4465,Valby,1013856000000,Kongeslusen,0,221,0,0
+4466,Vanløse,1012264020000,Godthåbsvej,0,30,50,30
+4469,Bispebjerg,1014068000000,Kærsangervej,0,119,40,30
+4157,Amager Vest,1011612000000,Engsletten,0,268,50,30
+4148,Valby,1016412000000,Sjælør Boulevard,0,1389,50,0
+3970,Amager Vest,1016712000000,Solskiftevej,0,106,50,0
+4471,Vesterbro-Kongens Enghave,1018821000000,Richard Boones Vej,0,112,15,0
+4472,Valby,1013022000000,Hornemanns Vænge,0,299,50,30
+4473,Amager Øst,1013508000000,Kaldæavej,0,157,40,0
+4475,Vanløse,1018552000000,Ørhagevej,0,254,50,0
+4478,Østerbro,1012050000000,Færgehavnsvej,0,547,50,0
+4480,Indre By,1015368000000,Overgaden Oven Vandet,0,795,40,0
+4481,Brønshøj-Husum,1013094300000,Husum Torv,0,67,50,0
+4672,Indre By,1015294000000,Oluf Palmes Gade,0,178,40,0
+4673,Brønshøj-Husum,1015636000000,Præstekærvej,0,164,50,0
+4674,Indre By,1012074010000,Galionsvej,0,165,15,0
+4675,Amager Vest,1012028000000,Fussingsvej,0,73,50,30
+4677,Amager Øst,1018152000000,Venedigvej,0,126,40,0
+4678,Vanløse,1013532000000,Kaløvej,0,385,50,0
+4679,Amager Øst,1017648000000,Trojavej,0,66,50,0
+4680,Nørrebro,1015492000000,Peter Fabers Gade,0,229,50,30
+4681,Østerbro,1017148000000,Svanevænget,0,254,50,30
+4686,Vanløse,1018408000000,Vognborgvej,0,206,50,0
+4688,Brønshøj-Husum,1016494000000,Skolesiden,0,326,50,30
+4689,Bispebjerg,1015740000000,Ravneholmsvej,0,297,50,0
+4690,Amager Vest,1013502000000,Kaj Munks Vej,0,310,50,0
+4691,Indre By,1011184000000,Collinsgade,0,98,50,0
+3973,Indre By,1016276300000,Sankt Pauls Plads,0,39,40,0
+3974,Vesterbro-Kongens Enghave,1011652000000,Ernst Meyers Gade,0,77,15,0
+3975,Amager Vest,1017240000000,Syvens Allé,0,92,50,30
+3977,Østerbro,1017068000000,Studsgaardsgade,0,358,50,0
+3978,Nørrebro,1018520000000,Ægirsgade,0,418,50,0
+3980,Brønshøj-Husum,1012072000000,Gadstrupvej,0,141,50,0
+3981,Nørrebro,1014568000000,P. D. Løvs Allé,0,169,50,0
+3982,Amager Vest,1018028000000,Ved Amagerport,0,228,50,0
+3983,Brønshøj-Husum,1016664000000,Snertingevej,0,338,50,0
+3984,Bispebjerg,1011892000000,C. J. Frandsens Vej,0,253,50,0
+3985,Vesterbro-Kongens Enghave,1010096000000,Alsgade,0,268,50,40
+3986,Amager Vest,1018543030000,Øresundsmotorvejen,63683,63977,60,0
+3987,Amager Vest,1016900000000,Stenrosevej,0,223,50,0
+4172,Valby,1013574000000,Karin Nellemoses Vej,0,54,0,0
+4175,Indre By,1018384000000,Vingårdsstræde,0,166,40,0
+4176,Amager Vest,1018543020000,Øresundsmotorvejen,62104,62416,70,0
+4177,Valby,1016180000000,Sakskøbingvej,0,81,50,30
+4178,Vesterbro-Kongens Enghave,1014840310000,Mozarts Plads,0,181,40,0
+4179,Vanløse,1011452000000,Egelykkevej,0,33,50,0
+4180,Indre By,1013048000000,Hovedvagtsgade,0,110,40,0
+4181,Østerbro,1011068000000,Carl Johans Gade,0,177,50,0
+4182,Indre By,1017564000000,Tordenskjoldsgade,0,304,40,0
+7665,Østerbro,1017800000000,Tåsingegade,0,729,50,0
+4187,Amager Vest,1016500000000,Skotlandsgade,0,142,50,0
+4739,Indre By,1018800000000,Fabriksområdet,0,256,0,0
+4011,Amager Vest,1018540000000,Ølandsgade,0,98,50,0
+4023,Indre By,1016512000000,Skoubogade,0,57,40,0
+4184,Vanløse,1016184000000,Sallingvej,0,1095,50,0
+4185,Indre By,1013540000000,Kampmannsgade,0,387,50,0
+4483,Vanløse,1010752000000,Borrebyvej,0,422,50,30
+4485,Bispebjerg,1016592000000,Slotsfogedvej,0,113,50,0
+4486,Indre By,1016992800000,Strandgade,452,825,40,0
+4487,Bispebjerg,1015676000000,På Bjerget,0,247,50,0
+4488,Nørrebro,1017936000000,Valhalsgade,0,85,50,0
+4489,Østerbro,1016340000000,Serridslevvej,0,433,50,30
+4490,Indre By,1014904000000,Møntergade,0,192,40,0
+4491,Amager Vest,1010420000000,Bedfordvej,0,97,50,0
+4493,Vesterbro-Kongens Enghave,1017222000000,Sydløbsvej,0,95,50,0
+4495,Vanløse,1017436000000,Thyvej,0,91,50,0
+4728,Indre By,1018612020000,Øster Voldgade,0,38,40,0
+4729,Indre By,1012632000000,Hardangergade,0,78,50,0
+4730,Indre By,1011984300000,Fridtjof Nansens Plads,0,102,50,0
+4731,Valby,1014132010000,Langagervej,0,93,50,0
+4732,Indre By,1016280000000,Sankt Peders Stræde,0,362,40,0
+4733,Indre By,1011356010000,Dronningens Tværgade,0,50,40,0
+4734,Indre By,1013984000000,Krokodillegade,0,211,40,0
+4736,Amager Øst,1014760000000,Milanovej,0,167,40,0
+4738,Valby,1017224020000,Sylviavej,0,60,50,0
+4186,Indre By,1015336000000,Otto Mønsteds Gade,0,141,40,0
+4492,Vesterbro-Kongens Enghave,1010460000000,Belvederegade,0,281,50,0
+4693,Vanløse,1015120000000,Nymindevej,0,177,50,0
+4740,Brønshøj-Husum,1017424000000,Thurebyholmvej,0,245,50,0
+4743,Brønshøj-Husum,1010224000000,Arnesvej,0,258,50,0
+4745,Vesterbro-Kongens Enghave,1010364300000,Banegårdspladsen,0,257,50,0
+3988,Valby,1017872000000,Urtehaven,0,1152,40,0
+3989,Amager Vest,1012084000000,Gammelgang,0,311,50,0
+3990,Valby,1016556000000,Skyttegårdvej,0,230,50,0
+3992,Vanløse,1014060000000,Kæragervej,0,25,50,0
+3994,Brønshøj-Husum,1011428000000,Edelsmindevej,0,222,50,0
+3995,Amager Vest,1016880000000,Stenlandsvej,0,460,50,30
+3996,Vanløse,1016420010000,Skalbakken,0,104,50,0
+3997,Vanløse,1013120020000,Hvidkildevej,0,69,50,0
+3998,Amager Øst,1012168020000,Genuavej,0,70,40,0
+4188,Bispebjerg,1014836000000,Mosesvinget,0,50,40,30
+4189,Amager Vest,1012436000000,Gunløgsgade,0,512,50,30
+7680,Indre By,1018252800000,Vester Voldgade,230,863,50,30
+4191,Nørrebro,1016484000000,Skodsborggade,0,91,50,0
+4192,Brønshøj-Husum,1013284000000,Irisvej,0,168,50,0
+4193,Østerbro,1010139310000,Amerika Plads,0,105,50,0
+4504,Vesterbro-Kongens Enghave,1016472000000,Skjalm Hvides Gade,0,136,50,0
+4194,Østerbro,1013928000000,Korsørgade,0,354,50,0
+4196,Vesterbro-Kongens Enghave,1011375000000,Dybbølsbro,0,"268,78",50,0
+4024,Vesterbro-Kongens Enghave,1018825000000,Kenny Drews Vej,0,281,15,0
+4198,Nørrebro,1014688000000,Meinungsgade,0,244,50,0
+4199,Brønshøj-Husum,1013688000000,Kirketoften,0,172,50,30
+4200,Indre By,1015318000000,Orlogsværftvej,0,227,50,0
+4202,Indre By,1013736000000,Klerkegade,0,314,40,0
+4203,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,0,305,50,40
+4496,Bispebjerg,1011544000000,Emdrupvej,0,1851,50,0
+4497,Vanløse,1015788000000,Reinettevej,0,270,50,30
+4498,Vesterbro-Kongens Enghave,1015664040000,Thomas Koppels Allé,0,58,40,30
+4499,Bispebjerg,1012644020000,Hareskovvej,0,439,70,0
+4500,Amager Vest,1010152000000,Anders Henriksensgade,0,84,50,30
+4501,Nørrebro,1017400000000,Thorsgade,0,634,50,0
+4502,Nørrebro,1012852520000,Herman Triers Plads,0,116,50,0
+4503,Vanløse,1011398000000,Dysseager,0,72,50,0
+4195,Vesterbro-Kongens Enghave,1010004010000,Abel Cathrines Gade,0,37,50,0
+4654,Brønshøj-Husum,1018034000000,Ved Bellahøj Syd,0,497,50,0
+4025,Amager Vest,1018543010000,Øresundsmotorvejen,61867,62086,70,0
+4694,Østerbro,1016988000000,Strandboulevarden,0,1881,50,0
+4695,Østerbro,1014124000000,Landskronagade,0,696,40,0
+4696,Østerbro,1018580000000,Østerbrogade,0,2199,50,0
+4000,Vesterbro-Kongens Enghave,1010212000000,Arkonagade,0,191,50,0
+4001,Brønshøj-Husum,1011236000000,Dalvangen,0,57,50,30
+4002,Østerbro,1016308000000,Scherfigsvej,0,161,40,0
+4004,Indre By,1018628000000,Åbenrå,0,226,40,0
+4005,Amager Øst,1011080000000,Carlsgade,0,87,50,0
+4006,Valby,1017900000000,Valbygårdsvej,0,567,50,0
+4007,Valby,1015264000000,Ole Borchs Vej,0,658,50,30
+4008,Østerbro,1018228000000,Vesterled,0,77,50,0
+4009,Bispebjerg,1014120020000,Landsdommervej,0,184,50,30
+4664,Østerbro,1015716000000,Randersgade,0,69,50,0
+4012,Nørrebro,1010736000000,Borgmestervangen,0,256,50,0
+4013,Bispebjerg,1014924000000,Mårumvej,0,71,50,0
+4021,Valby,1013534000000,Kamhusene,0,230,50,0
+4015,Østerbro,1014540000000,Løgstørgade,0,434,50,0
+4204,Amager Øst,1014604000000,Maltagade,0,317,50,0
+4205,Nørrebro,1013440000000,Julius Bloms Gade,0,346,50,40
+4206,Bispebjerg,1012280000000,Gransangervej,0,264,40,0
+4207,Vesterbro-Kongens Enghave,1017084000000,Støberigade,0,355,50,0
+4208,Indre By,1015612000000,Prinsessegade,0,988,40,0
+4209,Vesterbro-Kongens Enghave,1015327000000,Otto Brandenburgs Vej,0,237,50,0
+4210,Amager Vest,1018541110000,Ørestads Boulevard,0,101,50,0
+4211,Valby,1012848310000,Herman Bangs Plads,0,68,50,0
+4212,Vesterbro-Kongens Enghave,1017924000000,Valdemarsgade,0,374,50,30
+4213,Indre By,1016152400000,Rådhuspladsen,0,99,50,0
+4215,Nørrebro,1016024320000,Rungsted Plads,0,131,50,0
+4216,Valby,1011000000000,Bymosevej,0,68,50,0
+4217,Nørrebro,1011972000000,Frejasgade,0,150,50,0
+4218,Brønshøj-Husum,1017056000000,Stubbevangen,0,183,50,30
+4219,Valby,1010580000000,Bjerregårds Sidevej,0,78,50,30
+4220,Brønshøj-Husum,1010656010000,Boeslundevej,0,23,50,0
+4505,Amager Vest,1011300000000,Digevej,0,856,50,0
+4506,Amager Vest,1012760000000,Heklas Allé,0,142,50,30
+4507,Indre By,1017944000000,Valkendorfsgade,0,274,40,0
+4509,Valby,1011992000000,Frilands Allé,0,77,50,0
+4510,Bispebjerg,1016528000000,Skovløbervej,0,35,50,0
+4511,Vesterbro-Kongens Enghave,1017824000000,Ullerupgade,0,85,50,0
+4513,Vanløse,1011320000000,Dragsholmvej,0,85,50,0
+4022,Valby,1015569000000,Poppelstykket,0,269,50,0
+4514,Vanløse,1011948000000,Frederiksgårds Allé,0,318,50,0
+4515,Bispebjerg,1013772000000,Klosterrisvej,0,206,50,0
+4516,Bispebjerg,1013256080000,Håndværkerhaven,0,95,50,30
+4517,Nørrebro,1012604010000,Hans Tavsens gade,0,45,50,0
+4518,Brønshøj-Husum,1014848020000,Muldager,0,103,50,0
+4519,Vanløse,1010964000000,Buskager,0,223,50,30
+4520,Nørrebro,1011724000000,Farumgade,0,126,50,0
+4521,Vesterbro-Kongens Enghave,1017700010000,Tullinsgade,0,20,50,0
+4697,Valby,1017432000000,Thyregodsvej,0,231,50,0
+4698,Nørrebro,1011873310000,Folmer Bendtsens Plads,0,29,50,0
+4699,Amager Øst,1011896000000,Frankrigsgade,0,445,50,0
+4701,Amager Vest,1015452010000,Peder Lykkes Vej,0,148,50,0
+4703,Amager Øst,1016652000000,Smålandsgade,0,86,50,0
+4704,Vesterbro-Kongens Enghave,1015244000000,Offenbachsvej,0,147,40,0
+4705,Østerbro,1011576000000,Engelstedsgade,0,249,50,30
+4706,Bispebjerg,1012416000000,Guldstjernevej,0,126,50,0
+4708,Bispebjerg,1013152800000,Hyrdevangen,291,928,50,0
+4709,Vesterbro-Kongens Enghave,1016364000000,Sigerstedgade,0,110,50,0
+4016,Bispebjerg,1014948000000,Nattergalevej,0,607,40,0
+4017,Indre By,1010124300000,Amagertorv,0,238,15,0
+4018,Indre By,1013376000000,Jens Juels Gade,0,191,50,15
+4026,Amager Vest,1017560000000,Torben Oxes Allé,0,81,50,30
+4027,Amager Øst,1014696000000,Meklenborggade,0,66,50,0
+4028,Amager Øst,1011912000000,Fredenshøj Allé,0,86,50,0
+4029,Vesterbro-Kongens Enghave,1016296800000,Scandiagade,354,901,50,0
+4030,Vesterbro-Kongens Enghave,1011636000000,Erik Ejegods Gade,0,79,50,0
+4034,Nørrebro,1016358400000,Sifs Plads,0,115,0,0
+4221,Brønshøj-Husum,1010208000000,Arildsgård,0,342,50,0
+4222,Østerbro,1017248000000,Sæbygade,0,51,50,0
+4223,Nørrebro,1012788000000,Hellebækgade,0,254,50,0
+4225,Vesterbro-Kongens Enghave,1016376000000,Sigvald Olsens Gade,0,82,40,0
+4226,Indre By,1011136000000,Christianshavns Kanal,0,164,40,0
+4228,Nørrebro,1013920800000,Korsgade,486,569,50,0
+4229,Valby,1017291000000,Sønderkær,0,93,50,0
+4230,Amager Vest,1013570000000,Karen Blixens Vej,0,140,0,0
+4035,Vesterbro-Kongens Enghave,1012772000000,Helgolandsgade,0,274,50,0
+4031,Indre By,1010748000000,Bornholmsgade,0,114,40,0
+4232,Brønshøj-Husum,1013076000000,Humlebjerg,0,196,50,0
+4236,Valby,1014804000000,Monrads Allé,0,438,50,0
+4233,Brønshøj-Husum,1016748000000,Spanagervej,0,53,50,30
+4234,Bispebjerg,1012803010000,Helsingørmotorvejen,0,306,60,0
+4235,Indre By,1018346000000,Wilhelm Marstrands Gade,0,158,50,15
+4239,Bispebjerg,1017396000000,Thoravej,0,167,50,0
+4522,Bispebjerg,1010812000000,Bredelandsvej,0,479,50,30
+4525,Valby,1014022000000,Kulbanevej,0,882,50,0
+4528,Amager Øst,1010056010000,Agnetevej,0,120,40,0
+4529,Amager Vest,1015326000000,Otto Baches  Allé,0,576,50,0
+4264,Østerbro,1011784010000,Fiskedamsgade,0,44,50,0
+4530,Valby,1013180000000,Højbovej,0,250,50,0
+4531,Brønshøj-Husum,1014912000000,Mørkhøjvej,0,666,50,0
+4534,Nørrebro,1013564000000,Kapelvej,0,104,50,0
+4535,Brønshøj-Husum,1013220800000,Højstrupvej,414,951,50,30
+4536,Brønshøj-Husum,1018524000000,Ærtebjergvej,0,321,50,0
+4747,Valby,1016716010000,Solskrænten,0,70,50,30
+4748,Amager Øst,1013316800000,Italiensvej,825,1127,50,0
+4749,Vesterbro-Kongens Enghave,1018823000000,Ben Websters Vej,0,295,50,0
+4750,Vesterbro-Kongens Enghave,1017603300000,Tove Ditlevsens Plads,0,21,15,0
+4751,Vesterbro-Kongens Enghave,1012096000000,Gammel Kongevej,0,342,50,0
+4752,Vesterbro-Kongens Enghave,1017060000000,Stubmøllevej,0,357,40,0
+4753,Vanløse,1012684800000,Havdrupvej,1122,1435,50,30
+4756,Amager Vest,1016684000000,Sognefjordsgade,0,95,50,0
+4758,Indre By,1014100000000,Landemærket,0,292,40,0
+4760,Valby,1014932040000,Nakskovvej,0,68,50,30
+4761,Vesterbro-Kongens Enghave,1012702600000,Havneholmen,0,135,50,0
+4762,Nørrebro,1012590000000,Hans Kirks Vej,0,153,50,0
+4763,Østerbro,1015586310000,Poul Henningsens Plads,0,89,50,30
+4764,Bispebjerg,1012276000000,Granlien,0,114,50,0
+4036,Brønshøj-Husum,1012056000000,Førslevvej,0,95,50,0
+4037,Vanløse,1010048000000,Aggersvoldvej,0,175,50,0
+4038,Indre By,1012120000000,Gammelvagt,0,85,40,0
+4039,Amager Vest,1014588000000,Majporten,0,81,50,30
+4671,Vanløse,1015560000000,Pomonavej,0,152,50,30
+4265,Valby,1010788010000,Bramslykkevej,0,124,50,0
+4040,Vanløse,1017688000000,Tudskærvej,0,581,50,0
+4041,Østerbro,1014340000000,Lindenovsgade,0,192,50,0
+4042,Bispebjerg,1012360000000,Grønnemose Allé,0,920,50,0
+4043,Valby,1011564000000,Engdals Allé,0,411,50,0
+4044,Nørrebro,1010054000000,Agnes Henningsens Vej,0,110,50,0
+4543,Vesterbro-Kongens Enghave,1011376000000,Dybbølsgade,0,340,50,0
+4046,Amager Øst,1010516000000,Birmavej,0,435,40,0
+4049,Indre By,101499232A000,Nikolaj Plads,0,31,40,0
+4241,Amager Øst,1017160800000,Svend Dyrings Vej,115,127,40,30
+4243,Vanløse,1013220000000,Højstrupvej,0,414,50,30
+4244,Bispebjerg,1016876000000,Stenkløvervej,0,224,50,30
+4245,Indre By,1016960000000,Store Strandstræde,0,172,40,0
+4246,Vanløse,1017304000000,Søndervigvej,0,237,50,30
+4247,Bispebjerg,101447602A000,Lyngbyvej,0,114,50,30
+4250,Indre By,1011288000000,Delfingade,0,268,40,0
+4251,Vesterbro-Kongens Enghave,1010404000000,Bavnehøj Allé,0,392,50,30
+4662,Bispebjerg,1016052030000,Ryparken,0,121,50,30
+4663,Amager Vest,1011772000000,Finlandsgade,0,334,50,0
+4665,Valby,1012764000000,Heldbovej,0,364,50,0
+4255,Amager Vest,1012536000000,Hallandsgade,0,214,50,0
+4252,Valby,1013872000000,Kongshaven,0,871,40,0
+4537,Vanløse,1013464000000,Jyllingevej,0,963,50,0
+4538,Amager Vest,1012224000000,Gladiolusvej,0,278,50,0
+4539,Vesterbro-Kongens Enghave,1015240030000,Oehlenschlægersgade,0,33,50,0
+4540,Østerbro,1017123000000,Sundkrogen,0,104,50,0
+4541,Bispebjerg,1014900000000,Møllerlodden,0,97,50,30
+4542,Bispebjerg,1010636000000,Blåmejsevej,0,144,40,30
+4080,Amager Øst,1017024000000,Strickersvej,0,82,50,0
+4253,Nørrebro,1014892000000,Møllegade,0,585,50,0
+4544,Nørrebro,1015692000000,Ragnhildgade,0,298,50,0
+4545,Brønshøj-Husum,1017372020000,Tersløsevej,0,109,50,30
+4546,Bispebjerg,1011524000000,Emdrup Engvej,0,215,50,30
+4548,Indre By,1011044000000,Børsgade,0,264,50,0
+4549,Østerbro,1016542000000,Skudehavnsvej,0,486,50,0
+4551,Valby,1012180000000,Gerdasgade,0,126,50,0
+4655,Østerbro,1014147000000,Langeliniekaj,0,894,40,0
+4657,Østerbro,1017996000000,Vardegade,0,274,50,0
+4658,Valby,1015728000000,Rasmus Rasks Vej,0,120,50,0
+4659,Brønshøj-Husum,1012890010000,Hillerødmotorvejen,4660,5096,70,0
+4660,Indre By,1018240000000,Vester Søgade,0,758,50,0
+4666,Østerbro,1011472000000,Ehlersvej,0,460,50,30
+4667,Amager Vest,1017196000000,Svinget,0,120,50,0
+4668,Indre By,1011162000000,Churchillparken,0,169,50,0
+4570,Amager Vest,1010712000000,Borgerbo,0,74,50,0
+4050,Vesterbro-Kongens Enghave,1015816000000,Reventlowsgade,0,408,50,0
+4051,Vesterbro-Kongens Enghave,101254433B000,Halmtorvet,0,160,50,0
+4052,Østerbro,1015648010000,Præstøgade,0,34,50,0
+4053,Indre By,1017100000000,Suhmsgade,0,59,40,0
+4055,Bispebjerg,1013036000000,Horserødvej,0,308,50,0
+4057,Bispebjerg,1011716000000,Falkevej,0,117,40,0
+4059,Vanløse,1012936000000,Hjertingvej,0,277,50,0
+4061,Bispebjerg,1015972000000,Rosmarinvej,0,80,50,30
+4063,Vanløse,1012888000000,Hillerødgade,0,381,40,0
+4065,Vanløse,1011464000000,Egholmvej,0,867,50,0
+4254,Vesterbro-Kongens Enghave,1013812000000,Knud Lavards Gade,0,95,50,0
+4256,Amager Øst,1015708030000,Ramundsvej,0,85,40,0
+4257,Valby,1011408000000,Dæmningen,0,122,50,30
+4258,Amager Øst,1015396010000,Pallesvej,0,84,40,0
+4260,Vanløse,1012160320000,Genforeningspladsen,0,449,50,0
+4261,Amager Vest,1015046000000,Nordre Kongelundsvej,0,279,50,0
+4775,Indre By,1014024320000,Kultorvet,0,32,15,0
+4262,Valby,1015092000000,Nybovej,0,313,50,30
+4263,Vesterbro-Kongens Enghave,1016412030000,Sjælør Boulevard,0,46,40,0
+4266,Vesterbro-Kongens Enghave,1017020000000,Straussvej,0,279,40,0
+4268,Vesterbro-Kongens Enghave,1010090000000,Alliancevej,0,92,50,0
+4269,Bispebjerg,1013328000000,Jacob Lindbergs Vej,0,120,50,30
+4270,Bispebjerg,1010796000000,C. J. Brandts Vej,0,168,50,0
+4271,Bispebjerg,1015260000000,Oldfuxvej,0,54,50,0
+4272,Vesterbro-Kongens Enghave,1012096010000,Gammel Kongevej,0,43,50,0
+4552,Amager Øst,1015836000000,Ridder Stigs Vej,33,343,40,0
+4553,Vesterbro-Kongens Enghave,1015664020000,Thomas Koppels Allé,0,76,40,30
+4554,Amager Vest,1014096000000,Landehjælpvej,0,269,50,0
+4555,Amager Vest,1010288000000,Axel Heides Gade,0,246,50,0
+4556,Indre By,1013956000000,Kristen Bernikows Gade,0,122,40,0
+4558,Amager Øst,1015072000000,Normandigade,0,106,50,0
+4559,Nørrebro,1010760000000,Borups Allé,0,623,50,0
+4560,Indre By,1011056000000,Bådsmandsstræde,0,146,40,0
+4561,Østerbro,1015752000000,Rebekkavej,0,399,50,0
+4562,Vanløse,1015712000000,Randbølvej,0,186,50,0
+4564,Nørrebro,1017272000000,Søllerødgade,0,295,50,0
+4565,Amager Øst,1012288010000,Greisvej,0,327,50,30
+4566,Nørrebro,1014790000000,Mjølnerparken,0,469,50,30
+4567,Bispebjerg,1014056000000,Kæmnervej,0,27,50,40
+4711,Brønshøj-Husum,1016884000000,Stenlillevej,0,197,50,0
+4712,Østerbro,1010784000000,Brammingegade,0,90,50,0
+4713,Indre By,1014138000000,Langebro,0,250,50,0
+4714,Bispebjerg,1014908800000,Møntmestervej,352,566,50,0
+4715,Amager Øst,1011620050000,Engvej,0,32,40,0
+4083,Amager Øst,1018176010000,Vermlandsgade,0,45,50,0
+4716,Valby,1011816000000,Flidsagervej,0,185,50,0
+4718,Vesterbro-Kongens Enghave,1012136000000,Gasværksvej,0,372,50,0
+4719,Valby,1018352000000,Vilhelm Topsøes Vej,0,81,50,0
+4722,Amager Øst,1017376000000,Theisvej,0,250,50,0
+4726,Vanløse,1017736000000,Tyborøn Allé,0,603,50,0
+4723,Indre By,1013546000000,Kanonbådsvej,0,355,50,0
+4724,Amager Øst,1018072000000,Ved Kløvermarken,0,96,50,0
+4727,Indre By,1014682000000,Masteskursvej,0,136,50,0
+4066,Bispebjerg,1011328000000,Drejervej,0,74,50,0
+4068,Vesterbro-Kongens Enghave,1018204020000,Vesterbrogade,0,45,50,0
+4070,Bispebjerg,1017684040000,Tuborgvej,2109,2195,50,30
+4069,Indre By,1010912000000,Bryghusgade,0,107,40,0
+4072,Indre By,1015520000000,Pilestræde,0,460,40,0
+4073,Vesterbro-Kongens Enghave,1016322000000,Sejlklubvej,0,335,50,0
+4074,Indre By,1018116010000,Ved Volden,0,62,40,0
+4075,Brønshøj-Husum,1010208010000,Arildsgård,0,185,50,0
+4076,Nørrebro,1016864000000,Stengade,0,119,40,0
+4078,Brønshøj-Husum,1012572000000,Hampeland,0,219,50,0
+4079,Amager Øst,1010268000000,Athensvej,0,374,50,30
+4725,Brønshøj-Husum,1010100000000,Alstedvej,0,210,50,0
+4081,Valby,1010184000000,Ansgars Allé,0,141,50,0
+4082,Amager Øst,1016400000000,Sixtusvej,0,244,50,0
+4273,Valby,1018656000000,Åhaven,0,376,40,0
+4274,Nørrebro,1014012000000,Krügersgade,0,74,50,30
+4275,Indre By,1016948000000,Store Kongensgade,0,1179,50,0
+4276,Amager Vest,1012578000000,Hannemanns Allé,0,692,50,0
+4277,Vanløse,1015180310000,Nørager Plads,0,63,50,0
+4278,Bispebjerg,1012232000000,Glasvej,0,302,50,0
+4279,Brønshøj-Husum,1018328000000,Vikkevangen,0,80,50,30
+4280,Bispebjerg,1015764000000,Rebslagervej,0,224,50,0
+4281,Valby,1014072050000,Kærskiftevej,0,87,50,30
+4282,Brønshøj-Husum,1013744000000,Klintevej,0,33,50,30
+4284,Amager Vest,1017692000000,Tuelandsvej,0,319,50,0
+4285,Indre By,1017064000000,Studiestræde,0,345,40,0
+4286,Amager Vest,1011093000000,Center Boulevard,0,1665,60,0
+4568,Indre By,1018340000000,Wildersgade,0,601,40,0
+4298,Brønshøj-Husum,1014348000000,Lindholmsvej,0,299,50,0
+4300,Indre By,1018304000000,Wiedeweltsgade,0,202,50,15
+4569,Bispebjerg,1012236000000,Glentevej,0,696,40,0
+4571,Indre By,1011944010000,Frederiksgade,0,126,40,0
+4572,Vesterbro-Kongens Enghave,1013396000000,Jerichausgade,0,197,15,0
+4573,Vanløse,1012020000000,Fuglsang Allé,0,147,50,0
+4574,Amager Øst,1012836000000,Herjedalgade,0,149,50,0
+4576,Brønshøj-Husum,1013460000000,Jyderupvej,0,143,50,0
+4577,Valby,1014504000000,Lyshøj Allé,0,389,50,0
+4765,Indre By,1011132000000,Christians Brygge,0,773,50,0
+4766,Vesterbro-Kongens Enghave,1016260000000,Sankt Jørgens Allé,0,141,50,0
+4767,Amager Vest,1012950000000,Hjulmagerstien,0,159,20,0
+4768,Bispebjerg,1015308000000,Orgelbyggervej,0,221,50,0
+4769,Amager Øst,1014728000000,Messinavej,0,312,40,0
+4770,Valby,1010996000000,Bykildevej,0,108,50,0
+4771,Indre By,1017328310000,Søtorvet,0,76,50,0
+4772,Amager Øst,1010296000000,Backersvej,0,1999,50,0
+4774,Nørrebro,1015004000000,Nordbanegade,0,300,50,0
+3762,Østerbro,1016384000000,Silkeborggade,0,491,50,0
+3763,Østerbro,1016200000000,Samsøgade,0,180,40,0
+3765,Indre By,1018339000000,Wildersbro,0,29,20,0
+3766,Brønshøj-Husum,1016426000000,Skansebjerg,0,127,50,30
+4317,Vanløse,1013264000000,Indertoften,0,139,50,0
+3767,Vesterbro-Kongens Enghave,1017352000000,Teglholmsgade,0,974,50,0
+3768,Indre By,1018592000000,Østergade,0,363,15,0
+3770,Amager Øst,1011516000000,Elselillevej,0,101,50,0
+3771,Bispebjerg,1014896000000,Møllegårdsvej,0,168,50,0
+3772,Vanløse,1016800000000,Stadilvej,0,237,50,0
+3773,Valby,1014464010000,Lykkebovej,0,143,50,0
+3774,Bispebjerg,1014476020000,Lyngbyvej,0,1137,60,0
+3775,Østerbro,1015952000000,Rosenvængets Hovedvej,0,425,50,30
+3776,Amager Vest,1015064020000,Norgesgade,0,168,0,0
+4287,Amager Øst,1010488000000,Biens Allé,0,245,50,30
+4288,Brønshøj-Husum,1014916000000,Mågestien,0,48,50,0
+4289,Indre By,1014444000000,Lundsgade,0,193,40,30
+4290,Brønshøj-Husum,1016028000000,Ruten,0,521,60,0
+4291,Indre By,1013803000000,Knippelsbro,0,127,50,0
+4292,Vesterbro-Kongens Enghave,1018206300000,Vesterbros Torv,0,130,50,0
+4293,Indre By,1017572000000,Tornebuskegade,0,94,40,0
+4296,Amager Øst,1014660000000,Marsalavej,0,272,40,0
+4303,Valby,1016212000000,Sandhusvej,0,240,50,0
+4301,Bispebjerg,1014420000000,Lundedalsvej,0,180,50,0
+4302,Amager Vest,1018541050000,Ørestads Boulevard,0,53,50,0
+3842,Østerbro,1015227000000,Oceanvej,0,965,50,0
+4318,Valby,1014932020000,Nakskovvej,0,68,50,30
+4578,Bispebjerg,1013024000000,Horsebakken,0,855,50,0
+4580,Indre By,1014992310000,Nikolaj Plads,0,65,40,0
+4581,Vesterbro-Kongens Enghave,1015436000000,Pasteursvej,0,111,50,0
+4582,Østerbro,1013332000000,Jagtvej,0,127,50,0
+4583,Østerbro,1013008800000,Holsteinsgade,569,668,50,0
+4584,Bispebjerg,1013152000000,Hyrdevangen,0,290,50,30
+4585,Nørrebro,1011696000000,Ewaldsgade,0,144,50,30
+4586,Amager Vest,1010472000000,Bergthorasgade,0,452,50,30
+4587,Indre By,1016970000000,Stormbroen,0,34,50,0
+4588,Vanløse,1013120040000,Hvidkildevej,0,64,50,0
+4589,Brønshøj-Husum,1010156000000,Andestien,0,108,40,0
+4590,Nørrebro,1016372000000,Sigurdsgade,0,438,50,0
+4591,Nørrebro,1010764300000,Borups Plads,0,181,50,0
+4592,Amager Øst,1015576000000,Portugalsgade,0,79,15,0
+4593,Amager Øst,1013632000000,Keplersgade,0,229,50,0
+3833,Amager Vest,1017112000000,Sundbyvestervej,0,426,50,0
+3834,Indre By,1018060000000,Ved Kanalen,0,66,50,0
+3835,Østerbro,1012860000000,Herninggade,0,173,50,0
+3836,Indre By,1010684000000,Boldhusgade,0,59,40,0
+3837,Østerbro,1014664000000,Marskensgade,0,242,50,30
+3839,Indre By,1014704000000,Meldahlsgade,0,130,50,0
+4380,Vesterbro-Kongens Enghave,1010164000000,Angelgade,0,130,50,40
+3840,Amager Øst,1012872000000,Hessensgade,0,494,50,0
+3841,Amager Øst,1018124000000,Weimargade,0,83,50,0
+3843,Amager Øst,1017106000000,Sundby Parkvej,0,166,20,0
+3844,Vanløse,1018392000000,Vinkelager,0,251,50,0
+3846,Valby,1010584000000,Bjerregårdsvej,0,350,50,30
+3847,Østerbro,1018416000000,Vognmandsmarken,0,48,40,0
+3851,Valby,1018388000000,Vinhaven,0,443,40,0
+3849,Vanløse,1016788000000,Spøttrupvej,0,229,50,0
+3777,Østerbro,1016040100000,Ryesgade,0,40,40,30
+3778,Østerbro,1018572000000,Østbanegade,0,2072,50,0
+3781,Indre By,1017284000000,Sønderborggade,0,86,50,0
+3783,Indre By,1016404000000,Sjæleboderne,0,95,40,0
+3784,Vanløse,1010512800000,Birkholmvej,236,450,50,0
+3787,Amager Øst,1016356000000,Siciliensgade,0,98,50,0
+3788,Vesterbro-Kongens Enghave,1014944000000,Natalie Zahles Vej,0,245,50,30
+4305,Vanløse,1013116000000,Hvidbjergvej,0,97,50,0
+4307,Amager Øst,1010110400000,Amagerbro Torv,0,41,50,0
+4309,Amager Øst,1018516000000,Æginavej,0,237,50,30
+4310,Indre By,1016940000000,Store Kannikestræde,0,213,40,0
+3801,Østerbro,1015768000000,Reersøgade,0,206,40,0
+3854,Vanløse,1016480000000,Skjulhøj Allé,0,334,50,0
+4316,Brønshøj-Husum,1016764000000,Sparresholmvej,0,188,50,30
+4311,Amager Øst,1012984000000,Holmbladsgade,0,1534,50,0
+4313,Brønshøj-Husum,1015156020000,Næsbyholmvej,0,57,50,0
+4314,Vanløse,1014772000000,Mimosavej,0,143,50,30
+4315,Bispebjerg,1015764010000,Rebslagervej,0,47,50,0
+4357,Østerbro,1016252000000,Sankt Jakobs Gade,0,101,50,0
+4358,Nørrebro,1017032000000,Struenseegade,0,50,15,0
+4359,Brønshøj-Husum,1014560000000,Løvetandsvej,0,316,50,30
+4360,Brønshøj-Husum,1011964010000,Frederikssundsvej,0,220,50,0
+4362,Indre By,1018364000000,Vimmelskaftet,0,149,15,0
+4363,Vesterbro-Kongens Enghave,1017768000000,Tømmergravsgade,0,503,50,0
+4364,Brønshøj-Husum,1014746000000,Midtfløjene,0,263,50,30
+3790,Vanløse,1011244000000,Damhusdæmningen,0,318,50,0
+4366,Bispebjerg,1013208000000,Højmosevej,0,417,50,30
+4367,Valby,1014884000000,Mølle Allé,0,270,50,0
+4368,Amager Vest,1015672000000,Pæonvej,0,299,50,0
+4369,Østerbro,1014586000000,Major Anders Lassens Vej,0,364,50,0
+3852,Nørrebro,1010366000000,Banevingen,0,212,50,0
+3853,Vesterbro-Kongens Enghave,1012556000000,Hammelstrupvej,0,1091,40,0
+4378,Valby,1017912000000,Valby Langgade,0,465,50,0
+3855,Amager Vest,1018080000000,Ved Linden,0,173,50,0
+3856,Indre By,1018432000000,Voldgården,0,88,50,0
+3859,Indre By,1014280000000,Lille Kannikestræde,0,55,40,0
+3860,Amager Vest,1012480000000,Gårdfæstevej,0,235,50,0
+3861,Vanløse,1014336000000,Lindenborgvej,0,86,50,0
+3862,Amager Øst,1014764000000,Milosvej,0,219,50,30
+3863,Nørrebro,1017428000000,Thyrasgade,0,124,50,0
+3864,Indre By,1016152350000,Rådhuspladsen,0,28,50,0
+3865,Amager Øst,1011880400000,Formosavej,0,67,50,0
+3869,Bispebjerg,1011100000000,Charlotte Muncks Vej,0,117,50,0
+3867,Amager Vest,1018084000000,Ved Mønten,0,132,50,0
+3868,Østerbro,1012438300000,Gunner Nu Hansens Plads,0,304,50,30
+3870,Vanløse,1014064000000,Kærholmen,0,152,50,0
+3789,Brønshøj-Husum,1012144000000,Gavlhusvej,0,447,50,40
+3791,Indre By,1013380000000,Jens Kofods Gade,0,98,50,0
+3793,Amager Vest,1012591000000,Hans Hedtofts Gade,0,171,50,0
+3794,Amager Vest,1010288020000,Axel Heides Gade,0,117,50,0
+3795,Brønshøj-Husum,1013104000000,Hvalsøvej,0,261,50,30
+3796,Bispebjerg,1013124000000,Hvidkløvervej,0,213,50,30
+3797,Vanløse,1013400000000,Jernbane Allé,0,1157,50,0
+3798,Indre By,1015212000000,Nørre Søgade,0,573,50,0
+3799,Valby,1010966000000,Buster Larsens Vej,0,150,40,0
+3800,Østerbro,1015228000000,Odensegade,0,305,50,0
+3802,Bispebjerg,1010536310000,Bispebjerg Torv,0,103,50,0
+4319,Indre By,1011128300000,Christiansborg Slotsplads,0,246,50,0
+4321,Bispebjerg,1018224000000,Vestergårdsvej,0,316,40,0
+4322,Brønshøj-Husum,1016936000000,Storegårdsvej,0,254,50,0
+4323,Bispebjerg,1015176000000,Nøkkerosevej,0,77,50,0
+4324,Bispebjerg,1013624000000,Keldsøvej,0,352,50,30
+4334,Vanløse,1012892010000,Himmerlandsvej,0,51,50,0
+4326,Valby,1011084000000,Carl Torps Vej,0,68,50,0
+3817,Indre By,1017328300000,Søtorvet,0,137,50,0
+4325,Indre By,1011204000000,Dag Hammerskjölds Allé,0,482,50,0
+4327,Vanløse,1014808000000,Montagnevej,0,166,50,30
+4329,Valby,1018156000000,Vennely Allé,0,138,50,0
+4331,Nørrebro,1013938400000,Krakas Plads,0,81,50,0
+4332,Østerbro,1010908800000,Bryggervangen,246,522,40,0
+4333,Østerbro,1018132000000,Vejlegade,0,115,50,0
+4371,Vesterbro-Kongens Enghave,1016432000000,Skelbækgade,0,357,50,0
+4372,Vanløse,1012376000000,Grønvangen,0,96,50,0
+4373,Vesterbro-Kongens Enghave,1010852000000,Broagergade,0,85,50,0
+4374,Amager Vest,1015350000000,Ove Arups Vej,0,355,50,0
+4377,Vanløse,1013140000000,Hyltebjerg Allé,0,1063,50,0
+4379,Indre By,1014143000000,Langelinie Allé,0,228,40,0
+4381,Bispebjerg,1012156020000,Gemmet,0,69,50,30
+4383,Valby,1016488000000,Skolegade,0,113,50,30
+4384,Amager Øst,1011292000000,Delosvej,0,307,50,0
+3813,Indre By,1018086000000,Ved Norgesporten,0,171,0,0
+4385,Vanløse,1011172000000,Clausholmvej,0,483,50,0
+3873,Østerbro,1014124010000,Landskronagade,0,50,40,0
+3874,Østerbro,1013384000000,Jens Munks Gade,0,181,50,0
+3818,Indre By,1013156000000,Hyskenstræde,0,107,40,0
+3819,Bispebjerg,1012300000000,Gribskovvej,0,190,50,0
+7657,Østerbro,1017124000000,Sundkrogsgade,0,1077,0,0
+3875,Østerbro,1018356000000,Willemoesgade,0,727,50,0
+3877,Amager Øst,1014344000000,Lindgreens Allé,0,321,50,0
+3878,Østerbro,1013056000000,Hovgaardsgade,0,76,50,0
+3879,Nørrebro,1011924000000,Frederik VII's Gade,0,92,50,0
+3880,Brønshøj-Husum,1011556000000,Enemærket,0,156,50,0
+3882,Bispebjerg,1018288000000,Vibevej,0,327,40,0
+3883,Amager Øst,1016952000000,Store Mølle Vej,0,339,50,0
+3884,Amager Vest,1010980000000,Byglandsgade,0,156,50,0
+3885,Valby,1014116000000,Landlystvej,0,377,50,0
+3886,Valby,1017596000000,Torvekanten,0,87,50,0
+3804,Vanløse,1014812000000,Morbærvej,0,143,50,30
+3808,Indre By,1012640000000,Haregade,0,205,40,0
+3809,Nørrebro,1010248520000,Asnæsgade (sydlige),0,52,50,0
+3810,Vesterbro-Kongens Enghave,1018008040000,Vasbygade,6,304,40,0
+3811,Østerbro,1018068000000,Ved Klosteret,0,176,40,0
+3812,Indre By,1012112000000,Gammeltoftsgade,0,239,40,0
+3814,Indre By,1015772020000,Refshalevej,0,549,50,0
+3815,Valby,101768601A000,Tudsemindevej,0,145,0,0
+3816,Bispebjerg,1011528000000,Emdrupgårdsvej,0,215,50,30
+3803,Vesterbro-Kongens Enghave,1017780000000,Tøndergade,0,188,40,0
+7567,Vesterbro-Kongens Enghave,1011890000000,Fragtvej,0,596,0,0
+7568,Vesterbro-Kongens Enghave,1011890000000,Fragtvej,0,596,50,0
+7641,Nørrebro,1014236010000,Lersø Parkalle,0,0,50,30
+7642,Indre By,1015772030000,Refshalevej,0,978,50,0
+7643,Indre By,1015772030000,Refshalevej,0,978,50,0
+7644,Indre By,1015772030000,Refshalevej,0,978,0,0
+7645,Østerbro,1013518000000,Kalkbrænderiløbskaj,0,843,50,0
+7658,Østerbro,1017124000000,Sundkrogsgade,0,1077,50,0
+7621,Nørrebro,1016378000000,Sigynsgade,0,0,0,0
+7622,Østerbro,1011984300000,Fridtjof Nansens Plads,0,0,50,0
+7623,Østerbro,1011984300V00,Fridtjof Nansens Plads,0,0,50,0
+7587,Vanløse,1010380000000,Bangsbovej,0,210,50,0
+7588,Vanløse,1010380000000,Bangsbovej,0,210,50,30
+7589,Vanløse,1017984000000,Vanløse Allé,0,575,50,30
+7590,Vanløse,1017984000000,Vanløse Allé,0,575,50,0
+7591,Indre By,1012700000000,Havnegade,0,775,40,0
+7716,Vesterbro-Kongens Enghave,1012772000000,Helgolandsgade,0,274,50,0
+7592,Indre By,1012700000000,Havnegade,0,775,50,0
+7581,Indre By,1015112010000,Nyhavn,0,451,40,0
+7582,Indre By,1015112010000,Nyhavn,0,451,15,0
+7583,Nørrebro,1010628000000,Blågårdsgade,0,539,50,0
+7732,Amager Vest,1017546000000,Tomatvej,0,0,30,0
+7584,Nørrebro,1010628000000,Blågårdsgade,0,539,15,0
+7585,Amager Vest,1017472000000,Tingvej,0,739,50,40
+7586,Amager Vest,1017472000000,Tingvej,0,739,50,0
+7620,Nørrebro,1016378000000,Sigynsgade,0,0,50,0
+7554,Vesterbro-Kongens Enghave,1015328000000,Otto Busses vej,0,1068,50,30
+7555,Vesterbro-Kongens Enghave,1015328000000,Otto Busses vej,0,1068,50,0
+7556,Amager Øst,1015912800000,Roselillevej,362,589,40,30
+7557,Amager Øst,1015912800000,Roselillevej,362,589,40,0
+7558,Amager Øst,1015912000000,Roselillevej,0,361,40,0
+7559,Amager Øst,1015912000000,Roselillevej,0,361,40,30
+7560,Amager Øst,1015912000000,Roselillevej,0,361,40,0
+7561,Amager Øst,1013936000000,Kraftværksvej,0,1468,50,0
+7562,Amager Øst,1013936000000,Kraftværksvej,0,1468,0,0
+7563,Indre By,1011144000000,Christianshavns Voldgade,0,859,40,0
+7564,Indre By,1011144000000,Christianshavns Voldgade,0,859,0,0
+7565,Indre By,1015364000000,Overgaden Neden Vandet,0,592,0,0
+7566,Indre By,1015364000000,Overgaden Neden Vandet,0,592,40,0
+7662,Østerbro,1012868000000,Hesseløgade,0,547,40,0
+6856,Østerbro,1012868000000,Hesseløgade,0,547,50,0
+7663,Østerbro,1015108000000,Nygårdsvej,273,553,50,0
+7664,Østerbro,1013020000000,Hornemansgade,0,131,40,0
+7050,Østerbro,1013020000000,Hornemansgade,0,131,50,0
+7196,Østerbro,1014984000000,Niels W. Gades Gade,75,148,40,0
+7197,Østerbro,1014984000000,Niels W. Gades Gade,148,228,40,30
+7154,Østerbro,1012752000000,Heisesgade,83,143,40,0
+7666,Østerbro,1017800000000,Tåsingegade,0,729,40,0
+7667,Østerbro,1015348000000,Ourøgade,0,356,50,0
+5969,Østerbro,1015348000000,Ourøgade,0,356,40,0
+6186,Østerbro,1017800000000,Tåsingegade,0,729,40,0
+4064,Valby,1012100000000,Gammel Køge Landevej,0,2285,50,0
+6612,Valby,1012100000000,Gammel Køge Landevej,2285,2456,60,0
+5054,Indre By,1011358000000,Dronning Louises Bro,0,128,40,0
+5563,Brønshøj-Husum,1017704000000,Tunet,0,88,50,30
+7141,Amager Vest,1010232000000,Artillerivej,26,363,50,30
+4098,Valby,1013172000000,Høffdingsvej,0,605,50,40
+4479,Valby,1010280000000,August Wimmers Vej,0,194,50,40
+4523,Valby,1018348000000,Vilhelm Thomsens Allé,0,268,50,40
+5463,Valby,1015704000000,Ramsingsvej,0,434,50,40
+7289,Valby,1014794300000,Mogens Fogs Plads,0,85,50,40
+4842,Bispebjerg,1012132000000,Gartnerivej,0,254,40,0
+7717,Vesterbro-Kongens Enghave,1014276000000,Lille Istedgade,0,89,50,30
+7668,Bispebjerg,1016052000000,Ryparken,0,484,50,40
+3831,Bispebjerg,1016052000000,Ryparken,0,484,50,0
+7669,Østerbro,1015044000000,Nordre Frihavnsgade,0,987,50,0
+7670,Østerbro,1015044000000,Nordre Frihavnsgade,0,987,40,0
+7671,Brønshøj-Husum,1013576000000,Karlslundevej,0,223,50,40
+7681,Indre By,1018252800000,Vester Voldgade,230,863,50,0
+7672,Brønshøj-Husum,1016644000000,Smørumvej,0,1056,50,0
+7673,Brønshøj-Husum,1016644000000,Smørumvej,0,1056,50,0
+7674,Brønshøj-Husum,1016644000000,Smørumvej,0,1056,50,40
+6646,Brønshøj-Husum,1016644000000,Smørumvej,0,1056,50,0
+7261,Brønshøj-Husum,1013576000000,Karlslundevej,0,223,50,0
+4224,Indre By,1015552300000,Polititorvet,0,106,40,0
+4353,Indre By,1018048000000,Ved Glyptoteket,0,164,40,0
+4913,Indre By,1015552310000,Polititorvet,0,62,40,0
+5187,Indre By,1015340310000,Otto Mønsteds Plads,0,54,40,0
+5713,Indre By,1016932000000,Stoltenbergsgade,0,191,40,0
+5727,Indre By,1015660010000,Puggaardsgade,0,47,40,0
+6048,Indre By,1014972000000,Niels Brocks Gade,0,315,40,0
+6472,Indre By,1015660000000,Puggaardsgade,0,292,40,0
+6739,Indre By,1010168000000,Anker Heegaards Gade,0,142,40,0
+6913,Indre By,1011432000000,Edvard Falcks Gade,0,94,40,0
+5764,Indre By,1015340300000,Otto Mønsteds Plads,0,80,40,0
+7675,Indre By,1016056000000,Rysensteensgade,0,230,40,0
+5010,Indre By,1014788000000,Mitchellsgade,0,167,40,0
+4397,Indre By,1011956010000,Frederiksholms Kanal,0,244,40,0
+6229,Indre By,1015602000000,Prinsens Bro,0,34,40,0
+6242,Indre By,1011124000000,Christiansborg Ridebane,0,44,40,0
+7676,Indre By,1015116000000,Ny Kongensgade,0,268,50,0
+7677,Indre By,1011956000000,Frederiksholms Kanal,0,463,40,0
+7679,Indre By,1018252800000,Vester Voldgade,230,863,50,0
+7678,Indre By,                                                                                                                                                                                                                                                              ,Frederiksholms Kanal,0,0,40,0
+6374,Indre By,1017756000000,Tøjhusgade,0,166,30,0
+3807,Indre By,1018252800000,Vester Voldgade,230,863,50,0
+3900,Indre By,1011956000000,Frederiksholms Kanal,0,463,50,0
+5272,Indre By,1015116000000,Ny Kongensgade,0,268,40,0
+7683,Indre By,1017756000000,Tøjhusgade,0,166,40,0
+4048,Indre By,1010292300000,Axeltorv,0,112,40,0
+4240,Indre By,1011216000000,Dahlerupsgade,0,112,40,0
+5495,Indre By,1013404000000,Jernbanegade,0,160,40,0
+6147,Indre By,1015128000000,Nyropsgade,0,670,40,0
+6919,Indre By,1012832000000,Herholdtsgade,0,177,40,0
+7684,Indre By,1017064000000,Studiestræde,345,588,40,0
+7685,Indre By,1014352000000,Linnésgade,220,464,40,0
+7686,Indre By,1016116000000,Rømersgade,0,362,40,0
+7687,Indre By,1018144000000,Vendersgade,0,503,30,0
+4112,Indre By,1010292320000,Axeltorv,0,290,40,0
+4700,Indre By,1016116000000,Rømersgade,0,362,50,0
+6483,Indre By,1018144000000,Vendersgade,0,503,50,0
+7234,Indre By,1017064000000,Studiestræde,345,588,50,0
+7243,Indre By,1014352000000,Linnésgade,220,464,50,0
+7688,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,305,970,50,0
+7689,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,305,970,50,40
+7412,Vesterbro-Kongens Enghave,1015100000000,Ny Carlsberg Vej,305,970,50,0
+7690,Amager Øst,1016952010000,Store Mølle Vej,0,362,50,0
+7691,Amager Øst,1016952010000,Store Mølle Vej,0,362,50,40
+4267,Amager Øst,1016952010000,Store Mølle Vej,0,362,50,0
+7708,Vesterbro-Kongens Enghave,1011260000000,Dannebrogsgade,0,521,50,30
+7692,Amager Øst,1014232000000,Lergravsvej,0,1072,50,0
+7693,Amager Øst,1014232000000,Lergravsvej,0,1072,50,40
+7694,Amager Øst,1017848000000,Ungarnsgade,293,491,50,40
+6936,Amager Øst,1017848000000,Ungarnsgade,293,491,50,0
+4320,Amager Øst,1011196000000,Cypernsvej,0,243,50,0
+5243,Amager Øst,1013944000000,Kretavej,0,240,50,0
+7695,Amager Øst,1012312000000,Grækenlandsvej,0,375,50,30
+6153,Amager Øst,1012312000000,Grækenlandsvej,0,375,50,0
+7696,Amager Øst,1012720000000,Hedegaardsvej,0,992,50,0
+7697,Amager Øst,1012720000000,Hedegaardsvej,0,992,50,40
+4441,Amager Øst,1012720000000,Hedegaardsvej,0,992,50,0
+7698,Vesterbro-Kongens Enghave,1010704000000,Borgbjergvej,0,508,40,0
+7699,Vesterbro-Kongens Enghave,1015504000000,Peter Sabroes Gade,0,297,40,0
+7700,Vesterbro-Kongens Enghave,1012444000000,Gustav Bangs Gade,0,206,40,0
+3782,Vesterbro-Kongens Enghave,1010704000000,Borgbjergvej,0,508,50,0
+4201,Vesterbro-Kongens Enghave,1012444000000,Gustav Bangs Gade,0,206,50,0
+5600,Vesterbro-Kongens Enghave,1015504000000,Peter Sabroes Gade,0,297,50,0
+7701,Vesterbro-Kongens Enghave,1015504000000,Peter Sabroes Gade,0,297,50,0
+7718,Vesterbro-Kongens Enghave,1018332000000,Viktoriagade,0,321,50,0
+7702,Valby,1010592000000,Bjørnsonsvej,0,1035,50,30
+7703,Valby,1017028000000,Strindbergsvej,0,999,50,30
+4045,Valby,1010592000000,Bjørnsonsvej,0,1035,50,0
+7704,Valby,1017636000000,Trekronergade,448,764,50,0
+7705,Valby,1017636000000,Trekronergade,764,1142,50,0
+7464,Valby,1017636000000,Trekronergade,764,1142,50,30
+5428,Vesterbro-Kongens Enghave,1013312000000,Istedgade,0,1140,50,0
+7447,Vesterbro-Kongens Enghave,1010004000000,Abel Cathrines Gade,0,152,50,0
+7706,Vesterbro-Kongens Enghave,1013312000000,Istedgade,0,1140,50,0
+4987,Vesterbro-Kongens Enghave,1011260000000,Dannebrogsgade,0,521,50,30
+4407,Vesterbro-Kongens Enghave,1018200010000,Westend,0,114,50,0
+7350,Vesterbro-Kongens Enghave,1018200000000,Westend,0,244,50,0
+5935,Vesterbro-Kongens Enghave,1010344000000,Ballumgade,0,60,40,0
+7709,Vesterbro-Kongens Enghave,1012716000000,Hedebygade,0,202,50,0
+7710,Vesterbro-Kongens Enghave,1010140000000,Amerikavej,0,215,40,0
+5032,Vesterbro-Kongens Enghave,1010140000000,Amerikavej,0,215,50,0
+7722,Vanløse,1016100000000,Rødkildevej,0,187,50,30
+7711,Vesterbro-Kongens Enghave,1017676000000,Trøjborggade,0,89,40,0
+5924,Vesterbro-Kongens Enghave,1017676000000,Trøjborggade,0,89,50,0
+7712,Vesterbro-Kongens Enghave,1013312000000,Istedgade,0,1140,50,30
+7713,Vesterbro-Kongens Enghave,1011180000000,Colbjørnsensgade,0,303,50,30
+7714,Vesterbro-Kongens Enghave,1011180000000,Colbjørnsensgade,0,303,50,0
+5040,Vesterbro-Kongens Enghave,1011180000000,Colbjørnsensgade,0,303,50,0
+7715,Vesterbro-Kongens Enghave,1012772000000,Helgolandsgade,0,274,50,30
+7719,Vesterbro-Kongens Enghave,1018332000000,Viktoriagade,0,321,50,30
+4820,Vesterbro-Kongens Enghave,1014276000000,Lille Istedgade,0,89,50,0
+7720,Vesterbro-Kongens Enghave,1010004000000,Abel Cathrines Gade,0,152,50,0
+7721,Vesterbro-Kongens Enghave,1010004000000,Abel Cathrines Gade,152,262,50,0
+5514,Østerbro,1016692000000,Soldalen,0,150,50,30
+6320,Vesterbro-Kongens Enghave,1014876000000,Mysundegade,0,171,50,30
+6030,Vanløse,1016100000000,Rødkildevej,0,187,50,0
+4615,Amager Vest,1017388000000,Thingvalla Allé,0,560,50,0
+7724,Amager Vest,1012204000000,Gimles Allé,0,193,50,30
+7726,Amager Øst,1016640000000,Smyrnavej,0,269,50,30
+7727,Amager Øst,1015896800000,Rodosvej,251,519,50,0
+5580,Amager Øst,1016640000000,Smyrnavej,0,269,50,0
+5884,Amager Vest,1012204000000,Gimles Allé,0,193,50,0
+6287,Amager Vest,1013276000000,Ingolfs Allé,0,559,50,0
+7400,Amager Øst,1015896800000,Rodosvej,251,519,50,30
+7728,Amager Vest,1017388000000,Thingvalla Allé,0,560,40,0
+7729,Amager Vest,1013276000000,Ingolfs Allé,0,559,40,0
+7723,Amager Vest,1017388000000,Thingvalla Allé,0,560,50,30
+7725,Amager Vest,1013276000000,Ingolfs Allé,0,559,50,30
+6993,Amager Vest,1013288000000,Irlandsvej,148,748,50,40
+7730,Amager Vest,1013288000000,Irlandsvej,0,148,50,40
+6994,Amager Vest,1013288000000,Irlandsvej,0,148,50,0
+7523,Amager Vest,1015384000000,Oxford Allé,116,562,50,0
+7532,Amager Vest,1012024000000,Funkiavej,0,559,50,30
+7736,Amager Vest,1016504300000,Skotlands Plads,222,341,50,40
+7737,Amager Vest,1016504300000,Skotlands Plads,0,119,50,30
+7065,Amager Vest,1016504300000,Skotlands Plads,222,341,50,30
+5866,Amager Vest,1017120000000,Sundholmsvej,0,981,50,0
+7762,Vesterbro-Kongens Enghave,0041093000000,Teglværksbroen,0,0,40,0
+7739,Valby,1018322000000,Vigerslev Vænge,0,0,50,0
+7740,Valby,1018322000000,Vigerslev Vænge,0,0,50,30
+5930,Vanløse,1013136000000,Hyldebærvej,0,226,50,30
+4911,Vanløse,1010444000000,Bellahøjvej,0,1986,50,0
+7805,Østerbro,1015044000000,Nordre Frihavnsgade,0,987,50,0
+5740,Østerbro,1015044000000,Nordre Frihavnsgade,0,987,50,0
+7731,Amager Vest,1017546000000,Tomatvej,0,0,50,40
+7806,Østerbro,1015044000000,Nordre Frihavnsgade,0,987,1000,0
+3858,Valby,1010400000000,Bavnagervej,0,323,50,30
+5305,Valby,1014072010000,Kærskiftevej,0,64,50,30
+5877,Valby,1014072110000,Kærskiftevej,0,236,50,30
+5247,Vesterbro-Kongens Enghave,1017116000000,Sundevedsgade,0,208,40,0
+7743,Brønshøj-Husum,1010100000000,Alstedvej,0,210,50,30
+7744,Brønshøj-Husum,1010100000000,Alstedvej,0,210,50,0
+7745,Vanløse,1018512000000,Æblevej,485,739,50,0
+7746,Vanløse,1018512000000,Æblevej,485,739,50,30
+7747,Vanløse,1018512000000,Æblevej,485,739,50,0
+7012,Vanløse,1018512000000,Æblevej,485,739,50,0
+5394,Amager Vest,1016718000000,Soltoftevej,0,180,50,30
+5536,Amager Vest,1016006000000,Rugagervej,0,190,50,30
+7749,Vanløse,1010760070000,Borups Allé,0,435,70,0
+7750,Bispebjerg,1010760020000,Borups Allé,0,406,50,0
+4985,Bispebjerg,1010760020000,Borups Allé,0,406,60,0
+5128,Vanløse,1010760070000,Borups Allé,0,435,60,0
+7751,Brønshøj-Husum,1013916000000,Korsager Allé,142,888,50,30
+7752,Brønshøj-Husum,1013916000000,Korsager Allé,142,888,50,0
+7738,Amager Vest,1017120000000,Sundholmsvej,0,981,50,40
+7804,Vanløse,1010444000000,Bellahøjvej,0,1986,50,0
+7803,Vanløse,1010444000000,Bellahøjvej,0,1986,1000,0
+6412,Østerbro,1011908000000,Fredensgade,0,284,60,0
+7753,Bispebjerg,1017336000000,Tagensvej,0,3404,50,0
+5024,Bispebjerg,1017336000000,Tagensvej,0,3404,60,0
+7754,Vesterbro-Kongens Enghave,1011476000000,Ejderstedgade,0,222,50,30
+6518,Vesterbro-Kongens Enghave,1011476000000,Ejderstedgade,0,222,50,0
+4124,Østerbro,1018092000000,Ved Sporsløjfen,0,129,50,30
+7755,Bispebjerg,1015804000000,Rentemestervej,1011,1448,50,30
+6620,Bispebjerg,1015804000000,Rentemestervej,1011,1448,50,0
+7757,Nørrebro,1016378000000,Sigynsgade,0,0,50,40
+7758,Nørrebro,1016378000000,Sigynsgade,0,0,50,0
+7615,Nørrebro,1016378000000,Sigynsgade,0,0,50,0
+7618,Nørrebro,1016378000000,Sigynsgade,0,0,50,0
+7756,Nørrebro,1016378000000,Sigynsgade,0,0,50,40
+7759,Nørrebro,1016240000000,Sankt Hans Gade,40,128,40,0
+6966,Nørrebro,1016240000000,Sankt Hans Gade,40,128,40,30
+7760,Nørrebro,1016240000000,Sankt Hans Gade,128,312,40,0
+7761,Nørrebro,1016240000000,Sankt Hans Gade,128,312,40,0
+7763,Nørrebro,1014892000000,Møllegade,0,585,50,0
+7764,Nørrebro,1014892000000,Møllegade,0,585,50,30
+7769,Amager Øst,1011620000000,Engvej,426,1777,1000,0
+7779,Amager Vest,1016096000000,Røde Mellemvej,0,1580,50,0
+7780,Indre By,1018588000000,Øster Farimagsgade,0,1337,50,0
+7020,Nørrebro,1012404000000,Guldbergsgade,198,1087,50,30
+7765,Bispebjerg,1017548000000,Tomsgårdsvej,0,946,50,0
+4533,Bispebjerg,1017548000000,Tomsgårdsvej,0,946,60,0
+7766,Amager Vest,1011600000000,Englandsvej,0,2023,50,0
+6516,Amager Vest,1011600000000,Englandsvej,0,2023,50,0
+7770,Amager Øst,1011620000000,Engvej,426,1777,50,0
+6807,Amager Øst,1011620000000,Engvej,426,1777,50,0
+7771,Indre By,1011204000000,Dag Hammerskjölds Allé,0,482,1000,0
+7772,Indre By,1011204000000,Dag Hammerskjölds Allé,0,482,50,0
+4304,Amager Vest,1016096000000,Røde Mellemvej,0,1580,40,0
+7767,Amager Vest,1011600000000,Englandsvej,0,2023,50,0
+7774,Amager Vest,1016096000000,Røde Mellemvej,0,1580,50,0
+7773,Amager Vest,1011600000000,Englandsvej,0,2023,1000,0
+7741,Valby,                                                                                                                                                                                                                                                              ,Vigerslev Allé,0,0,50,0
+7768,Østerbro,                                                                                                                                                                                                                                                              ,Lyngbyvej,0,0,50,30
+7748,Vanløse,1012896000000,Hindbærvej,0,0,50,30
+7734,Amager Vest,1018817000000,Løvstikkevej,0,0,50,40
+7742,Valby,                                                                                                                                                                                                                                                              ,Vigerslev Allé,0,0,50,30
+3764,Vesterbro-Kongens Enghave,1017888030000,Wagnersvej,0,48,40,0
+7733,Amager Vest,1015486000000,Persillevej,0,0,50,40
+7735,Amager Vest,1018817000000,Løvstikkevej,0,0,50,0
+3991,Indre By,1018588000000,Øster Farimagsgade,0,1337,50,0
+7783,Vanløse,1018672000000,Ålekistevej,0,2387,50,0
+6401,Vanløse,1018672000000,Ålekistevej,0,2387,50,0
+7785,Valby,1016412000000,Sjælør Boulevard,0,1389,50,0
+7786,Østerbro,1011168000000,Classensgade,0,799,50,0
+6694,Østerbro,1011168000000,Classensgade,0,799,50,0
+5520,Indre By,1014044000000,Kvæsthusgade,0,197,40,30
+7789,Indre By,1017280000000,Sølvgade,0,1123,50,0
+5142,Indre By,1017280000000,Sølvgade,0,1123,50,0
+4137,Indre By,1016272000000,Sankt Pauls Gade,0,189,50,0
+5227,Nørrebro,1016240000000,Sankt Hans Gade,0,20,40,30
+7777,Amager Vest,1016096000000,Røde Mellemvej,0,1580,50,0
+7788,Indre By,1017280000000,Sølvgade,0,1123,1000,0
+7781,Indre By,1018588000000,Øster Farimagsgade,0,1337,1000,0
+7782,Vanløse,1018672000000,Ålekistevej,0,2387,1000,0
+7784,Valby,1016412000000,Sjælør Boulevard,0,1389,1000,0
+7787,Østerbro,1011168000000,Classensgade,0,799,1000,0
+7807,Indre By,1018612000000,Øster Voldgade,0,1213,40,0
+7790,Indre By,1013996000000,Kronprinsessegade,0,953,40,0
+7791,Indre By,1013996000000,Kronprinsessegade,0,953,50,0
+7792,Indre By,1010024000000,Adelgade,0,616,40,0
+7793,Indre By,1010024000000,Adelgade,0,616,50,0
+7794,Indre By,1010716000000,Borgergade,277,865,40,0
+7795,Indre By,1016272000000,Sankt Pauls Gade,0,189,40,0
+6127,Indre By,1010024000000,Adelgade,0,616,40,0
+6470,Indre By,1013996000000,Kronprinsessegade,0,953,40,0
+7796,Indre By,1011916000000,Fredericiagade,0,758,40,0
+7797,Indre By,1011916000000,Fredericiagade,0,758,50,0
+7798,Indre By,1012900000000,Hindegade,0,112,40,0
+4416,Indre By,1012560000000,Hammerensgade,0,119,40,0
+7799,Indre By,1011676000000,Esplanaden,0,500,50,0
+4451,Indre By,1010816000000,Bredgade,0,833,50,0
+7800,Indre By,1013852300000,Kongens Nytorv,0,532,50,0
+5132,Indre By,1013852300000,Kongens Nytorv,0,532,50,0
+7802,Amager Vest,1017120000000,Sundholmsvej,0,981,50,40
+3785,Indre By,1018612000000,Øster Voldgade,0,1213,50,0
+6798,Indre By,1018358000000,William Wains Gade,0,423,40,0
+6361,Valby,1010608000000,Blommehaven,0,59,40,0
+6202,Østerbro,1012768000000,Helgesensgade,0,96,50,30
+7808,Amager Øst,1015784000000,Regitsevej,0,0,40,0
+5358,Amager Øst,1010120040000,Amager Strandvej,0,310,50,0
+7811,Amager Vest,1010688000000,Boltonvej,0,518,50,30
+7812,Amager Vest,1010688000000,Boltonvej,0,518,50,0
+7813,Amager Vest,1010688000000,Boltonvej,0,518,50,30
+7327,Østerbro,1014192000000,Lautrupsgade,0,73,50,0
+4297,Amager Vest,1011224000000,Dalføret,0,182,50,0
+5987,Vesterbro-Kongens Enghave,1012083000000,Gamle Vasbygade,0,185,50,0
+5070,Vesterbro-Kongens Enghave,1011812000000,Flensborggade,0,184,50,0
+7814,Vesterbro-Kongens Enghave,1011588300000,Enghave Plads,0,218,1000,0
+7815,Vesterbro-Kongens Enghave,1011588300000,Enghave Plads,0,218,40,0
+7363,Vesterbro-Kongens Enghave,1012508000000,Haderslevgade,72,185,50,0
+7816,Vesterbro-Kongens Enghave,1011592000000,Enghavevej,0,1046,50,0
+7817,Vesterbro-Kongens Enghave,1011592000000,Enghavevej,0,1046,1000,0
+5281,Vesterbro-Kongens Enghave,1011592000000,Enghavevej,0,1046,50,0
+7355,Vesterbro-Kongens Enghave,1011376000000,Dybbølsgade,340,657,50,40
+4014,Vesterbro-Kongens Enghave,1011588310000,Enghave Plads,0,181,0,0
+7818,Bispebjerg,1011940000000,Frederiksborgvej,0,2976,50,0
+7819,Bispebjerg,1011940000000,Frederiksborgvej,0,2976,1000,0
+6427,Bispebjerg,1011940000000,Frederiksborgvej,0,2976,50,0
+5726,Nørrebro,1014236000000,Lersø Parkallé,0,2183,60,0
+7820,Nørrebro,1014236000000,Lersø Parkallé,0,2183,1000,0
+7821,Nørrebro,1014236000000,Lersø Parkallé,0,2183,60,0
+7778,Amager Vest,1016096000000,Røde Mellemvej,0,1580,40,0
+7801,Amager Vest,1017120000000,Sundholmsvej,0,981,1000,0
