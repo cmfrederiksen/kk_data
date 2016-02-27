@@ -1,4 +1,4 @@
-Dato	Tid	NO2 myg/m3	NOx myg(NO2)/m3	CO mg/m3	O3 myg/m3	PM10(Teom) myg/m3	PM25(Teom) myg/m3	SO2 myg/m3
+Dato	Tid	NO2myg/m3	NOxmyg(NO2)/m3	COmg/m3	O3myg/m3	PM10(Teom)myg/m3	PM25(Teom)myg/m3	SO2myg/m3
 27-02	11-12	46,77	129,78	0,44	22,94	16,45	11,25	2,10
 27-02	10-11	45,86	143,31	0,45	18,16	13,80	9,70	2,74
 27-02	9-10	36,11	93,52	0,41	20,01	10,90	7,15	1,43
